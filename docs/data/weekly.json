@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T11:55:17.870349+00:00",
+  "generated_at": "2026-07-14T12:07:37.377512+00:00",
   "mode": "weekly",
   "window_hours": 168,
   "stacks": {
@@ -29,7 +29,7 @@
         "published_utc": "2026-07-14T08:09:43+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 46.8,
+        "score": 45.8,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "The Business Times \u2014 Singapore",
@@ -75,22 +75,22 @@
         "published_utc": "2026-07-13T13:19:52+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 38.7,
+        "score": 38.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "Private investigation company, managing partner fined over unlawful surveillance of cop",
-        "link": "https://www.straitstimes.com/singapore/courts-crime/private-investigation-company-managing-partner-fined-over-unlawful-surveillance-of-cop",
-        "snippet": "On several occasions, surveillance of the police officer lasted from 7am to midnight.",
+        "title": "Singapore, Brunei share special friendship built on decades of mutual trust: SM Lee",
+        "link": "https://www.straitstimes.com/singapore/politics/singapore-brunei-share-special-friendship-built-on-decades-of-mutual-trust-sm-lee",
+        "snippet": "SM Lee will attend the royal banquet on July 16.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-07-14T10:20:01+00:00",
+        "published_utc": "2026-07-14T12:00:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 35.9,
+        "score": 36.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Straits Times \u2014 Singapore"
@@ -189,21 +189,6 @@
         ]
       },
       {
-        "title": "The Fed\u2019s Christopher Waller Warns of Higher Rates Soon if Inflation Stays High",
-        "link": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html",
-        "snippet": "Christopher J. Waller, a governor at the Federal Reserve, said he needed to see several months of lower inflation data to feel confident about the outlook.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-07-13T17:52:05+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 40.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
         "title": "Red State, Blue Governor: It Could Happen in Iowa. Would It Matter?",
         "link": "https://www.nytimes.com/2026/07/14/us/politics/republican-supermajority-iowa-ohio.html",
         "snippet": "Democrats have real hope for candidates for governor in red states like Iowa and Ohio, but if Republicans seize supermajorities in the legislatures, their power would be limited.",
@@ -219,33 +204,48 @@
         ]
       },
       {
-        "title": "U.S. Workers Are More Productive Than Ever. And That\u2019s Without A.I.",
-        "link": "https://www.nytimes.com/2026/07/14/business/worker-productivity-artificial-intelligence-economy.html",
-        "snippet": "Companies have been getting more out of employees for several years. Tight labor markets, digitization and remote work are among the reasons.",
+        "title": "The Fed\u2019s Christopher Waller Warns of Higher Rates Soon if Inflation Stays High",
+        "link": "https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html",
+        "snippet": "Christopher J. Waller, a governor at the Federal Reserve, said he needed to see several months of lower inflation data to feel confident about the outlook.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-07-14T09:00:54+00:00",
+        "published_utc": "2026-07-13T17:52:05+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 40.8,
+        "score": 39.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "Another warning sign is flashing for tech stocks \u2014 and this one comes from outside the U.S.",
-        "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-        "snippet": "What the link between the Japanese yen and U.S. stocks means for your portfolio.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-07-14T11:40:00+00:00",
+        "title": "Seeking Control of the House, Democrats Try Again in Rural Districts",
+        "link": "https://www.nytimes.com/2026/07/14/us/politics/rural-democrats-midterms.html",
+        "snippet": "Candidates like Beth Macy, author of \u201cDopesick,\u201d have crafted messages based on lifetimes in rural regions. But messages need an audience, and many minds are closed to the party.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-07-14T09:02:01+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 40.0,
+        "score": 39.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Man killed in ICE shooting was not subject of arrest warrant, Maine Sen. King says",
+        "link": "https://www.npr.org/2026/07/14/nx-s1-5891859/man-killed-in-ice-shooting-was-not-subject-of-arrest-warrant-maine-sen-king-says",
+        "snippet": "Federal and state law enforcement officials are investigating the fatal shooting of a 26-year-old Colombian man by federal law enforcement in Biddeford, Maine, Monday morning.",
+        "source_domain": "npr.org",
+        "outlet_name": "NPR \u2014 National",
+        "published_utc": "2026-07-14T09:01:55+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 39.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "NPR \u2014 National"
         ]
       }
     ],
@@ -540,21 +540,6 @@
         ]
       },
       {
-        "title": "Russian Energy Is Now at Ukraine\u2019s Mercy",
-        "link": "https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/",
-        "snippet": "Kyiv\u2019s drone offensive against Russian oil facilities has found a sixth gear.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-07-13T20:10:12+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 34.1,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      },
-      {
         "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
         "link": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
         "snippet": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America\u2019s foreign policy.",
@@ -585,6 +570,21 @@
         ]
       },
       {
+        "title": "Russian Energy Is Now at Ukraine\u2019s Mercy",
+        "link": "https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/",
+        "snippet": "Kyiv\u2019s drone offensive against Russian oil facilities has found a sixth gear.",
+        "source_domain": "foreignpolicy.com",
+        "outlet_name": "Foreign Policy",
+        "published_utc": "2026-07-13T20:10:12+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 33.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Foreign Policy"
+        ]
+      },
+      {
         "title": "How Putin Turned Japan Into a Den of Spies",
         "link": "https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html",
         "snippet": "Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.",
@@ -600,18 +600,18 @@
         ]
       },
       {
-        "title": "Stop Overreacting to China\u2019s Missile Test",
-        "link": "https://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slbm/",
-        "snippet": "It was a milestone for Beijing\u2019s nuclear forces\u2014but not necessarily the provocation many analysts have made it out to be.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-07-13T16:20:51+00:00",
+        "title": "EU rallies dozens of nations to pledge US$1 billion for Gaza recovery fund",
+        "link": "https://www.channelnewsasia.com/world/eu-gaza-recovery-fund-6251651",
+        "snippet": "Few places in the Palestinian territory of over 2 million people have been left unscathed, and the United Nations, World Bank and EU estimate that reconstruction will cost US$70 billion.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-07-14T11:18:00+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 32.8,
+        "score": 32.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Foreign Policy"
+          "CNA \u2014 Singapore"
         ]
       }
     ],
@@ -625,7 +625,7 @@
         "published_utc": "2026-07-14T04:30:59+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 43.6,
+        "score": 43.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Health"
@@ -700,7 +700,7 @@
         "published_utc": "2026-07-13T16:40:43+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 36.9,
+        "score": 36.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Health"
@@ -755,6 +755,21 @@
         ]
       },
       {
+        "title": "Chai Discovery, an A.I. Drug Start-Up, Raises $400 Million",
+        "link": "https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html",
+        "snippet": "The fund-raising values the company at $3.8 billion and underscores investor interest in using artificial intelligence to tackle problems like drug discovery.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-07-14T12:00:43+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 44.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
         "title": "A Robot Army Remakes Ground Warfare in Ukraine",
         "link": "https://www.nytimes.com/2026/07/13/world/europe/ukraine-ground-robots.html",
         "snippet": "They began as supply mules. Now ground robots evacuate the wounded, hold trenches and even do the killing.",
@@ -800,27 +815,12 @@
         ]
       },
       {
-        "title": "AI startup Reflection signs over $1 billion computing deal with Nebius",
-        "link": "https://www.channelnewsasia.com/business/ai-startup-reflection-signs-over-1-billion-computing-deal-nebius-6253326",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-07-14T11:09:42+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 36.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "9 Tips to Get More Out of Google Chat",
-        "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
-        "snippet": "There\u2019s more to Google\u2019s messaging app than you might realize.",
+        "title": "Plex Keeps Getting Worse. Is Jellyfin a Decent Replacement?",
+        "link": "https://www.wired.com/story/plex-keeps-getting-worse-is-jellyfin-a-decent-replacement/",
+        "snippet": "If you want to stream local media, this free and open source media server is just as good as Plex. But if you rely on remote access or live TV, prepare to tinker.",
         "source_domain": "wired.com",
         "outlet_name": "Wired",
-        "published_utc": "2026-07-14T11:30:00+00:00",
+        "published_utc": "2026-07-14T12:00:00+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
         "score": 36.0,
@@ -830,33 +830,33 @@
         ]
       },
       {
-        "title": "Pinwheel launches a retro-inspired landline phone for kids",
-        "link": "https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/",
-        "snippet": "Kid-friendly tech company Pinwheel announced the launch of a new landline phone designed to let children stay connected without the distractions of a smartphone.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-07-14T09:00:00+00:00",
+        "title": "AI vs. robo advisers: How they stack up against each other \u2014and human financial advisers",
+        "link": "https://www.marketwatch.com/story/ai-vs-robo-advisers-how-they-stack-up-against-each-other-and-human-financial-advisers-3132bb3d?mod=mw_rss_topstories",
+        "snippet": "Robo advisers are getting smarter as AI capabilities increase \u2014 but how much control are investors willing to hand over?",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-07-14T12:00:00+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.8,
+        "score": 36.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "TechCrunch"
+          "MarketWatch \u2014 Top Stories"
         ]
       },
       {
-        "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
-        "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
-        "snippet": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
-        "source_domain": "arstechnica.com",
-        "outlet_name": "Ars Technica",
-        "published_utc": "2026-07-14T01:17:14+00:00",
+        "title": "AI startup Reflection signs over $1 billion computing deal with Nebius",
+        "link": "https://www.channelnewsasia.com/business/ai-startup-reflection-signs-over-1-billion-computing-deal-nebius-6253326",
+        "snippet": "",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-07-14T11:09:42+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.4,
+        "score": 35.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Ars Technica"
+          "CNA \u2014 Singapore"
         ]
       }
     ],
@@ -886,7 +886,22 @@
         "published_utc": "2026-07-14T11:38:17+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 50.0,
+        "score": 49.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "What to know about the report.",
+        "link": "https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/inflation-cpi",
+        "snippet": "",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-07-14T10:56:17+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 41.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
@@ -901,37 +916,7 @@
         "published_utc": "2026-07-14T11:04:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 42.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
-        ]
-      },
-      {
-        "title": "What to know about the report.",
-        "link": "https://www.nytimes.com/live/2026/07/14/business/cpi-inflation-warsh-fed/inflation-cpi",
-        "snippet": "",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-07-14T10:56:17+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 42.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "IBM\u2019s stock dives toward worst day in nearly 40 years after the surprise release of an earnings miss",
-        "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
-        "snippet": "IBM\u2019s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-07-14T11:50:00+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 41.0,
+        "score": 40.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "MarketWatch \u2014 Top Stories"
@@ -946,10 +931,25 @@
         "published_utc": "2026-07-14T03:51:12+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 40.5,
+        "score": 39.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "IBM\u2019s stock dives toward worst day in nearly 40 years after the surprise release of an earnings miss",
+        "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+        "snippet": "IBM\u2019s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-07-14T11:50:00+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 38.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "MarketWatch \u2014 Top Stories"
         ]
       },
       {
@@ -961,7 +961,7 @@
         "published_utc": "2026-07-14T10:27:28+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 38.9,
+        "score": 37.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
