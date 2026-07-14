@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T11:47:24.481553+00:00",
+  "generated_at": "2026-07-14T11:55:17.870349+00:00",
   "mode": "weekly",
   "window_hours": 168,
   "stacks": {
@@ -82,21 +82,6 @@
         ]
       },
       {
-        "title": "UK's BBC warns its current funding model is not sustainable",
-        "link": "https://www.channelnewsasia.com/business/uks-bbc-warns-its-current-funding-model-not-sustainable-6253316",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-07-14T11:02:17+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 37.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
         "title": "Private investigation company, managing partner fined over unlawful surveillance of cop",
         "link": "https://www.straitstimes.com/singapore/courts-crime/private-investigation-company-managing-partner-fined-over-unlawful-surveillance-of-cop",
         "snippet": "On several occasions, surveillance of the police officer lasted from 7am to midnight.",
@@ -124,6 +109,21 @@
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Business Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "UK approval for China's mega embassy in London challenged in court by locals",
+        "link": "https://www.channelnewsasia.com/world/uk-china-mega-embassy-challenged-court-locals-6253376",
+        "snippet": "Local residents argue that officials failed to take into account the risk that the new embassy could curtail protests or be used to monitor and intimidate Chinese dissidents.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-07-14T11:42:00+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 35.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
         ]
       }
     ],
@@ -171,21 +171,6 @@
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Another warning sign is flashing for tech stocks \u2014 and this one comes from outside the U.S.",
-        "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-        "snippet": "What the link between the Japanese yen and U.S. stocks means for your portfolio.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-07-14T11:40:00+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 42.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
         ]
       },
       {
@@ -246,6 +231,21 @@
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Another warning sign is flashing for tech stocks \u2014 and this one comes from outside the U.S.",
+        "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
+        "snippet": "What the link between the Japanese yen and U.S. stocks means for your portfolio.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-07-14T11:40:00+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 40.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "MarketWatch \u2014 Top Stories"
         ]
       }
     ],
@@ -555,21 +555,6 @@
         ]
       },
       {
-        "title": "EU rallies dozens of nations to pledge US$1 billion for Gaza recovery fund",
-        "link": "https://www.channelnewsasia.com/world/eu-gaza-recovery-fund-6251651",
-        "snippet": "Few places in the Palestinian territory of over 2 million people have been left unscathed, and the United Nations, World Bank and EU estimate that reconstruction will cost US$70 billion.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-07-14T11:18:00+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 34.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
         "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
         "link": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
         "snippet": "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris. Yet Europe is still a hostage to America\u2019s foreign policy.",
@@ -578,7 +563,7 @@
         "published_utc": "2026-07-14T11:04:35+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 34.0,
+        "score": 33.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
@@ -593,7 +578,7 @@
         "published_utc": "2026-07-13T21:37:02+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 33.2,
+        "score": 33.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
@@ -612,6 +597,21 @@
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Stop Overreacting to China\u2019s Missile Test",
+        "link": "https://foreignpolicy.com/2026/07/13/china-nuclear-missile-test-launch-slbm/",
+        "snippet": "It was a milestone for Beijing\u2019s nuclear forces\u2014but not necessarily the provocation many analysts have made it out to be.",
+        "source_domain": "foreignpolicy.com",
+        "outlet_name": "Foreign Policy",
+        "published_utc": "2026-07-13T16:20:51+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 32.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Foreign Policy"
         ]
       }
     ],
@@ -722,18 +722,18 @@
         ]
       },
       {
-        "title": "5,000 dishonest officials to lose jobs over exam scandal",
-        "link": "https://www.bangkokpost.com/thailand/general/3285862/5000-dishonest-officials-to-lose-jobs-over-exam-scandal",
-        "snippet": "All key suspects in the civil service exam rigging scandal have been arrested, the officials who conspired with them will be charged and exam cheats will lose their jobs, senior officials said on Tuesday.",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-07-14T10:56:00+00:00",
+        "title": "WHO says it has less than half funding needed to fight Ebola",
+        "link": "https://www.channelnewsasia.com/world/who-ebola-outbreak-funding-congo-health-6253201",
+        "snippet": "\"This outbreak requires resources that match the scale of the challenges that we are facing. And this is not a burden DRC can be allowed to carry alone,\" said the head of the WHO's Health Emergencies Programme.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-07-14T11:43:00+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 35.9,
+        "score": 36.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories"
+          "CNA \u2014 Singapore"
         ]
       }
     ],
@@ -793,7 +793,7 @@
         "published_utc": "2026-07-13T13:07:28+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 38.7,
+        "score": 38.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
@@ -806,21 +806,6 @@
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
         "published_utc": "2026-07-14T11:09:42+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 38.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "AI finance startup Flex doubles valuation to about $1.2 billion, source says",
-        "link": "https://www.channelnewsasia.com/business/ai-finance-startup-flex-doubles-valuation-about-12-billion-source-says-6253386",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-07-14T11:37:02+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
         "score": 36.0,
@@ -857,6 +842,21 @@
         "corroboration_count": 1,
         "corroborating_outlets": [
           "TechCrunch"
+        ]
+      },
+      {
+        "title": "SpaceX is gearing up for Starship's 13th test flight later this week",
+        "link": "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
+        "snippet": "This flight will put Starship under higher pressure and test out new Starlink satellites in orbit.",
+        "source_domain": "arstechnica.com",
+        "outlet_name": "Ars Technica",
+        "published_utc": "2026-07-14T01:17:14+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 35.4,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Ars Technica"
         ]
       }
     ],
@@ -901,7 +901,7 @@
         "published_utc": "2026-07-14T11:04:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 44.0,
+        "score": 42.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "MarketWatch \u2014 Top Stories"
@@ -920,6 +920,21 @@
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "IBM\u2019s stock dives toward worst day in nearly 40 years after the surprise release of an earnings miss",
+        "link": "https://www.marketwatch.com/story/ibms-stock-dives-toward-worst-day-in-nearly-40-years-after-the-surprise-release-of-an-earnings-miss-8519741e?mod=mw_rss_topstories",
+        "snippet": "IBM\u2019s stock plunges after a preliminary release of profit and revenue that were well below expectations.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-07-14T11:50:00+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 41.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "MarketWatch \u2014 Top Stories"
         ]
       },
       {
@@ -965,21 +980,6 @@
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Bank of America stock falls despite earnings beat",
-        "link": "https://www.marketwatch.com/story/bank-of-america-stock-falls-despite-earnings-beat-3d4db2b4?mod=mw_rss_topstories",
-        "snippet": "Shares in Bank of America declined in pre-market trading after the banking giant posted a 15% jump in revenue year-on-year.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-07-14T11:37:00+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 35.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
         ]
       }
     ]

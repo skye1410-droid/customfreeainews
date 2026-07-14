@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T11:46:56.256284+00:00",
+  "generated_at": "2026-07-14T11:55:08.147629+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
@@ -29,7 +29,7 @@
         "published_utc": "2026-07-14T08:09:43+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 45.5,
+        "score": 45.4,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "The Business Times \u2014 Singapore",
@@ -45,7 +45,7 @@
         "published_utc": "2026-07-14T11:29:24+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 39.9,
+        "score": 39.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
@@ -60,7 +60,7 @@
         "published_utc": "2026-07-14T00:00:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 37.1,
+        "score": 37.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Business Times \u2014 Singapore"
@@ -84,21 +84,6 @@
         ]
       },
       {
-        "title": "Another warning sign is flashing for tech stocks \u2014 and this one comes from outside the U.S.",
-        "link": "https://www.marketwatch.com/story/another-warning-sign-is-flashing-for-tech-stocks-and-this-one-comes-from-outside-the-u-s-d51d6bfd?mod=mw_rss_topstories",
-        "snippet": "What the link between the Japanese yen and U.S. stocks means for your portfolio.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-07-14T11:40:00+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 42.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
-        ]
-      },
-      {
         "title": "In Rare Testimony, Supreme Court Justices Will Ask Congress for Security Funds",
         "link": "https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-testimony-security.html",
         "snippet": "Elena Kagan and Amy Coney Barrett, the first justices to appear before lawmakers since 2019, are requesting millions of dollars to address security concerns amid rising threats.",
@@ -107,7 +92,7 @@
         "published_utc": "2026-07-14T09:03:34+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 41.9,
+        "score": 41.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
@@ -127,6 +112,21 @@
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
+      },
+      {
+        "title": "Blanche Was a Driving Force in Retribution Campaign, Emails Show",
+        "link": "https://www.nytimes.com/2026/07/14/us/politics/blanche-was-a-driving-force-in-retribution-campaign-emails-show.html",
+        "snippet": "The cooperation of Todd Blanche in President Trump\u2019s retribution against enemies will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-07-14T09:03:28+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 40.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
       }
     ],
     "Southeast Asia (SEA)": [
@@ -139,7 +139,7 @@
         "published_utc": "2026-07-14T03:47:41+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 40.7,
+        "score": 40.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
@@ -154,7 +154,7 @@
         "published_utc": "2026-07-14T10:06:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 34.3,
+        "score": 34.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
@@ -184,7 +184,7 @@
         "published_utc": "2026-07-14T09:46:08+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 33.2,
+        "score": 33.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
@@ -216,7 +216,7 @@
         "published_utc": "2026-07-14T10:02:43+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 41.3,
+        "score": 41.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
@@ -231,7 +231,7 @@
         "published_utc": "2026-07-14T08:32:49+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 40.7,
+        "score": 40.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
@@ -263,25 +263,10 @@
         "published_utc": "2026-07-13T12:02:19+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 36.1,
+        "score": 36.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "EU rallies dozens of nations to pledge US$1 billion for Gaza recovery fund",
-        "link": "https://www.channelnewsasia.com/world/eu-gaza-recovery-fund-6251651",
-        "snippet": "Few places in the Palestinian territory of over 2 million people have been left unscathed, and the United Nations, World Bank and EU estimate that reconstruction will cost US$70 billion.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-07-14T11:18:00+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 33.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
         ]
       },
       {
@@ -293,7 +278,7 @@
         "published_utc": "2026-07-14T11:04:35+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 33.7,
+        "score": 33.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
@@ -313,6 +298,21 @@
         "corroborating_outlets": [
           "The New York Times \u2014 Health"
         ]
+      },
+      {
+        "title": "EU rallies dozens of nations to pledge US$1 billion for Gaza recovery fund",
+        "link": "https://www.channelnewsasia.com/world/eu-gaza-recovery-fund-6251651",
+        "snippet": "Few places in the Palestinian territory of over 2 million people have been left unscathed, and the United Nations, World Bank and EU estimate that reconstruction will cost US$70 billion.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-07-14T11:18:00+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 31.7,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
+        ]
       }
     ],
     "Healthcare & Biotech": [
@@ -325,10 +325,25 @@
         "published_utc": "2026-07-14T04:30:59+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 41.0,
+        "score": 40.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Health"
+        ]
+      },
+      {
+        "title": "WHO says it has less than half funding needed to fight Ebola",
+        "link": "https://www.channelnewsasia.com/world/who-ebola-outbreak-funding-congo-health-6253201",
+        "snippet": "\"This outbreak requires resources that match the scale of the challenges that we are facing. And this is not a burden DRC can be allowed to carry alone,\" said the head of the WHO's Health Emergencies Programme.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-07-14T11:43:00+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 35.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
         ]
       },
       {
@@ -355,25 +370,10 @@
         "published_utc": "2026-07-13T20:10:07+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 35.5,
+        "score": 35.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Health"
-        ]
-      },
-      {
-        "title": "FDA authorized Zyn nicotine pouches without knowing what they were made of, says former agency scientist",
-        "link": "https://www.statnews.com/2026/07/14/zyn-nicotine-pouches-fda-approval-microplastic-risk/?utm_campaign=rss",
-        "snippet": "A former FDA toxicologist has accused the agency of authorizing Zyn nicotine pouches without fully reviewing their safety",
-        "source_domain": "statnews.com",
-        "outlet_name": "STAT News",
-        "published_utc": "2026-07-14T09:30:00+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 35.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "STAT News"
         ]
       }
     ],
@@ -387,26 +387,11 @@
         "published_utc": "2026-07-13T17:00:14+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 44.2,
+        "score": 44.1,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "TechCrunch",
           "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "AI startup Reflection signs over $1 billion computing deal with Nebius",
-        "link": "https://www.channelnewsasia.com/business/ai-startup-reflection-signs-over-1-billion-computing-deal-nebius-6253326",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-07-14T11:09:42+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 37.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
         ]
       },
       {
@@ -425,15 +410,30 @@
         ]
       },
       {
-        "title": "AI finance startup Flex doubles valuation to about $1.2 billion, source says",
-        "link": "https://www.channelnewsasia.com/business/ai-finance-startup-flex-doubles-valuation-about-12-billion-source-says-6253386",
+        "title": "9 Tips to Get More Out of Google Chat",
+        "link": "https://www.wired.com/story/9-tips-to-get-more-out-of-google-chat/",
+        "snippet": "There\u2019s more to Google\u2019s messaging app than you might realize.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-07-14T11:30:00+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 35.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Wired"
+        ]
+      },
+      {
+        "title": "AI startup Reflection signs over $1 billion computing deal with Nebius",
+        "link": "https://www.channelnewsasia.com/business/ai-startup-reflection-signs-over-1-billion-computing-deal-nebius-6253326",
         "snippet": "",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-07-14T11:37:02+00:00",
+        "published_utc": "2026-07-14T11:09:42+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.9,
+        "score": 35.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
@@ -481,7 +481,7 @@
         "published_utc": "2026-07-14T11:04:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 43.7,
+        "score": 42.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "MarketWatch \u2014 Top Stories"
