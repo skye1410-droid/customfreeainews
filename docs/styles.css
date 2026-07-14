@@ -1,0 +1,332 @@
+/* ==========================================================================
+   SIGNAL DESK — design tokens
+   Palette: harbor-at-dusk. Cool paper background, near-black ink masthead,
+   teal for identity/links, amber for the "signal" (corroboration) meter —
+   deliberately NOT a raw view-count; it visualizes the scoring method.
+   Type: Fraunces (display serif, headlines) + Inter (UI/body) +
+   IBM Plex Mono (timestamps, domains, signal counts — a wire-ticker feel).
+   ========================================================================== */
+
+:root {
+  --paper: #F1F0EC;
+  --ink: #171B23;
+  --ink-soft: #2B3140;
+  --card: #FFFFFF;
+  --border: #E3E1D9;
+  --teal: #0E7C86;
+  --teal-deep: #0B5F67;
+  --amber: #D98E04;
+  --amber-soft: #F3D9A6;
+  --muted: #6B7280;
+  --radius: 10px;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", -apple-system, Segoe UI, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, monospace;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+
+.muted { color: var(--muted); }
+
+/* --- Masthead ------------------------------------------------------------ */
+
+.masthead {
+  background: var(--ink);
+  color: #EDEFF4;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.masthead-inner {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 14px 24px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 20px;
+  letter-spacing: 0.01em;
+}
+
+.brand-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--amber);
+  box-shadow: 0 0 0 3px rgba(217, 142, 4, 0.25);
+}
+
+.tabs {
+  display: flex;
+  gap: 4px;
+  background: rgba(255,255,255,0.06);
+  padding: 4px;
+  border-radius: 999px;
+}
+
+.tab {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 13px;
+  color: #C7CCDA;
+  background: transparent;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background 0.15s ease, color 0.15s ease;
+}
+
+.tab:hover { color: #FFFFFF; }
+
+.tab[aria-selected="true"] {
+  background: var(--teal);
+  color: #FFFFFF;
+}
+
+/* --- Page shell ------------------------------------------------------------ */
+
+.page {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 32px 24px 8px;
+}
+
+.page-intro h1 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 32px;
+  margin: 0 0 6px;
+  letter-spacing: -0.01em;
+}
+
+.page-intro p {
+  margin: 0 0 22px;
+  font-size: 14px;
+}
+
+/* --- Board (grid of stack columns) ------------------------------------------ */
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 18px;
+}
+
+.stack-column {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 18px 8px;
+}
+
+.stack-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 8px;
+  margin-bottom: 4px;
+}
+
+.stack-header h2 {
+  font-family: var(--font-display);
+  font-size: 17px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.stack-count {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+}
+
+.empty-note {
+  font-size: 13px;
+  color: var(--muted);
+  padding: 16px 0 20px;
+  font-style: italic;
+}
+
+/* --- Story item ------------------------------------------------------------- */
+
+.story {
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.story:last-child { border-bottom: none; }
+
+.story-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+  margin-bottom: 6px;
+  flex-wrap: wrap;
+}
+
+.tag-pill {
+  display: inline-block;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--teal-deep);
+  background: rgba(14, 124, 134, 0.10);
+  border: 1px solid rgba(14, 124, 134, 0.28);
+  padding: 2px 7px;
+  border-radius: 4px;
+}
+
+.story-title {
+  display: block;
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.35;
+  color: var(--ink);
+  text-decoration: none;
+}
+
+.story-title:hover { color: var(--teal-deep); }
+
+.story-snippet {
+  margin: 6px 0 0;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+}
+
+/* --- Wire-signal meter: encodes corroboration count, not fake view counts -- */
+
+.signal-meter {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 8px;
+}
+
+.signal-ticks {
+  display: inline-flex;
+  gap: 2px;
+}
+
+.signal-tick {
+  width: 6px;
+  height: 12px;
+  border-radius: 1px;
+  background: var(--amber-soft);
+}
+
+.signal-tick.filled { background: var(--amber); }
+
+.signal-label {
+  font-family: var(--font-mono);
+  font-size: 10.5px;
+  color: var(--muted);
+}
+
+/* --- Sources view ------------------------------------------------------------ */
+
+.sources-view {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 18px;
+}
+
+.sources-stack {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px;
+}
+
+.sources-stack h2 {
+  font-family: var(--font-display);
+  font-size: 16px;
+  margin: 0 0 10px;
+  border-bottom: 2px solid var(--ink);
+  padding-bottom: 8px;
+}
+
+.source-row {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 13px;
+  padding: 7px 0;
+  border-bottom: 1px dashed var(--border);
+}
+
+.source-row:last-child { border-bottom: none; }
+
+.source-name { font-weight: 600; }
+
+.source-domain {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.free-badge {
+  display: inline-block;
+  margin-top: 8px;
+  font-family: var(--font-mono);
+  font-size: 10px;
+  color: var(--teal-deep);
+}
+
+/* --- Footer -------------------------------------------------------------- */
+
+.site-footer {
+  max-width: 1180px;
+  margin: 28px auto 40px;
+  padding: 18px 24px 0;
+  border-top: 1px solid var(--border);
+  color: var(--muted);
+  font-size: 12.5px;
+  line-height: 1.6;
+}
+
+/* --- Responsive ------------------------------------------------------------ */
+
+@media (max-width: 640px) {
+  .page-intro h1 { font-size: 26px; }
+  .masthead-inner { flex-direction: column; align-items: flex-start; }
+}
+
+/* --- Reduced motion -------------------------------------------------------- */
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .tab { transition: none; }
+}

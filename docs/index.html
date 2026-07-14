@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signal Desk — Noteworthy News</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="masthead">
+    <div class="masthead-inner">
+      <div class="brand">
+        <span class="brand-dot" aria-hidden="true"></span>
+        <span class="brand-name">Signal Desk</span>
+      </div>
+      <nav class="tabs" role="tablist" aria-label="Briefing period">
+        <button class="tab" data-tab="weekly" role="tab" aria-selected="true">This Week</button>
+        <button class="tab" data-tab="daily" role="tab" aria-selected="false">Today</button>
+        <button class="tab" data-tab="sources" role="tab" aria-selected="false">Sources</button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="page">
+
+    <section class="page-intro">
+      <h1 id="view-title">This week's signal</h1>
+      <p id="view-subtitle" class="muted"></p>
+    </section>
+
+    <section id="board" class="board" aria-live="polite">
+      <!-- stack columns injected by app.js -->
+    </section>
+
+    <section id="sources-view" class="sources-view" hidden>
+      <!-- source directory injected by app.js -->
+    </section>
+
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Stories are ranked by a transparent <strong>noteworthiness score</strong>,
+      not real click data (free RSS feeds don't expose that) — built from
+      cross-outlet corroboration, source tier, headline salience, feed
+      position, and recency. The wire-signal meter on each story shows how
+      many independent outlets are reporting it.
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

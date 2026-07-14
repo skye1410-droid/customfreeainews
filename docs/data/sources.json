@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-07-14T11:47:30.244623+00:00",
+  "stacks": {
+    "Singapore": [
+      {
+        "outlet_name": "CNA \u2014 Singapore",
+        "feed_url": "https://www.channelnewsasia.com/rssfeeds/8395986",
+        "stack_tag": "SG"
+      },
+      {
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "feed_url": "https://www.straitstimes.com/news/singapore/rss.xml",
+        "stack_tag": "SG"
+      },
+      {
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "feed_url": "https://www.businesstimes.com.sg/rss/singapore",
+        "stack_tag": "SG"
+      }
+    ],
+    "United States": [
+      {
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+        "stack_tag": "US"
+      },
+      {
+        "outlet_name": "NPR \u2014 National",
+        "feed_url": "https://feeds.npr.org/1003/rss.xml",
+        "stack_tag": "US"
+      },
+      {
+        "outlet_name": "CNBC \u2014 Politics",
+        "feed_url": "https://www.cnbc.com/id/15837362/device/rss/rss.html",
+        "stack_tag": "US"
+      }
+    ],
+    "Southeast Asia (SEA)": [
+      {
+        "outlet_name": "CNA \u2014 Asia",
+        "feed_url": "https://www.channelnewsasia.com/rssfeeds/8395984",
+        "stack_tag": "SEA"
+      },
+      {
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "feed_url": "https://www.bangkokpost.com/rss/data/topstories.xml",
+        "stack_tag": "SEA"
+      },
+      {
+        "outlet_name": "Philstar \u2014 Headlines",
+        "feed_url": "https://www.philstar.com/rss/headlines",
+        "stack_tag": "SEA"
+      }
+    ],
+    "World Affairs": [
+      {
+        "outlet_name": "BBC \u2014 World",
+        "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "stack_tag": "WORLD"
+      },
+      {
+        "outlet_name": "The New York Times \u2014 World",
+        "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "stack_tag": "WORLD"
+      },
+      {
+        "outlet_name": "Fox News \u2014 World",
+        "feed_url": "https://moxie.foxnews.com/google-publisher/world.xml",
+        "stack_tag": "WORLD"
+      }
+    ],
+    "Geopolitics": [
+      {
+        "outlet_name": "Foreign Policy",
+        "feed_url": "https://foreignpolicy.com/feed/",
+        "stack_tag": "GEOPOLITICS"
+      },
+      {
+        "outlet_name": "BBC \u2014 World",
+        "feed_url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "stack_tag": "GEOPOLITICS"
+      },
+      {
+        "outlet_name": "The New York Times \u2014 World",
+        "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "stack_tag": "GEOPOLITICS"
+      }
+    ],
+    "Healthcare & Biotech": [
+      {
+        "outlet_name": "STAT News",
+        "feed_url": "https://www.statnews.com/feed/",
+        "stack_tag": "HEALTH"
+      },
+      {
+        "outlet_name": "FDA \u2014 Press Releases",
+        "feed_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+        "stack_tag": "HEALTH"
+      },
+      {
+        "outlet_name": "The New York Times \u2014 Health",
+        "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+        "stack_tag": "HEALTH"
+      }
+    ],
+    "Technology & AI": [
+      {
+        "outlet_name": "TechCrunch",
+        "feed_url": "https://techcrunch.com/feed/",
+        "stack_tag": "TECH"
+      },
+      {
+        "outlet_name": "Ars Technica",
+        "feed_url": "https://feeds.arstechnica.com/arstechnica/index",
+        "stack_tag": "TECH"
+      },
+      {
+        "outlet_name": "Wired",
+        "feed_url": "https://www.wired.com/feed/rss",
+        "stack_tag": "TECH"
+      }
+    ],
+    "Business & Finance": [
+      {
+        "outlet_name": "CNBC \u2014 Top News",
+        "feed_url": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+        "stack_tag": "FINANCE"
+      },
+      {
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "feed_url": "http://feeds.marketwatch.com/marketwatch/topstories/",
+        "stack_tag": "FINANCE"
+      },
+      {
+        "outlet_name": "The New York Times \u2014 Business",
+        "feed_url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+        "stack_tag": "FINANCE"
+      }
+    ]
+  }
+}
