@@ -1,78 +1,113 @@
 {
-  "generated_at": "2026-08-14T02:05:46.504447+00:00",
+  "generated_at": "2026-08-15T01:20:00.099927+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Oil steadies after US threatens to blockade Iran indefinitely",
-        "link": "https://www.channelnewsasia.com/business/oil-steadies-after-us-threatens-blockade-iran-indefinitely-6318766",
+        "title": "Luigi Mangione admits killing insurance CEO, pleads guilty in federal case",
+        "link": "https://www.channelnewsasia.com/world/luigi-mangione-admits-killing-insurance-ceo-pleads-guilty-in-federal-case-6320656",
+        "snippet": "Luigi Mangione pleaded guilty without a deal with federal prosecutors, with no guarantee that he would receive leniency for his plea.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-08-14T21:15:05+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 66.3,
+        "corroboration_count": 4,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "CNA \u2014 Singapore",
+          "MarketWatch \u2014 Top Stories",
+          "STAT News"
+        ]
+      },
+      {
+        "title": "Ex-Cambridge professor at centre of plagiarism scandal found dead",
+        "link": "https://www.channelnewsasia.com/world/jason-arday-found-dead-cambridge-plagiarism-6320716",
+        "snippet": "Cambridge professor Jason Arday, 41, was found dead in south London, days after resigning from the university amid plagiarism allegation.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-08-14T21:56:40+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 39.6,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "With Trump\u2019s Hamas Deal in Peril, Kushner Set to Visit Israel for Gaza Talks",
+        "link": "https://www.nytimes.com/2026/08/14/world/middleeast/jared-kushner-visit-israel-hamas-deal.html",
+        "snippet": "Jared Kushner, President Trump\u2019s senior aide, is expected to meet with Prime Minister Benjamin Netanyahu of Israel, who has rejected a U.S.-backed deal to disarm Hamas.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-14T13:20:34+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 38.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Putin says Russia, North Korea coordinating on regional security: Report",
+        "link": "https://www.channelnewsasia.com/world/north-korea-russia-security-6320736",
         "snippet": "",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-08-14T01:36:00+00:00",
+        "published_utc": "2026-08-15T00:07:24+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 41.8,
+        "score": 34.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Record rain in Japan kills four, leaves thousands stranded at Narita airport",
-        "link": "https://www.channelnewsasia.com/east-asia/japan-record-rain-kills-four-narita-stranded-airport-6318756",
-        "snippet": "Japanese authorities said four deaths have been confirmed so far, including at least one person trapped in a submerged vehicle.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-08-14T01:22:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 37.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Two motorcyclists arrested for attempting to smuggle cigarettes, vapes at Woodlands Checkpoint",
-        "link": "https://www.straitstimes.com/singapore/two-motorcyclists-arrested-for-attempting-to-smuggle-cigarettes-vapes-at-woodlands-checkpoint",
-        "snippet": "In one case, contraband was found underneath the motorcycle's seat and in its storage boxes.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-08-14T01:20:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 35.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "New rules for property agents likely to weed out inactive ones, help consumers make better decisions",
-        "link": "https://www.straitstimes.com/singapore/housing/new-rules-for-property-agents-likely-to-weed-out-inactive-ones-help-consumers-make-better-decisions",
-        "snippet": "The changes will kick in from Jan 1, and are part of a review to raise professional standards and improve transparency.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-08-13T21:00:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 32.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The Straits Times \u2014 Singapore"
         ]
       }
     ],
     "United States": [
       {
-        "title": "California Ignored Sexual Abuse of Women in Prison, Justice Dept. Says",
-        "link": "https://www.nytimes.com/2026/08/13/us/california-sexual-abuse-women-prison.html",
-        "snippet": "A Justice Department report released on Thursday found that inmates at two state-run women\u2019s prisons routinely had their rights violated. State officials say they have already put reforms in place.",
+        "title": "Navy and USS Lincoln\u2019s Problems Are Tied to Attacks on U.S. Base Early in War",
+        "link": "https://www.nytimes.com/2026/08/14/us/politics/uss-abraham-lincoln-trump-supplies-diego-garcia.html",
+        "snippet": "Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy\u2019s logistics hub after Iran damaged a base in Bahrain.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-14T01:21:58+00:00",
+        "published_utc": "2026-08-14T22:35:07+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 47.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Trump Administration Asks Supreme Court to Greenlight White House Ballroom",
+        "link": "https://www.nytimes.com/2026/08/14/us/politics/trump-ballroom-white-house-supreme-court.html",
+        "snippet": "The planned 90,000-square-foot ballroom is estimated to cost $400 million and is part of the president\u2019s broader effort to remake Washington in his own style.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-08-14T17:11:24+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 44.6,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Justice Dept. Dismisses Threats Case in Minnesota Days Before Trial",
+        "link": "https://www.nytimes.com/2026/08/14/us/minnesota-threats-federal-agents-immigration.html",
+        "snippet": "The government said it could not prove that a man accused of threatening federal agents had committed a crime, adding to the scores of cases in the administration\u2019s deportation efforts that have unraveled.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-08-15T00:40:27+00:00",
         "stack": "United States",
         "stack_tag": "US",
         "score": 43.7,
@@ -82,45 +117,15 @@
         ]
       },
       {
-        "title": "Kalshi Ordered to Cease Most Operations in Washington State",
-        "link": "https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html",
-        "snippet": "In a preliminary injunction, a state judge barred the prediction market from allowing residents to place bets on the bulk of its offerings.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-14T00:49:57+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 43.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Ex-Officer Held in New Orleans Mass Shooting Plot Is Freed Without Charges",
-        "link": "https://www.nytimes.com/2026/08/13/us/mass-shooting-new-orleans-ex-police-released.html",
-        "snippet": "Law enforcement officials had said that Christopher Gillum, a former police officer in North Carolina, planned to attack a large festival. He was released without charges.",
+        "title": "Colorado Was Targeted as Trump Fumed Over Election Denier, Email Shows",
+        "link": "https://www.nytimes.com/2026/08/14/us/colorado-trump-tina-peters.html",
+        "snippet": "The state has accused the government in a lawsuit of retaliating after the conviction of Tina Peters, a Trump supporter. An administration official convened a group to discuss \u201cimmediate actions.\u201d",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-13T22:00:28+00:00",
+        "published_utc": "2026-08-15T00:38:58+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 41.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Appeals Court Sidesteps Key Question Over Trump\u2019s Use of Alien Enemies Act",
-        "link": "https://www.nytimes.com/2026/08/13/us/politics/alien-enemies-act-trump-appeals-court.html",
-        "snippet": "The court dismissed a case over the Alien Enemies Act in a messy conclusion to a long-running legal battle that had seemed destined to end up before the Supreme Court.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-13T21:49:23+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 40.2,
+        "score": 42.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
@@ -129,60 +134,60 @@
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Pundit urges reforms in petroleum sector",
-        "link": "https://www.bangkokpost.com/business/general/3301377/pundit-urges-reforms-in-petroleum-sector",
-        "snippet": "Thailand could face a decline in domestic energy supply unless significant regulatory reforms are introduced to attract foreign investment in the upstream petroleum sector, says Kurujit Nakornthap, executive director of...",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-13T22:58:00+00:00",
+        "title": "Powerful earthquake strikes off coast of Indonesia, tsunami warning issued",
+        "link": "https://www.channelnewsasia.com/asia/indonesia-earthquake-tsunami-warning-6320771",
+        "snippet": "The earthquake triggered a tsunami warning in Indonesia and prompted hundreds to evacuate.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-08-14T23:09:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 34.7,
+        "score": 38.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Gun prizes for village leaders axed",
+        "link": "https://www.bangkokpost.com/thailand/general/3301850/gun-prizes-for-village-leaders-axed",
+        "snippet": "Prime Minister Anutin Charnvirakul has ordered the Department of Provincial Administration (Dopa) to stop awarding firearms as prizes to village and subdistrict chiefs.",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-08-14T22:57:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 34.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Thailand veers from EU model on digital platform law",
-        "link": "https://www.bangkokpost.com/business/general/3301527/thailand-veers-from-eu-model-on-digital-platform-law",
-        "snippet": "Thailand is revising its draft of the Digital Platform Economy Act after concluding the European Union's regulatory model is too stringent for the country's digital economy.",
+        "title": "School safety bill in works",
+        "link": "https://www.bangkokpost.com/thailand/general/3301805/school-safety-bill-in-works",
+        "snippet": "The Education Ministry is preparing a school safety bill for cabinet approval as authorities tighten security following copycat threats of violence at several educational institutions.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-13T22:42:00+00:00",
+        "published_utc": "2026-08-14T22:46:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 33.6,
+        "score": 32.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Deadlock drags on at regulator",
-        "link": "https://www.bangkokpost.com/business/general/3301467/deadlock-drags-on-at-regulator",
-        "snippet": "A board meeting of the National Broadcasting and Telecommunications Commission (NBTC) was aborted for the fifth consecutive time on Thursday as commissioners continued to boycott the session over the chairman's...",
+        "title": "Central bank steps up non-bank oversight",
+        "link": "https://www.bangkokpost.com/business/general/3301915/central-bank-steps-up-nonbank-oversight",
+        "snippet": "The Bank of Thailand is strengthening its supervision of lending and payment services provided by non-banks to ensure fair treatment of consumers and curb irregular transactions, according to its governor.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-13T22:15:00+00:00",
+        "published_utc": "2026-08-14T22:33:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 31.4,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories"
-        ]
-      },
-      {
-        "title": "Hotels push for subsidy to be based on revenue",
-        "link": "https://www.bangkokpost.com/business/general/3301367/hotels-push-for-subsidy-to-be-based-on-revenue",
-        "snippet": "The Thai Hotels Association (THA) says the Tourism and Sports Ministry should select participating hotels for its \"Thai Teaw Thai Plus\" subsidy scheme based on their revenue and should allow them to adopt dynamic...",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-13T22:01:00+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 30.3,
+        "score": 31.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
@@ -191,311 +196,322 @@
     ],
     "World Affairs": [
       {
-        "title": "A Patient\u2019s Final Breath in a Congolese Ebola Ward",
-        "link": "https://www.nytimes.com/2026/08/13/world/africa/ebola-congo-patient-dies.html",
-        "snippet": "The distance between life and death is razor thin at one medical clinic in Rwampara, the heart of the epidemic ravaging the Democratic Republic of Congo.",
+        "title": "Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html",
+        "snippet": "Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-13T13:32:15+00:00",
+        "published_utc": "2026-08-15T01:00:46+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 43.8,
+        "score": 54.9,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Russia Campaigned to Derail Moldova\u2019s Pro-Western Government",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html",
+        "snippet": "In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference \u2014 all in an effort to derail the Western-leaning government.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-14T23:55:21+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 43.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Alfonso Fanjul Jr., Cuban American Sugar Baron, Dies at 89",
-        "link": "https://www.nytimes.com/2026/08/13/business/alfonso-fanjul-jr-dead.html",
-        "snippet": "With his brother, he presided over a family empire that includes the world\u2019s largest cane sugar refiner and the Domino and C&H brands.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-13T15:39:25+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 42.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-        "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-08-13T20:12:17+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 41.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "Effects of Record-Breaking El Ni\u00f1o Are Happening on 3 Continents",
-        "link": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
-        "snippet": "The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-13T14:53:22+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 41.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      }
-    ],
-    "Geopolitics": [
-      {
-        "title": "Putin Visits Islands Seized From Japan in World War II, Angering Tokyo",
-        "link": "https://www.nytimes.com/2026/08/13/world/asia/putin-visit-islands-japan-russia.html",
-        "snippet": "Prime Minister Sanae Takaichi of Japan has been a public critic of Mr. Putin, who has denounced her country\u2019s sanctions against Russia over the Ukraine war.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-13T22:38:32+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 39.6,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Israeli Settlers Resume West Bank Siege After Eviction",
-        "link": "https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html",
-        "snippet": "The military\u2019s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-13T20:18:47+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 37.6,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Mojtaba Khamenei Is Planning for a Long War",
-        "link": "https://foreignpolicy.com/2026/08/13/iran-mojtaba-khamenei-rezaei-war/",
-        "snippet": "The supreme leader\u2019s new government appointments reveal the outlines of his military strategy.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-08-13T16:50:54+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 36.1,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      },
-      {
-        "title": "Ukrainian drones wipe out entire US tank brigade in live war game",
-        "link": "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-        "snippet": "Ukrainian drone pilots teach the US military and NATO hard battlefield lessons.",
-        "source_domain": "arstechnica.com",
-        "outlet_name": "Ars Technica",
-        "published_utc": "2026-08-13T18:31:56+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 35.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Ars Technica"
-        ]
-      }
-    ],
-    "Healthcare & Biotech": [
-      {
-        "title": "Covid Vaccines Are Not Linked to Miscarriage. Here\u2019s How We Know.",
-        "link": "https://www.nytimes.com/2026/08/13/well/covid-vaccine-pregnancy-miscarriage-fauci.html",
-        "snippet": "Prominent Republicans and others have falsely claimed this week that the shots are linked, despite years of data showing they are safe.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-08-13T20:01:31+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 40.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Health"
-        ]
-      },
-      {
-        "title": "US wait times for cancer surgeries are getting longer and longer",
-        "link": "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
-        "snippet": "Study finds wait times for cancer surgeries hit 10-year high.",
-        "source_domain": "arstechnica.com",
-        "outlet_name": "Ars Technica",
-        "published_utc": "2026-08-13T22:17:29+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 40.4,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Ars Technica"
-        ]
-      },
-      {
-        "title": "Charlie Kirk Suspect Fights Death Penalty, Says No Others Were in Danger",
-        "link": "https://www.nytimes.com/2026/08/13/us/charlie-kirk-tyler-robinson-death-penalty.html",
-        "snippet": "Prosecutors say they can seek the death penalty against Tyler Robinson because he also endangered people near Charlie Kirk, who was shot in the throat last year. Mr. Robinson\u2019s lawyers note that the gunman struck only...",
+        "title": "\u2018A Dying Community\u2019: An Energy Crisis Worsened by the War Strains Alaska",
+        "link": "https://www.nytimes.com/2026/08/14/us/rural-alaska-oil-prices-iran.html",
+        "snippet": "Diesel generators produce the electricity for small towns and hamlets like Manley Hot Springs, Alaska. Prices are soaring with no end in sight.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-13T20:52:30+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 36.8,
+        "published_utc": "2026-08-14T18:14:39+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 43.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Investors sue Selena Gomez alleging fraud tied to her mental health startup",
-        "link": "https://techcrunch.com/2026/08/13/investors-sue-selena-gomez-alleging-fraud-tied-to-her-mental-health-startup/",
-        "snippet": "The plaintiffs say they invested nearly $1.2 million in the company, and are accusing Gomez of failing to build and market the startup.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-08-13T22:12:40+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 34.4,
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+        "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+        "snippet": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-08-14T12:19:21+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 41.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "TechCrunch"
+          "BBC \u2014 World"
+        ]
+      }
+    ],
+    "Geopolitics": [
+      {
+        "title": "Can Senator Ed Markey\u2019s Progressive Politics Help Him Overcome the Age Issue?",
+        "link": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html",
+        "snippet": "Ed Markey is hoping that his progressive politics will save him in Massachusetts.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-08-14T23:08:46+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 35.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Five Arrested in Connection to Stolen Works by C\u00e9zanne, Renoir and Matisse, Prosecutors Say",
+        "link": "https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html",
+        "snippet": "The Italian military police said that art collectively valued at more than $10 million had been found five months after being taken in a nighttime heist near Parma.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-14T21:08:19+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 32.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers",
+        "link": "https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html",
+        "snippet": "Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-14T21:01:21+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 32.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Liberalism Is Worth Saving. Here\u2019s How.",
+        "link": "https://foreignpolicy.com/2026/08/14/liberalism-saving-antidemocratic-industry-economy-elite/",
+        "snippet": "If liberalism does not remake itself, it will be antidemocratic alternatives that win out.",
+        "source_domain": "foreignpolicy.com",
+        "outlet_name": "Foreign Policy",
+        "published_utc": "2026-08-14T19:00:37+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 31.4,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Foreign Policy"
+        ]
+      }
+    ],
+    "Healthcare & Biotech": [
+      {
+        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+        "link": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+        "snippet": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-08-14T19:20:43+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 83.5,
+        "corroboration_count": 4,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "CNA \u2014 Singapore",
+          "MarketWatch \u2014 Top Stories",
+          "STAT News"
+        ]
+      },
+      {
+        "title": "Luigi Mangione pleads guilty to federal stalking charges in the killing of UnitedHealthcare CEO",
+        "link": "https://www.statnews.com/2026/08/14/luigi-mangione-federal-charges-guilty-plea-killing-of-unitedhealthcare-ceo-brian-thompson/?utm_campaign=rss",
+        "snippet": "In pleading guilty, Mangione admitted to following UnitedHealth executive Brian Thompson and then shooting him.",
+        "source_domain": "statnews.com",
+        "outlet_name": "STAT News",
+        "published_utc": "2026-08-14T16:30:39+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 72.3,
+        "corroboration_count": 4,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "CNA \u2014 Singapore",
+          "MarketWatch \u2014 Top Stories",
+          "STAT News"
+        ]
+      },
+      {
+        "title": "Luigi Mangione pleads guilty in federal court to stalking health-insurance CEO",
+        "link": "https://www.marketwatch.com/story/luigi-mangione-pleads-guilty-to-stalking-health-insurance-ceo-in-federal-court-d941ce3f?mod=mw_rss_topstories",
+        "snippet": "Luigi Mangione, who is accused of killing a UnitedHealthcare executive, pled guilty to federal stalking charges ahead of a high-profile state murder trial in New York set to begin next month.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-08-14T17:40:00+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 65.8,
+        "corroboration_count": 4,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "CNA \u2014 Singapore",
+          "MarketWatch \u2014 Top Stories",
+          "STAT News"
+        ]
+      },
+      {
+        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+        "link": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-08-14T18:25:38+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 54.1,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "The New York Times \u2014 World"
         ]
       }
     ],
     "Technology & AI": [
       {
-        "title": "If Apple sends you a push notification alerting you to a spyware attack, take it seriously",
-        "link": "https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/",
-        "snippet": "Apple now sends out push notifications to iPhone lock screens when the company identifies government spyware targeting someone's devices.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-08-13T21:50:11+00:00",
+        "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+        "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+        "snippet": "Screen-sharing bug lets remote hackers log in without a password.",
+        "source_domain": "arstechnica.com",
+        "outlet_name": "Ars Technica",
+        "published_utc": "2026-08-14T18:32:14+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 44.2,
+        "score": 39.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Ars Technica"
+        ]
+      },
+      {
+        "title": "Google Turns On Gemini A.I. for Students Using Its Classroom App",
+        "link": "https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html",
+        "snippet": "Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-08-14T18:54:36+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 38.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+        "link": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+        "snippet": "PayPal is still reportedly negotiating a potential sale to Stripe and private equity firm Advent, as the fintech firm's new CEO attempts to turn the company around.",
+        "source_domain": "techcrunch.com",
+        "outlet_name": "TechCrunch",
+        "published_utc": "2026-08-14T22:43:24+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 34.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "TechCrunch"
         ]
       },
       {
-        "title": "Workday\u2019s stock sees a record surge. Could a buyout spark a software revival?",
-        "link": "https://www.marketwatch.com/story/workdays-stock-sees-a-record-surge-could-a-buyout-spark-a-software-revival-f2bd9219?mod=mw_rss_topstories",
-        "snippet": "Shares of the HR software company rose 18% on Thursday on reports of a potential private-equity acquisition.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-08-13T21:34:00+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 44.1,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
-        ]
-      },
-      {
-        "title": "The Safety Reckoning Inside OpenAI",
-        "link": "https://www.wired.com/story/openai-safety-security-ai-agents-culture/",
-        "snippet": "OpenAI\u2019s rogue agent hack was a watershed moment for AI safety and cybersecurity. It also sparked internal questions about the culture that led to it.",
+        "title": "New York City Lawmakers Push to \u2018Ban the Scan\u2019 at MSG",
+        "link": "https://www.wired.com/story/new-york-city-lawmakers-push-to-ban-the-scan-at-msg/",
+        "snippet": "At a press conference outside Madison Square Garden, politicians, musicians, and privacy advocates argued for tighter restrictions on how public venues deploy biometric surveillance.",
         "source_domain": "wired.com",
         "outlet_name": "Wired",
-        "published_utc": "2026-08-13T22:37:19+00:00",
+        "published_utc": "2026-08-14T21:43:17+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 34.6,
+        "score": 34.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Wired"
         ]
-      },
-      {
-        "title": "STAT+: Commure terminates payments under its customer referral programs tied to AI products",
-        "link": "https://www.statnews.com/2026/08/13/commure-terminates-payments-under-customer-referral-programs/?utm_campaign=rss",
-        "snippet": "Commure, which develops and sells AI products to clinics, has terminated a program that paid for referrals to new customers.",
-        "source_domain": "statnews.com",
-        "outlet_name": "STAT News",
-        "published_utc": "2026-08-13T21:49:09+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 34.2,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "STAT News"
-        ]
       }
     ],
     "Business & Finance": [
+      {
+        "title": "Exclusive-Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say",
+        "link": "https://www.channelnewsasia.com/business/exclusive-anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-6320831",
+        "snippet": "",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-08-15T00:11:58+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 41.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "July Retail Sales Notch Biggest Drop in Over a Year",
+        "link": "https://www.nytimes.com/2026/08/14/business/retail-sales-july.html",
+        "snippet": "The data for July showed the biggest drop in more than a year, as American households face the economic strains brought on by persistent inflation",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-08-14T17:59:59+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 34.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Amazon and Alphabet\u2019s Profits Reveal Circular Nature of A.I. Boom",
+        "link": "https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html",
+        "snippet": "Investment gains at Alphabet and Amazon reveal a new way in which technology companies\u2019 fortunes are increasingly linked.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-08-14T14:55:08+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 32.7,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
       {
         "title": "Salvage Company Hoping to Sell Titanic Artifacts Challenges Court\u2019s Role",
         "link": "https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html",
         "snippet": "A Virginia federal court has awarded the company the rights to collect, but not sell, items from the shipwreck. But the company says its earliest retrievals are governed by a French court.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-13T22:59:12+00:00",
+        "published_utc": "2026-08-14T21:12:16+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 41.7,
+        "score": 32.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Inside the $12.5 Billion Deal for the Lakers",
-        "link": "https://www.nytimes.com/2026/08/13/business/dealbook/lakers-deal-kushner-iger-walter.html",
-        "snippet": "The transaction, hashed out last weekend, reflects the huge profit potential of major sports franchises.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-13T13:52:44+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 38.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Flock Announces Privacy Updates to Its Car-Tracking Cameras",
-        "link": "https://www.nytimes.com/2026/08/13/business/flock-cameras-privacy-updates.html",
-        "snippet": "Critics say the measures are \u201cpublic relations\u201d and leave room for continued misuse.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-13T17:56:36+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 38.6,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Reddit is joining the S&P 500 after months of speculation. Analysts have these concerns.",
-        "link": "https://www.marketwatch.com/story/reddit-is-joining-the-s-p-500-after-months-of-speculation-analysts-have-these-concerns-21f81f77?mod=mw_rss_topstories",
-        "snippet": "After past snubs, social-media site Reddit has landed a spot on the S&P 500, sending shares on an after-hours rally Thursday.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-08-14T00:19:00+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 35.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
         ]
       }
     ]
