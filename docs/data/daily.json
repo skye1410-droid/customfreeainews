@@ -1,31 +1,16 @@
 {
-  "generated_at": "2026-08-27T08:08:37.175825+00:00",
+  "generated_at": "2026-08-28T10:11:30.162048+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Car rental firm RentLah sues former director, dealer Skyway over alleged 95-vehicle fraud",
-        "link": "https://www.businesstimes.com.sg/singapore/car-rental-firm-rentlah-sues-former-director-dealer-skyway-over-alleged-95-vehicle-fraud",
-        "snippet": "It has brought claims of conspiracy, breach of duties and fraudulent misrepresentation, among others",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-08-27T05:05:37+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 40.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The Business Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Deutsche Bank cites progress in technology revamp at retail division",
-        "link": "https://www.channelnewsasia.com/business/deutsche-bank-cites-progress-in-technology-revamp-retail-division-6344706",
+        "title": "Brighton women's coach Vidosic departs week before new WSL season",
+        "link": "https://www.channelnewsasia.com/sport/brighton-womens-coach-vidosic-departs-week-new-wsl-season-6347621",
         "snippet": "",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-08-27T07:58:06+00:00",
+        "published_utc": "2026-08-28T09:57:55+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
         "score": 35.9,
@@ -35,30 +20,45 @@
         ]
       },
       {
-        "title": "Full-day shutdown on Bukit Panjang LRT for renewal works on Sept 20 and Sept 27",
-        "link": "https://www.straitstimes.com/singapore/transport/full-day-shutdown-on-bukit-panjang-lrt-for-renewal-works-on-sept-20-and-sept-27",
-        "snippet": "These will be the last planned closures before the BPLRT renewal programme is completed by end-2026.",
+        "title": "Korea Artiz Studio taken to court for alleged non-payment of employees\u2019 CPF contributions",
+        "link": "https://www.straitstimes.com/singapore/korea-artiz-studio-taken-to-court-for-alleged-non-payment-of-employees-cpf-contributions",
+        "snippet": "MOM is investigating Korea Artiz Studio for possible offences on non-payment of salaries.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-08-27T07:09:30+00:00",
+        "published_utc": "2026-08-28T10:01:15+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 35.6,
+        "score": 35.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "Japan to survey animal cafes over hygiene, welfare concerns",
-        "link": "https://www.channelnewsasia.com/east-asia/japan-animal-cafes-hygiene-welfare-concerns-6344591",
-        "snippet": "The environment ministry will examine whether they comply with relevant laws, including whether animals have enough space and how often cleaning takes place, said an official.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-08-27T07:49:00+00:00",
+        "title": "How selling milk built this retail empire in SG",
+        "link": "https://www.businesstimes.com.sg/singapore/smes/how-selling-milk-built-retail-empire-sg",
+        "snippet": "What do cows have to do with 7-Eleven, Guardian, or even Genki Sushi? As the STI celebrates its 60th anniversary, Behind The...",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-08-28T07:52:10+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 34.9,
+        "score": 35.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The Business Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Lake overflows on Nepal-China border, sparking panic and halting rescue",
+        "link": "https://www.channelnewsasia.com/asia/nepal-tibet-disaster-floods-lake-overflow-border-panic-rescue-6347551",
+        "snippet": "At least 489 people in Nepal and five in China's Tibet were killed in catastrophic floods triggered by a glacier collapse, while nearly 1,000 others remain missing.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-08-28T09:21:00+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 34.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
@@ -67,61 +67,62 @@
     ],
     "United States": [
       {
-        "title": "What scientists know so far about Nepal\u2019s deadly floods",
-        "link": "https://www.bangkokpost.com/world/3308879/what-scientists-know-so-far-about-nepals-deadly-floods",
-        "snippet": "WASHINGTON - Lethal surges of mud and water that hit \u201clike liquid concrete\u201d are nearly impossible to predict and can\u2019t be outrun.",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-27T01:45:00+00:00",
+        "title": "Trump signs order to rename Lake Ontario as Lake America",
+        "link": "https://www.bbc.co.uk/news/articles/ckgwdn1g58yo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Canada has rejected the new name of the lake, which straddles both countries, as their row deepens.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-08-28T08:26:09+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 43.3,
+        "score": 53.3,
         "corroboration_count": 2,
         "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "State Department Advances Trump Crackdown on \u2018Far-Left Terrorism\u2019",
-        "link": "https://www.nytimes.com/2026/08/26/us/politics/trump-crackdown-far-left.html",
-        "snippet": "Critics say the Trump administration\u2019s focus is disproportionate, as analysts raise alarms about the growing strength of far-right movements.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-26T22:56:01+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 43.2,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
+          "BBC \u2014 World",
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Lisa Cook Hits Back at Trump\u2019s Latest Attempt to Oust Her as Fed Governor",
-        "link": "https://www.nytimes.com/2026/08/26/business/trump-lisa-cook-fed.html",
-        "snippet": "Lisa D. Cook hit back at President Trump\u2019s allegations that she had committed mortgage fraud.",
+        "title": "Why Many Iranians Are Losing Hope After Six Months of War",
+        "link": "https://www.nytimes.com/2026/08/28/world/middleeast/iranians-war-six-months-losing-hope.html",
+        "snippet": "Iranians have become increasingly desperate, as they grapple with an economic crisis made worse by the conflict and grow increasingly skeptical about President Trump\u2019s motives.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-27T01:53:43+00:00",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-28T08:58:35+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 41.4,
+        "score": 47.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 Business"
+          "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Judge Allows Option of Manslaughter Verdict in Lindsay Clancy Case",
-        "link": "https://www.nytimes.com/2026/08/26/us/lindsay-clancy-manslaughter-murder.html",
-        "snippet": "If jurors find Ms. Clancy guilty in the strangling deaths of her three children, they will choose among first-degree murder, second-degree murder and manslaughter.",
+        "title": "Lake Ontario Didn\u2019t Ask for Trump to Rename It",
+        "link": "https://www.nytimes.com/2026/08/27/us/politics/trump-lake-ontario-renaming.html",
+        "snippet": "There is a U.S.-led war in the Middle East and the midterm elections on the horizon, but President Trump\u2019s latest priority seems to be \u201cMaking The Great Lakes Even Greater.\u201d",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-26T23:25:21+00:00",
+        "published_utc": "2026-08-28T00:06:21+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 40.4,
+        "score": 46.8,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Jury Deliberations Underway in Lindsay Clancy Murder Trial",
+        "link": "https://www.nytimes.com/2026/08/28/us/lindsay-clancy-trial-jury-deliberation.html",
+        "snippet": "In order to reach a verdict, jurors must agree on whether Ms. Clancy should be held criminally responsible for killing her three children.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-08-28T09:04:08+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 43.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
@@ -130,60 +131,60 @@
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Thai exports rise 21.6% in July, beating forecast",
-        "link": "https://www.bangkokpost.com/business/general/3308988/thai-exports-rise-216-in-july-beating-forecast",
-        "snippet": "The value of \u200bThai exports rose 21.6% in July from a \u200byear earlier, the Ministry of Commerce said on Thursday, higher than analysts\u2019 expectations.",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-27T05:14:00+00:00",
+        "title": "Fear Over Malaysia\u2019s Plan to Send Back Rohingya Migrants to Myanmar",
+        "link": "https://www.nytimes.com/2026/08/28/world/asia/rohingya-refugees-malaysia-myanmar.html",
+        "snippet": "The announcement has sent panic through a community that fled its country\u2019s brutal military rule, civil war, religious persecution or some combination of the three.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-28T09:04:28+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 33.8,
+        "score": 39.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "What's OECD? Homework for government - survey shows",
+        "link": "https://www.bangkokpost.com/business/general/3309668/whats-oecd-homework-for-government-survey-shows",
+        "snippet": "As Thailand is lobbying for international support to join the Organisation for Economic Co-operation and Development (OECD), almost half of the people in the country still have no idea what it is, a poll released on...",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-08-28T06:49:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 34.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Manila urged to resist 'foreign pressure' amid crackdown on Chinese-linked steel firms",
-        "link": "https://www.philstar.com/headlines/2026/08/27/2552185/manila-urged-resist-foreign-pressure-amid-crackdown-chinese-linked-steel-firms",
-        "snippet": "The think tank urged continued probes of Chinese-linked steel plants nationwide.",
-        "source_domain": "philstar.com",
-        "outlet_name": "Philstar \u2014 Headlines",
-        "published_utc": "2026-08-27T05:17:00+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 32.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Philstar \u2014 Headlines"
-        ]
-      },
-      {
-        "title": "E-waste found in six containers at Laem Chabang",
-        "link": "https://www.bangkokpost.com/thailand/general/3308973/ewaste-found-in-six-containers-at-laem-chabang",
-        "snippet": "Six of 10 suspicious containers inspected on Wednesday at Laem Chabang Port in Chon Buri were found to contain electronic circuit boards mixed in with cargo declared as aluminium scrap.",
+        "title": "Your weekly horoscope for Aug 28 - Sept 3",
+        "link": "https://www.bangkokpost.com/life/social-and-lifestyle/3309670/your-weekly-horoscope-for-aug-28-sept-3",
+        "snippet": "Your spot-on weekly horoscope for work, money and relationship from Guru by the Bangkok Post's famously accurate fortune teller. Let's see how you will fare this week and beyond.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-27T04:27:00+00:00",
+        "published_utc": "2026-08-28T06:17:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 32.5,
+        "score": 33.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Rescuers search for survivors after devastating Nepal flood",
-        "link": "https://www.bangkokpost.com/world/3308913/rescuers-search-for-survivors-after-devastating-nepal-flood",
-        "snippet": "TRISHULI, Nepal/BEIJING: Rescue workers searched for hundreds of people still missing on Thursday after a wall of mud and rock collapsed into \u200ba river on the Himalayan border of Nepal and Tibet a day earlier, triggering...",
+        "title": "Tourism Ministry to deport misbehaving foreign tourists as new regulation takes effect",
+        "link": "https://www.bangkokpost.com/thailand/general/3309650/tourism-ministry-to-deport-misbehaving-foreign-tourists-as-new-regulation-takes-effect",
+        "snippet": "Tourism and Sports Minister Surasak Phancharoenworakul has backed Prime Minister Anutin Charnvirakul\u2019s latest directive, pledging to enforce newly-enacted legal measures aimed at cracking down on and deporting foreign...",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-08-27T02:15:00+00:00",
+        "published_utc": "2026-08-28T05:06:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 30.5,
+        "score": 31.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
@@ -192,250 +193,246 @@
     ],
     "World Affairs": [
       {
-        "title": "Live Updates: Rescuers Scour Himalayan Valleys for Survivors After Deadly Flood",
-        "link": "https://www.nytimes.com/live/2026/08/27/world/nepal-tibet-flash-floods",
-        "snippet": "More than 1,300 people were missing in Nepal and the Tibet region of China after a torrent of mud, water and ice swept away villages and bridges. Officials said 180 people were confirmed killed.",
+        "title": "Live Updates: New Nepal Flood Warning Clouds Desperate Search for Survivors",
+        "link": "https://www.nytimes.com/live/2026/08/28/world/nepal-tibet-flash-floods",
+        "snippet": "The Nepali police warned people to head for safety because more water could soak flood-ravaged villages. China said that the risk of a Tibetan lake overflowing had \u201cgradually decreased.\u201d",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-27T08:00:19+00:00",
+        "published_utc": "2026-08-28T10:00:23+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 43.9,
+        "score": 49.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "What to Know About Deadly Flash Floods in Nepal and Tibet",
-        "link": "https://www.nytimes.com/2026/08/26/world/asia/nepal-tibet-floods-wtk.html",
-        "snippet": "An avalanche may have caused an unusual flash flood without heavy rainfall, with hundreds of people unaccounted for in the path of destruction. Here\u2019s what to know.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-26T18:21:40+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 42.3,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Prince William Is Still Silent About His Brother, Harry. Can That Last?",
-        "link": "https://www.nytimes.com/2026/08/27/world/europe/prince-william-harry-uk.html",
-        "snippet": "Years of long-distance division between Prince William and his younger brother will be tested now that Harry has returned to Britain.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-27T04:01:06+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 40.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Yayoi Kusama, Japanese Pop Artist Known for Polka-Dot Paintings, Dies at 97",
-        "link": "https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html",
-        "snippet": "The Japanese artist\u2019s polka-dot covered paintings, phallic sculptures and public performances caused a stir in New York City and Europe in the 1960s.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-27T07:21:34+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 39.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      }
-    ],
-    "Geopolitics": [
-      {
-        "title": "West Point Climate Professor Says He Was Fired for Refusing to \u2018Defy Science\u2019",
-        "link": "https://www.nytimes.com/2026/08/26/us/politics/west-point-climate-professor-lawsuit.html",
-        "snippet": "Dr. Adam Kalkstein is suing the U. S. Military Academy, where he was a professor of geography and the only climate scientist, after being fired.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-26T23:03:57+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 36.2,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Iran War Weighs on Virginia Beach Voters in Key House Race",
-        "link": "https://www.nytimes.com/2026/08/26/us/politics/virginia-beach-congressional-election-iran-war.html",
-        "snippet": "The conflict with Iran is uniquely salient to the Virginia Beach voters deciding which party will win a critical House contest.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-08-26T17:05:57+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 33.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Iceland holds knife-edge referendum on EU - and it could be decided on fish",
-        "link": "https://www.bbc.co.uk/news/articles/c99dvmyr4glo?at_medium=RSS&at_campaign=rss",
-        "snippet": "On Saturday, Iceland will vote on EU membership talks, amid economic and geopolitical tensions.",
+        "title": "'High risk' of lake breaching and causing second flood, warns China",
+        "link": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+        "snippet": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-08-26T23:08:43+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 30.3,
+        "published_utc": "2026-08-28T08:10:21+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 49.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
         ]
       },
       {
-        "title": "What an Extradition Trial Reveals About Moscow\u2019s Influence in Africa",
-        "link": "https://foreignpolicy.com/2026/08/26/russia-influence-africa-extradition-trial-benin-coup/",
-        "snippet": "New details have emerged about a network of pro-Russian actors in the Sahel and beyond.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-08-26T19:50:18+00:00",
+        "title": "Inside Afghanistan\u2019s Secret Schools for Girls",
+        "link": "https://www.nytimes.com/2026/08/28/world/asia/afghanistans-girls-education.html",
+        "snippet": "The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-28T09:01:16+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 42.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "The Town Council Race Was Tied. The Three of Spades Called It.",
+        "link": "https://www.nytimes.com/2026/08/28/us/gila-bend-election-tiebreaker.html",
+        "snippet": "Two candidates for Town Council in Gila Bend, Ariz., finished with the same number of votes. A century-old state law mandated breaking the tie with a game of chance.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-08-28T09:02:39+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 40.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      }
+    ],
+    "Geopolitics": [
+      {
+        "title": "Clashes Cloud Shawn Fain\u2019s Re-election Bid at U.A.W.",
+        "link": "https://www.nytimes.com/2026/08/28/business/economy/uaw-shawn-fain-reelection.html",
+        "snippet": "A federal investigation and conflict over Israel are preoccupying the United Auto Workers president ahead of a vote that would give him a second term.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-08-28T09:00:23+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 28.9,
+        "score": 40.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Saudi Response to Houthis\u2019 Attacks on Ships May Be a New War",
+        "link": "https://www.nytimes.com/2026/08/27/world/middleeast/saudi-arabia-yemen-houthis-war.html",
+        "snippet": "Analysts say that weeks of Houthi attacks on Saudi targets have brought the kingdom and the Iranian-backed militia to the brink of full-blown conflict, and could open a new front in the Iran war.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-27T11:59:44+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 36.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "The SCO\u2019s Diminishing Usefulness for India",
+        "link": "https://foreignpolicy.com/2026/08/28/sco-shanghai-cooperation-organisation-summit-india-china-pakistan-russia-bishkek/",
+        "snippet": "Much like BRICS, the China-dominated Shanghai Cooperation Organisation offers few benefits to New Delhi.",
+        "source_domain": "foreignpolicy.com",
+        "outlet_name": "Foreign Policy",
+        "published_utc": "2026-08-28T09:11:50+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 35.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Foreign Policy"
+        ]
+      },
+      {
+        "title": "Qatari Prime Minister Travels to Tehran as Iran War Nears Six-Month Mark",
+        "link": "https://www.nytimes.com/2026/08/27/world/middleeast/qatar-visit-iran.html",
+        "snippet": "Sheikh Mohammed bin Abdulrahman Al Thani has been a key mediator in the conflict, even as his country has blamed Tehran for hundreds of missile and drone attacks.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-08-27T16:35:09+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 32.7,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
         ]
       }
     ],
     "Healthcare & Biotech": [
       {
-        "title": "US drug agency approves breakthrough treatment for pancreatic cancer",
-        "link": "https://www.bbc.co.uk/news/articles/clyq4ge4wk9o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Experts have hailed the drug, daraxonrasib, as a game changer for one of the world's deadliest cancers.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-08-26T22:02:18+00:00",
+        "title": "Wyoming Governor Objects to \u2018Very Odd\u2019 D.O.J. Election Monitoring",
+        "link": "https://www.nytimes.com/2026/08/28/us/politics/wyoming-governor-objects-to-very-odd-doj-election-monitoring.html",
+        "snippet": "Governor Mark Gordon, a Republican, said he was concerned by the behavior of election observers who visited a polling station in Cheyenne.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-08-28T09:04:07+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 49.8,
-        "corroboration_count": 2,
+        "score": 42.5,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
-          "STAT News"
+          "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "14 Newborns Die in Hospital Fire in Pakistan\u2019s Capital",
-        "link": "https://www.nytimes.com/2026/08/26/world/asia/pakistan-islamabad-hospital-fire.html",
-        "snippet": "The fire broke out at Islamabad\u2019s largest hospital and has become a political issue. Opposition supporters shouted, \u201cStop killing our children!\u201d at an official visiting the scene.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-26T18:30:44+00:00",
+        "title": "LTA engaging dealers, manufacturers of Chinese EVs over vehicle door concerns",
+        "link": "https://www.straitstimes.com/singapore/lta-engaging-dealers-manufacturers-of-chinese-evs-over-vehicle-door-concerns",
+        "snippet": "Owners who have concerns about their vehicles are advised to contact their dealers.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-08-28T09:40:00+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 46.3,
-        "corroboration_count": 2,
+        "score": 40.8,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "Fox News \u2014 World",
-          "The New York Times \u2014 World"
+          "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "After Whiskey With His Captors, Cuban Dissident Lands in a Miami Maelstrom",
-        "link": "https://www.nytimes.com/2026/08/27/world/americas/cuba-exile-otero-alcantaras.html",
-        "snippet": "The former political prisoner Luis Manuel Otero Alc\u00e1ntara is unpacking 4,000 paintings he brought to Miami from Cuba and dodging criticism from exiles who once welcomed him.",
+        "title": "Who Is Haakon, Norway\u2019s New King?",
+        "link": "https://www.nytimes.com/2026/08/28/world/europe/norway-new-king-haakon.html",
+        "snippet": "Crown Prince Haakon, the only son of King Harald V, will become monarch, a largely ceremonial and symbolic role.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-27T04:00:09+00:00",
+        "published_utc": "2026-08-28T09:31:22+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 41.3,
+        "score": 38.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "STAT+: FDA approves new pancreatic cancer drug expected to usher in new era of treatment",
-        "link": "https://www.statnews.com/2026/08/26/pancreatic-cancer-drug-rasonque-approved/?utm_campaign=rss",
-        "snippet": "The FDA has approved a life-extending treatment for advanced pancreatic cancer \u2014 the first such therapy to attack a genetic cause of the highly lethal malignancy.",
-        "source_domain": "statnews.com",
-        "outlet_name": "STAT News",
-        "published_utc": "2026-08-26T14:56:13+00:00",
+        "title": "A Study of Brain Proteins Offers New Targets to Treat Autism",
+        "link": "https://www.nytimes.com/2026/08/27/science/autism-treatments.html",
+        "snippet": "Researchers hope their findings could help inform future therapies for people with severe autism.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Health",
+        "published_utc": "2026-08-27T18:31:39+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 40.8,
-        "corroboration_count": 2,
+        "score": 36.5,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
-          "STAT News"
+          "The New York Times \u2014 Health"
         ]
       }
     ],
     "Technology & AI": [
       {
-        "title": "Ukraine\u2019s Most Potent Weapon: The Software Orchestrating Its Drone Army",
-        "link": "https://www.nytimes.com/2026/08/26/world/europe/ukraine-delta-battlefield-management.html",
-        "snippet": "The Delta system pulls together battlefield data to identify targets, creating a miles-wide \u201ckill zone.\u201d The technology is credited with helping to cut Russian advances to a near standstill.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-08-26T15:38:54+00:00",
+        "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+        "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+        "snippet": "Standardized driver interface aims to let devices talk to AI and each other.",
+        "source_domain": "arstechnica.com",
+        "outlet_name": "Ars Technica",
+        "published_utc": "2026-08-27T22:15:43+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 38.1,
+        "score": 37.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
+          "Ars Technica"
         ]
       },
       {
-        "title": "Nvidia closes in on Hugging Face acquisition",
-        "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-        "snippet": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+        "title": "As electric two-wheelers gain a foothold, Belgian startup Any bets on cargo space",
+        "link": "https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/",
+        "snippet": "Launched by Belgian startup Any, LUV1 is a modular electric motorcycle with 120 liters of cargo space that can be used to carry bags, work equipment, or even pets.",
         "source_domain": "techcrunch.com",
         "outlet_name": "TechCrunch",
-        "published_utc": "2026-08-27T06:32:51+00:00",
+        "published_utc": "2026-08-28T09:33:00+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.3,
+        "score": 35.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "TechCrunch"
         ]
       },
       {
-        "title": "Meta\u2019s $18B child-safety deal hinges on age-verification tech that doesn\u2019t work well",
-        "link": "https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/",
-        "snippet": "The historic settlement reignites ongoing concern around how age-verification technology puts privacy at risk.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-08-26T22:47:58+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 35.1,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "The UK Power Grid Has a Phantom Data Center Problem",
-        "link": "https://www.wired.com/story/uk-data-centers-logjam-ofgem-regulations/",
-        "snippet": "The UK\u2019s energy regulator is using a variety of tricks to keep speculative data center projects from plugging into the power grid. The country\u2019s AI ambitions hang in the balance.",
+        "title": "How an Atlanta Suburb Ended Up Sharing Flock Data With More Than 2,000 Organizations",
+        "link": "https://www.wired.com/story/how-an-atlanta-suburb-ended-up-sharing-flock-data-with-more-than-2000-organizations/",
+        "snippet": "Alpharetta, Georgia, cops share data with thousands of Flock users, ranging from federal agencies to a fish and wildlife commission. The reasons why show how vast\u2014and invasive\u2014the network has become.",
         "source_domain": "wired.com",
         "outlet_name": "Wired",
-        "published_utc": "2026-08-27T06:00:00+00:00",
+        "published_utc": "2026-08-28T09:00:00+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.1,
+        "score": 34.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Wired"
+        ]
+      },
+      {
+        "title": "Uber Eats Promo Codes: $15 Off \u2502September 2026",
+        "link": "https://www.wired.com/story/uber-eats-promo-code/",
+        "snippet": "Hunger meets savings. Discover verified Uber Eats promo codes, new user offers, and Uber One discounts to slash your delivery fees and meal costs.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-08-28T05:00:00+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 31.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Wired"
@@ -444,63 +441,63 @@
     ],
     "Business & Finance": [
       {
-        "title": "Diesel Price Nears Record High, Helping Oil Companies and Hurting Consumers",
-        "link": "https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html",
-        "snippet": "The cost of the fuel, used in farm machinery, trucks and other heavy equipment, has surged because of the war in Iran and Ukrainian attacks on Russian refineries.",
+        "title": "How 6 Months of War in Iran Jolted Oil, Gas, Stocks and More",
+        "link": "https://www.nytimes.com/2026/08/28/business/iran-war-oil-stocks-prices.html",
+        "snippet": "How markets have moved six months into the war, and where they might be headed in the future.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-27T02:41:15+00:00",
+        "published_utc": "2026-08-28T09:02:45+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 43.7,
+        "score": 48.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "How Dollywood Captured the Essence of Dolly Parton",
-        "link": "https://www.nytimes.com/2026/08/26/arts/music/dollywood-dolly-parton.html",
-        "snippet": "Her idea to create a \u201cfantasy city\u201d that celebrated her home region turned into a billion-dollar attraction that maintained its authentic feel.",
+        "title": "How Key Oil Stockpiles Dwindled During the War in Iran",
+        "link": "https://www.nytimes.com/video/us/100000011093055/how-key-oil-stockpiles-dwindled-during-the-war-in-iran.html",
+        "snippet": "Our energy reporter Rebecca F. Elliott explains how oil reserves helped prevent an oil shock caused by the war in Iran from getting even worse \u2014 and how low those reserves are now.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-08-26T17:19:45+00:00",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-08-28T09:02:05+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 34.8,
+        "score": 45.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Drought, Heat, Low Water Levels: Europe\u2019s River Cruises Take a Hit",
+        "link": "https://www.nytimes.com/2026/08/28/travel/europe-river-cruises-drought.html",
+        "snippet": "The Danube and Rhine are at record lows this summer, disrupting hundreds of cruises that have become an increasingly popular part of Europe\u2019s tourism industry.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-08-28T09:02:53+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 43.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "The \u2018Stability-Instability Paradox\u2019 Comes for Markets",
-        "link": "https://foreignpolicy.com/2026/08/27/stability-instability-paradox-markets/",
-        "snippet": "This is not yet an economic catastrophe, but it could very easily become one.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-08-27T04:01:07+00:00",
+        "title": "Why These Giant Storage Tanks Increasingly Hold Very Little Oil",
+        "link": "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html",
+        "snippet": "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-08-28T09:02:24+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 34.3,
+        "score": 41.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      },
-      {
-        "title": "\u2018My main goal is to help people\u2019: I\u2019m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-        "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-        "snippet": "\u201cI also own my home and an SUV outright, with no outstanding debt.\u201d",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-08-27T02:41:00+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 32.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
+          "The New York Times \u2014 Business"
         ]
       }
     ]
