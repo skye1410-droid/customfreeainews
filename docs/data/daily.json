@@ -1,130 +1,134 @@
 {
-  "generated_at": "2026-09-07T03:31:16.311154+00:00",
+  "generated_at": "2026-09-08T03:36:26.937742+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Racist, hateful comments towards Indians are deeply troubling; Singaporeans must reject hatred: SM Lee",
-        "link": "https://www.businesstimes.com.sg/singapore/racist-hateful-comments-towards-indians-are-deeply-troubling-singaporeans-must-reject-hatred-sm-lee",
-        "snippet": "In a Facebook post, he says that Singapore will always be vulnerable to visceral and divisive pulls",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-09-06T07:34:43+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 45.7,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "The Business Times \u2014 Singapore",
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "The price of diesel is showing up in the price of almost everything",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5958002/the-price-of-diesel-is-showing-up-in-the-price-of-almost-everything",
-        "snippet": "Diesel has hit a record high. Stephan Bisaha visits an Alabama truck stop to talk with drivers and business owners about how high prices are changing what they spend and charge.",
-        "source_domain": "npr.org",
-        "outlet_name": "NPR \u2014 National",
-        "published_utc": "2026-09-06T21:06:48+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 39.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "NPR \u2014 National"
-        ]
-      },
-      {
-        "title": "Racist, hateful comments towards Indians are deeply troubling; S\u2019poreans must reject hatred: SM Lee",
-        "link": "https://www.straitstimes.com/singapore/racist-hateful-comments-toward-indians-are-deeply-troubling-sporeans-must-reject-hatred-sm-lee",
-        "snippet": "When incidents like this happen, leaders must speak up with force and conviction, he says.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-09-06T04:45:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 36.5,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "The Business Times \u2014 Singapore",
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "North Korea vows nuclear-armed navy as US ally drills open",
-        "link": "https://www.channelnewsasia.com/east-asia/north-korea-vows-nuclear-armed-navy-us-ally-drills-open-6366436",
-        "snippet": "",
+        "title": "PM Wong, Chan Chun Sing to address political salaries review in parliament",
+        "link": "https://www.channelnewsasia.com/singapore/political-salary-review-parliament-lawrence-wong-chan-chun-sing-6367106",
+        "snippet": "Singapore last adjusted the salaries of political office holders and parliamentarians in 2011.",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-09-07T03:17:12+00:00",
+        "published_utc": "2026-09-08T03:17:44+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 35.9,
-        "corroboration_count": 1,
+        "score": 63.9,
+        "corroboration_count": 3,
         "corroborating_outlets": [
-          "CNA \u2014 Singapore"
+          "CNA \u2014 Singapore",
+          "The Business Times \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Parliament to debate political salaries this week; PM Wong and Chan Chun Sing to speak on Sep 8",
+        "link": "https://www.businesstimes.com.sg/singapore/parliament-debate-political-salaries-week-pm-wong-and-chan-chun-sing-speak-sep-8",
+        "snippet": "The House will debate the matter on Sep 10",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-09-07T06:23:55+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 52.2,
+        "corroboration_count": 3,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The Business Times \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Anak Krakatau eruption: SIA adds 8 relief flights between Jakarta and Singapore",
+        "link": "https://www.straitstimes.com/singapore/anak-krakatau-eruption-sia-adds-8-relief-flights-between-jakarta-and-singapore",
+        "snippet": "Customers should visit SIA's Flight Status page for the latest information on their flights.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-09-07T22:18:40+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 45.8,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Parliament to debate political salaries this week; PM Wong and Chan Chun Sing to speak on Sept 8",
+        "link": "https://www.straitstimes.com/singapore/politics/parliament-to-debate-political-salaries-this-week-pm-wong-and-chan-chun-sing-to-speak-on-sept-8",
+        "snippet": "MPs will have the opportunity to review and debate a salary committee\u2019s report and the Government\u2019s response.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-09-07T05:13:26+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 44.7,
+        "corroboration_count": 3,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The Business Times \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
         ]
       }
     ],
     "United States": [
       {
-        "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
-        "link": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
-        "snippet": "Officials said 5 others were injured. Flights were halted for hours at Miami International Airport after the Boeing 767-300 cargo plane overran its landing.",
+        "title": "Miami Plane Crash Starts Debate About Requiring a Buffer for Runways",
+        "link": "https://www.nytimes.com/2026/09/07/us/miami-crash-emas-buffer-runways.html",
+        "snippet": "A technology involving crushable concrete has been credited with saving nearly 500 passenger lives by helping halt planes that overshot their landings.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-09-06T23:06:58+00:00",
+        "published_utc": "2026-09-08T02:48:52+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 49.2,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "NPR \u2014 National",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
-        "snippet": "Video showed thick smoke rising from the plane crash of the Boeing 767 that the Federal Aviation Administration says overran the airport runway in Miami.",
-        "source_domain": "npr.org",
-        "outlet_name": "NPR \u2014 National",
-        "published_utc": "2026-09-06T19:54:28+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 44.8,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "NPR \u2014 National",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "A trucker explains what record diesel prices mean for his business",
-        "link": "https://www.npr.org/2026/09/06/nx-s1-5959157/a-trucker-explains-what-record-diesel-prices-mean-for-his-business",
-        "snippet": "Monte Wiederhold runs a trucking company in northwest Ohio. He explains how problems overseas affect businesses at home.",
-        "source_domain": "npr.org",
-        "outlet_name": "NPR \u2014 National",
-        "published_utc": "2026-09-06T21:06:47+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 44.3,
+        "score": 43.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "NPR \u2014 National"
+          "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "What to Know About Cargo Plane That Overran Its Runway, Killing 5 in Miami",
-        "link": "https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html",
-        "snippet": "The plane, which was operating as part of Amazon\u2019s cargo fleet, flew from Puerto Rico to Miami. It crashed into several vehicles after overrunning the runway.",
+        "title": "Cargo Plane Crashes at Miami Airport, Striking Vehicles",
+        "link": "https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html",
+        "snippet": "Officials said five others were injured. Flight disruptions at Miami International Airport continued on Monday morning.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-09-07T03:23:07+00:00",
+        "published_utc": "2026-09-07T15:28:23+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 43.9,
+        "score": 42.9,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Officials Search for Answers After Fatal Miami Airport Cargo Plane Crash",
+        "link": "https://www.nytimes.com/2026/09/07/us/miami-airport-plane-crash.html",
+        "snippet": "A cargo plane, operated for Amazon, plowed into two vehicles on Sunday, leaving five more injured and disrupting Labor Day weekend travel for thousands.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-09-08T01:06:19+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 42.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Trump\u2019s Trade War Is Shaping the Fight for Congress",
+        "link": "https://www.nytimes.com/2026/09/07/us/trump-tariffs-iran-congress-colorado.html",
+        "snippet": "In Colorado and across the country, higher costs, tariffs and cheap beef imports are affecting voters who will help determine which party controls the House next year.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-09-07T14:33:18+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 40.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
@@ -133,60 +137,60 @@
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "snippet": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-09-06T16:00:21+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 35.2,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "ST Live: Latest on Jakarta and other Indonesia airport closures after Anak Krakatau eruption",
-        "link": "https://www.straitstimes.com/singapore/news-as-it-happens-sept-7-11-2026",
-        "snippet": "Follow the latest updates on ST.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-09-06T23:30:00+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 34.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Budget bill cut ahead of debate",
-        "link": "https://www.bangkokpost.com/thailand/politics/3315033/budget-bill-cut-ahead-of-debate",
-        "snippet": "The 2027 budget bill, worth 3.78 trillion baht, has been cut by 11.162 billion baht ahead of a three-day parliamentary debate on its second and third readings starting on Monday, with MPs set to challenge several major...",
+        "title": "Indonesia reopens Jakarta airport, four others after Anak Krakatau ash clears",
+        "link": "https://www.bangkokpost.com/world/3315928/indonesia-reopens-jakarta-airport-four-others-after-anak-krakatau-ash-clears",
+        "snippet": "JAKARTA - Indonesia \u200bhas reopened its main Jakarta airport and four other airports \u200bthat had been closed due \u200cto volcanic ash from a series of eruptions at Mount Anak Krakatau, transport minister Dudy Purwagandhi said...",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-09-06T22:35:00+00:00",
+        "published_utc": "2026-09-08T01:54:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 33.9,
+        "score": 35.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Battling the blues - Young at risk from city's fast pace, heavy traffic",
-        "link": "https://www.bangkokpost.com/thailand/general/3315183/battling-the-blues-young-at-risk-from-citys-fast-pace-heavy-traffic",
-        "snippet": "In Bangkok's relentless traffic and fast-paced lifestyle, young people are facing mounting pressures that can lead to depression, self-harm and suicidal behaviour.",
+        "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
+        "link": "https://www.nytimes.com/2026/09/07/world/asia/philippines-romualdez-arrest-kickbacks.html",
+        "snippet": "A cousin of President Ferdinand Marcos Jr. was charged with plundering public funds meant for flood control in the Southeast Asian country. He has denied wrongdoing.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-09-07T17:58:56+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 35.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Agencies set to probe over 36,000 nominee companies",
+        "link": "https://www.bangkokpost.com/business/general/3315688/agencies-set-to-probe-over-36000-nominee-companies",
+        "snippet": "The Department of Business Development (DBD) has forwarded details of 36,277 foreign-owned legal entities holding land and property in Thailand to relevant enforcement agencies as part of a wider crackdown on foreign...",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-09-06T22:23:00+00:00",
+        "published_utc": "2026-09-07T22:40:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
         "score": 32.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "Thai tourism set to avoid worst forecasts",
+        "link": "https://www.bangkokpost.com/business/general/3315613/thai-tourism-set-to-avoid-worst-forecasts",
+        "snippet": "The government expects the tourism industry to recover from this year's worst-case scenario and is preparing to stage a large number of events in the final quarter to secure tourism revenue of 2.7 trillion baht.",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-09-07T22:28:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 29.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
@@ -195,144 +199,158 @@
     ],
     "World Affairs": [
       {
-        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-        "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+        "link": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-09-06T23:02:45+00:00",
+        "published_utc": "2026-09-07T22:23:03+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 56.1,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Germany\u2019s Far Right Just Misses Majority in Crucial State Election",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/germany-afd-election-saxony-anhalt.html",
-        "snippet": "The Alternative for Germany, or AfD, trounced its rivals but was left unsure if it will be able to govern in Saxony-Anhalt. The result shocked Germany.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-09-06T23:00:09+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 46.1,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-        "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "snippet": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-09-06T20:41:58+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 45.2,
+        "score": 47.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
         ]
       },
       {
-        "title": "Germany\u2019s far-right party AfD surges to historic victory in state election",
-        "link": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
-        "snippet": "German Chancellor Friedrich Merz's party faces a disastrous blow as AfD aims for Germany's first far-right state government since World War II.",
-        "source_domain": "foxnews.com",
-        "outlet_name": "Fox News \u2014 World",
-        "published_utc": "2026-09-07T01:36:49+00:00",
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "link": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+        "snippet": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-09-07T21:12:37+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 45.2,
+        "score": 46.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Ukraine's chief prosecutor resigns over call centre corruption scandal",
+        "link": "https://www.bbc.co.uk/news/articles/c780nlgyd79o?at_medium=RSS&at_campaign=rss",
+        "snippet": "In his resignation letter, Ruslan Kravchenko denied the allegations against him, saying he did not want his office \"to be used as a tool in political confrontation\".",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-09-08T01:07:47+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 45.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
+        "link": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The mayor of Paris said an investigation would be launched into the incident, which left female employees \"humiliated\", according to a union representative.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-09-07T23:46:44+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 39.4,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      }
+    ],
+    "Geopolitics": [
+      {
+        "title": "Israel Launches Deadly Strikes in Lebanon as Military Campaign Intensifies",
+        "link": "https://www.nytimes.com/2026/09/07/world/middleeast/israel-lebanon-strikes-hezbollah.html",
+        "snippet": "The bombardment killed 11 people, Lebanese officials said, after days of attacks that have spurred worries that Israel is looking to push deeper into Lebanese territory.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-09-07T17:30:14+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 38.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "S\u2019pore and Luxembourg working to deepen ties in quantum tech, AI, space, satellite communications",
+        "link": "https://www.straitstimes.com/singapore/politics/spore-and-luxembourg-working-to-deepen-ties-in-quantum-tech-ai-space-satellite-communications",
+        "snippet": "The countries marked 50 years of diplomatic relations in 2025.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-09-07T10:15:00+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 32.8,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "The Business Times \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Israeli strikes in southern Lebanese village kill 12",
+        "link": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-09-07T13:39:23+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 31.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Russia\u2019s quieter nuclear submarines threaten NATO, former commander warns",
+        "link": "https://www.foxnews.com/world/russias-quieter-nuclear-submarines-threaten-nato-former-commander-warns",
+        "snippet": "Russia's Yasen-M submarines and militarized Kola Peninsula are forcing NATO to confront a growing undersea threat across the GIUK Gap and Arctic, expert warns.",
+        "source_domain": "foxnews.com",
+        "outlet_name": "Fox News \u2014 World",
+        "published_utc": "2026-09-07T20:19:44+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 29.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Fox News \u2014 World"
         ]
       }
     ],
-    "Geopolitics": [
-      {
-        "title": "In Ukraine, Fraud and Waste Are Rewarded With More Weapons Contracts",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-war-weapons-fraud-corruption.html",
-        "snippet": "Secret military audits reveal a military procurement system riddled with mismanagement. In 2024 alone, Ukraine lost $1.2 billion to fraud and waste.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-09-06T09:00:10+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 38.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "What Secret Audits Tell Us About How Ukraine\u2019s Military Is Spending Its Money",
-        "link": "https://www.nytimes.com/2026/09/06/world/europe/ukraine-military-audits-spending-weapons.html",
-        "snippet": "The documents amount to an autopsy of the weapons-contracting process.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-09-06T09:02:23+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 26.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      }
-    ],
     "Healthcare & Biotech": [
       {
-        "title": "Armed Man Arrested After Charging Toward Democratic Candidate for Ohio Governor",
-        "link": "https://www.nytimes.com/2026/09/06/us/politics/amy-acton-governor-candidate-ohio-arrest-incident.html",
-        "snippet": "The authorities are charging the man, who they said had two pistols and a Taser on him but did not draw his weapons, with misdemeanor assault.",
+        "title": "The Heart Drug Pelacarsen Fails, Shocking Novartis and Cardiologists",
+        "link": "https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html",
+        "snippet": "Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-09-07T02:03:31+00:00",
+        "outlet_name": "The New York Times \u2014 Health",
+        "published_utc": "2026-09-07T18:55:43+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 47.4,
+        "score": 38.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
+          "The New York Times \u2014 Health"
         ]
       },
       {
-        "title": "New health guidelines: Osteoporosis screening, earlier breast cancer scan recommended",
-        "link": "https://www.straitstimes.com/singapore/health/new-health-guidelines-osteoporosis-screening-recommended-breast-cancer-scans-to-start-earlier",
-        "snippet": "The Health Ministry is reviewing the recommendations and whether to provide the relevant subsidies.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-09-06T21:00:00+00:00",
+        "title": "Eric Wu\u2019s newest company, out of stealth since May, is going after construction\u2019s labor crunch",
+        "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+        "snippet": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May \u2014 building AI copilots that give construction workers real-time, hands-free guidance...",
+        "source_domain": "techcrunch.com",
+        "outlet_name": "TechCrunch",
+        "published_utc": "2026-09-08T02:16:39+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 32.3,
+        "score": 35.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "For Fired DeSantis Campaign Staff Member, a Second Chance at State Dept.",
-        "link": "https://www.nytimes.com/2026/09/06/us/politics/nate-hochman-state-dept.html",
-        "snippet": "The hiring of Nate Hochman, who lost his job amid an uproar over a video containing a Nazi symbol, underscores the administration\u2019s willingness to overlook past transgressions.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-09-06T16:22:23+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 29.4,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
+          "TechCrunch"
         ]
       },
       {
@@ -341,72 +359,87 @@
         "snippet": "\u201cI\u2019d rather leave my estate to people who spent time with me because they genuinely valued my company.\u201d",
         "source_domain": "marketwatch.com",
         "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-09-06T19:45:00+00:00",
+        "published_utc": "2026-09-07T22:00:00+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 28.8,
+        "score": 32.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "MarketWatch \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "No\u00ebl Godin, Prankster Who Threw Pies at the Powerful, Dies at 80",
+        "link": "https://www.nytimes.com/2026/09/07/world/europe/noel-godin-dead.html",
+        "snippet": "Splattering figures like Bill Gates, Jean-Luc Godard and Bernard-Henri L\u00e9vy, he perfected the art of using whipped cream as a form of protest.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-09-07T09:03:15+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 32.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
         ]
       }
     ],
     "Technology & AI": [
       {
-        "title": "Phil Schiller\u2019s App Store exit reportedly driven by wariness over future plans",
-        "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
-        "snippet": "Schiller reportedly had reservations about new CEO John Ternus' goal of bringing in more recurring revenue from the App Store.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-09-06T21:41:06+00:00",
+        "title": "The 57 Best Deals From the REI Labor Day Sale",
+        "link": "https://www.wired.com/story/rei-labor-day-sale-2026/",
+        "snippet": "Labor Day already? Say it ain\u2019t so. Today is the last day to shop the best deals on WIRED-tested outdoor gear from REI, Nemo, MSR, Coleman, and more during REI\u2019s Labor Day sale.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-09-07T13:33:30+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 39.6,
+        "score": 33.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Wired"
+        ]
+      },
+      {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source_domain": "techcrunch.com",
+        "outlet_name": "TechCrunch",
+        "published_utc": "2026-09-07T19:24:00+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 31.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "TechCrunch"
         ]
       },
       {
-        "title": "China\u2019s New Graduates, Facing a Dire Job Market, Must Also Contend With A.I.",
-        "link": "https://www.nytimes.com/2026/09/06/world/asia/chinas-new-graduates-ai-challenges.html",
-        "snippet": "A record 12.7 million young people are looking for jobs as the country embraces artificial intelligence \u2014 and as the technology begins to upend the work force.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-09-06T20:36:11+00:00",
+        "title": "Home Depot Labor Day Sale (2026): BOGO on Best Grills and Tools",
+        "link": "https://www.wired.com/story/home-depot-labor-day-sale-deals-2026/",
+        "snippet": "The Home Depot Labor Day sale goes hard on grills and tools. Here are our recommendations on what to buy\u2014and what to ignore.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-09-07T16:35:52+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.1,
+        "score": 30.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
+          "Wired"
         ]
       },
       {
-        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-        "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+        "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+        "snippet": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
         "source_domain": "techcrunch.com",
         "outlet_name": "TechCrunch",
-        "published_utc": "2026-09-06T20:47:37+00:00",
+        "published_utc": "2026-09-07T18:02:29+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 32.2,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Travis Kalanick\u2019s Atoms might be getting into the robotaxi business",
-        "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-        "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-09-06T16:45:00+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 29.5,
+        "score": 30.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "TechCrunch"
@@ -415,60 +448,60 @@
     ],
     "Business & Finance": [
       {
-        "title": "\u2018I currently give him $1,000 a month\u2019: My grandson has severe mental illness. How do I protect him after I\u2019m gone?",
-        "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-        "snippet": "\u201cI\u2019m desperately trying to plan ahead while I\u2019m still able.\u201d",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-09-06T21:30:00+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 33.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
-        ]
-      },
-      {
-        "title": "\u2018It\u2019s not fair\u2019: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-        "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-        "snippet": "\u201cI am frustrated and financially exhausted from continuing to invest my own money into these properties.\u201d",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-09-06T21:00:00+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 32.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
-        ]
-      },
-      {
-        "title": "The C.E.O. Teaching Future Generations About 9/11",
-        "link": "https://www.nytimes.com/2026/09/06/business/9-11-museum-elizabeth-hillman.html",
-        "snippet": "Elizabeth Hillman, chief of the 9/11 Memorial & Museum since 2022, says the stories of that day \u201cremain compelling, and they\u2019re still unfolding.\u201d",
+        "title": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
+        "link": "https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html",
+        "snippet": "The electric automaker\u2019s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-09-06T09:00:42+00:00",
+        "published_utc": "2026-09-08T01:56:53+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 31.3,
+        "score": 41.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "CCRCs Are Expanding Retirement Home Care to Seniors\u2019 Own Homes",
-        "link": "https://www.nytimes.com/2026/09/06/business/retirement-long-term-care.html",
-        "snippet": "Continuing care retirement communities are widening their scope to help retirees age in place, with measured supports and a way to cap the soaring costs of aging.",
+        "title": "WYouth, New Magazine for Teens, Debuts With Justin and Hailey Bieber Cover",
+        "link": "https://www.nytimes.com/2026/09/07/style/wyouth-teen-magazine-gen-z.html",
+        "snippet": "Sara Moonves managed to save and expand W, a fashion and culture magazine. Her next bet is on \u201cLittle W.\u201d",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-09-06T10:50:18+00:00",
+        "published_utc": "2026-09-07T16:43:56+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 31.0,
+        "score": 39.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Oil prices climb after reports of Saudi Aramco refinery being hit by Houthi rebels",
+        "link": "https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories",
+        "snippet": "The West Texas Intermediate and Brent crude contracts previously rose to near-seven-week highs.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-09-08T03:09:00+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 35.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "MarketWatch \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "Social Media in China Is Getting Really Dark",
+        "link": "https://www.nytimes.com/2026/09/07/business/china-social-media-pessimism.html",
+        "snippet": "The Chinese Communist Party has spent years trying to make \u201cpositive energy\u201d the dominant mood of the country\u2019s internet. It\u2019s no longer working.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-09-07T09:04:03+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 35.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
