@@ -1,195 +1,189 @@
 {
-  "generated_at": "2026-10-06T05:26:17.825757+00:00",
+  "generated_at": "2026-10-07T04:55:27.655537+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "8 public officers referred to police over property buys near unannounced MRT stations: Chan Chun Sing",
-        "link": "https://www.businesstimes.com.sg/property/8-public-officers-referred-police-over-property-buys-near-unannounced-mrt-stations-chan-chun-sing",
-        "snippet": "They are among 191 individuals with transactions reviewed by PSD; checks are still ongoing",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-10-06T04:09:50+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 62.5,
-        "corroboration_count": 3,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore",
-          "The Business Times \u2014 Singapore",
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "8 public officers referred to police after review of 191 property transactions near unannounced MRT stations",
-        "link": "https://www.channelnewsasia.com/singapore/parliament-chan-chun-sing-psd-property-police-6435176",
-        "snippet": "Further checks are continuing and the government will study what the review shows about gaps in existing safeguards, says Coordinating Minister for Public Services Chan Chun Sing.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-06T04:34:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 57.6,
-        "corroboration_count": 3,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore",
-          "The Business Times \u2014 Singapore",
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Live: 8 public officers\u2019 property purchases near unannounced MRT stations referred to police",
-        "link": "https://www.straitstimes.com/singapore/politics/live-mps-to-discuss-home-purchases-by-civil-servants-near-unannounced-mrt-stations",
-        "snippet": "Debate begins on changes to income tax laws.",
+        "title": "MOH probes emergency response lapse after senior faced faulty call button in assisted-living flat",
+        "link": "https://www.straitstimes.com/singapore/politics/moh-probes-emergency-response-lapse-after-senior-faced-faulty-call-button-in-assisted-living-flat",
+        "snippet": "An ambulance was only called to Harmony Village @ Bukit Batok over two hours after the fall.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-10-06T01:51:45+00:00",
+        "published_utc": "2026-10-07T01:52:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 57.5,
-        "corroboration_count": 3,
+        "score": 38.7,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "CNA \u2014 Singapore",
-          "The Business Times \u2014 Singapore",
           "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "OldTown White Coffee's last Singapore outlet at Kallang Wave Mall to close after Oct 11",
-        "link": "https://www.channelnewsasia.com/dining/oldtown-white-coffee-last-singapore-outlet-closes-6435166",
-        "snippet": "The halal-certified chain is known for its Ipoh-style white coffee and Malaysian favourites including nasi lemak, kaya toast and noodles.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-06T05:12:15+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 48.9,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore",
-          "The Straits Times \u2014 Singapore"
-        ]
-      }
-    ],
-    "United States": [
-      {
-        "title": "Jim Bakker, Television Preacher Felled by Sex and Financial Scandals, Dies at 86",
-        "link": "https://www.nytimes.com/2026/10/05/us/jim-bakker-dead.html",
-        "snippet": "With his wife, Tammy Faye, Mr. Bakker built a broadcasting juggernaut around the gospel of prosperity.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-06T03:59:15+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 49.4,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Potential Iranian Drone Attack Led to Exit of U.S. Aircraft From British Air Base",
-        "link": "https://www.nytimes.com/2026/10/05/us/politics/iran-drone-attack-threat.html",
-        "snippet": "According to U.S. and British officials, 12 B-1 Air Force bombers from R.A.F. Fairford air base were withdrawn because of the risk of a drone attack ordered by Iran\u2019s Islamic Revolutionary Guard Corps.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-06T04:18:00+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 47.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Trump Allows Cheaper, Dyed Diesel to Be Used in Nonfarm Vehicles",
-        "link": "https://www.nytimes.com/2026/10/05/business/trump-dyed-diesel-fuel-executive-order.html",
-        "snippet": "In Nebraska, President Trump signed an executive order to waive an off-road requirement for the fuel, which is exempt from the federal highway tax.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-06T01:34:01+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 45.4,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+        "link": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+        "snippet": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-06T04:25:22+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 43.6,
+        "published_utc": "2026-10-06T23:07:44+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 38.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
         ]
-      }
-    ],
-    "Southeast Asia (SEA)": [
+      },
       {
-        "title": "Myanmar leader to visit Malaysia 'in next few days': Anwar",
-        "link": "https://www.channelnewsasia.com/asia/myanmar-leader-malaysia-visit-anwar-6435321",
-        "snippet": "\"During the visit of the President of Myanmar to Malaysia in the next few days, the foreign minister, the home minister, and I will raise issues towards a solution,\" Prime Minister Anwar Ibrahim said in parliament.",
+        "title": "Rare vinyl, cassettes, live DJ sets: Singapore record fair Side A returns for third edition on Oct 24",
+        "link": "https://www.channelnewsasia.com/living/side-singapore-vinyl-record-fair-2026-6438006",
+        "snippet": "Side A, A Singapore Record Show brings together vinyl collectors, independent labels and record dealers from Singapore and the region at Suntec Singapore, with rare records, DJ sets, live performances and more.",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-06T05:03:00+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 37.8,
+        "published_utc": "2026-10-07T04:16:00+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 36.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
         ]
       },
       {
-        "title": "AI-enabled attacks rank as top cyber risk",
-        "link": "https://www.bangkokpost.com/business/general/3332074/aienabled-attacks-rank-as-top-cyber-risk",
-        "snippet": "Artificial intelligence (AI)-enabled attacks have emerged as the most prominent cyber risk facing Thailand over the next two years, while ransomware, software vulnerabilities and phishing remain major threats, according...",
+        "title": "Jurong Island energy storage system not part of core power reserves: Tan See Leng",
+        "link": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/jurong-island-energy-storage-system-not-part-core-power-reserves-tan-see-leng",
+        "snippet": "EMA is evaluating how Singapore\u2019s power system can incorporate such energy storage in future planning",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-10-07T04:41:22+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 35.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The Business Times \u2014 Singapore"
+        ]
+      }
+    ],
+    "United States": [
+      {
+        "title": "How Trump\u2019s Tariff War With Canada Ensnared the Can-Am Spyder",
+        "link": "https://www.nytimes.com/2026/10/06/business/canada-tariffs-can-am-spyder.html",
+        "snippet": "The Can-Am Spyder has a devoted fan base across the United States. Now it\u2019s a casualty in the trade war with Canada.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-10-07T03:22:43+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 48.4,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Investigators Search Site of Warehouse Fire in Los Angeles",
+        "link": "https://www.nytimes.com/2026/10/06/us/boyle-heights-warehouse-fire-investigation.html",
+        "snippet": "State and local investigators executed a warrant on Tuesday to search the Boyle Heights building, which burned for days in June. A community group also sued the E.P.A. to get environmental data.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-10-07T00:58:35+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 46.4,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Trump says Fort Hood shooter can be executed by firing squad",
+        "link": "https://www.npr.org/2026/10/06/nx-s1-5992606/trump-says-fort-hood-shooter-can-be-executed-by-firing-squad",
+        "snippet": "The last time the U.S. military held an execution was in 1961, by hanging. The last military execution by firing squad was in 1945, when an American soldier was shot for desertion in World War II.",
+        "source_domain": "npr.org",
+        "outlet_name": "NPR \u2014 National",
+        "published_utc": "2026-10-06T19:50:39+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 46.2,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "NPR \u2014 National"
+        ]
+      },
+      {
+        "title": "University of Arizona Suspends Fraternity Activities, Citing Misconduct Reports",
+        "link": "https://www.nytimes.com/2026/10/06/us/arizona-university-fraternities-suspended.html",
+        "snippet": "The university said it was putting its fraternity chapters on \u201cactivities suspension\u201d while it investigated allegations that included assault, drug use and hazing.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-10-07T03:46:52+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 43.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      }
+    ],
+    "Southeast Asia (SEA)": [
+      {
+        "title": "Energy subsidies unlikely to bring down high prices",
+        "link": "https://www.bangkokpost.com/business/general/3332730/energy-subsidies-unlikely-to-bring-down-high-prices",
+        "snippet": "Thailand is bracing for persistently high energy prices through the end of the cool season as state subsidies reach their fiscal limits, underscoring the need for urgent energy conservation measures, according to the...",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-10-05T21:55:00+00:00",
+        "published_utc": "2026-10-06T22:34:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 36.9,
+        "score": 39.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Watch: Moment Indonesian sneaker shop is torn apart by explosion",
-        "link": "https://www.bbc.co.uk/news/videos/cmkg7dx8wpygo?at_medium=RSS&at_campaign=rss",
-        "snippet": "Police have said it is \u201cstrongly suspected\u201d that the incident was caused by a gas leak.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-06T04:57:16+00:00",
+        "title": "Bill Harris Has Died. He Kidnapped Patty Hearst in 1974.",
+        "link": "https://www.nytimes.com/2026/10/06/us/bill-harris-dead.html",
+        "snippet": "He was a disillusioned Vietnam veteran looking for purpose when he joined a revolutionary group known as the Symbionese Liberation Army.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-10-07T02:19:40+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 35.8,
+        "score": 38.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Thailand targets stability with new economic plan",
-        "link": "https://www.bangkokpost.com/business/general/3331969/thailand-targets-stability-with-new-economic-plan",
-        "snippet": "The government is seeking to drive the country's economy forward with the STI strategy -- Stabilise Today, Transition Now and Investment for Tomorrow, according to Finance Minister Ekniti Nitithanprapas.",
+        "title": "Tourist tax goes ahead despite floods",
+        "link": "https://www.bangkokpost.com/business/general/3332550/tourist-tax-goes-ahead-despite-floods",
+        "snippet": "The government remains committed to introducing the 450-baht tourism tax in the first quarter next year despite calls from the private sector to delay the scheme due to ongoing flooding, with officials citing an online...",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-10-05T22:04:00+00:00",
+        "published_utc": "2026-10-06T22:27:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 32.9,
+        "score": 32.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "2,000 swine drown at flooded farm",
+        "link": "https://www.bangkokpost.com/thailand/general/3332505/2000-swine-drown-at-flooded-farm",
+        "snippet": "Authorities expect to clear about 2,000 pig carcasses from a flooded farm in Prachin Buri by Thursday, Agriculture and Cooperatives Minister Suriya Juangroongruangkit said.",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-10-06T22:13:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 31.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
@@ -198,60 +192,61 @@
     ],
     "World Affairs": [
       {
-        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-        "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+        "title": "Former German spy chief arrested for espionage and treason",
+        "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+        "snippet": "August Hanning is accused of obtaining classified information for a foreign power.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-05T22:28:02+00:00",
+        "published_utc": "2026-10-06T10:05:42+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 45.1,
-        "corroboration_count": 1,
+        "score": 48.2,
+        "corroboration_count": 2,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "BBC \u2014 World",
+          "Fox News \u2014 World"
         ]
       },
       {
-        "title": "War With Iran Is Forcing the World to Reckon With Geography\u2019s Power",
-        "link": "https://www.nytimes.com/2026/10/05/business/economy/iran-war-oil-geography.html",
-        "snippet": "Trade blockages in the Persian Gulf have reminded the world that there are forces as great as or greater than technology and globalization.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-06T01:41:22+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 41.4,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Russia Moves to Tamp Down Rumors About Plague Outbreak in Siberia",
-        "link": "https://www.nytimes.com/2026/10/05/world/europe/russia-plague-siberia.html",
-        "snippet": "The country\u2019s consumer watchdog has said only that \u201can employee of an anti-plague institute in the Irkutsk Region\u201d contracted pneumonia.",
+        "title": "Student Protests Expand to More Than 40 French Cities",
+        "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
+        "snippet": "Union members, parents and teachers joined the demonstrations, broadening the student-led protest movement that has closed hundreds of French high schools since late September.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-05T21:29:00+00:00",
+        "published_utc": "2026-10-07T03:04:10+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 40.7,
+        "score": 43.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "UK MPs call for investigation after Lutnick-Epstein whistleblower dies",
-        "link": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-        "snippet": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month.",
+        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+        "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+        "snippet": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-05T23:29:02+00:00",
+        "published_utc": "2026-10-07T00:56:59+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 40.5,
+        "score": 42.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "From films to streaming prices - how the Warner Bros deal could affect you",
+        "link": "https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-06T18:42:58+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 41.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
@@ -260,249 +255,251 @@
     ],
     "Geopolitics": [
       {
-        "title": "Fort Hood shooter to be executed by firing squad, in first since World War Two",
+        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
         "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-        "snippet": "The execution of Nidal Malik Hasan will be the first military execution since 1961 and the first by firing squad since the end of World War Two.",
+        "snippet": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-06T02:22:24+00:00",
+        "published_utc": "2026-10-07T02:06:23+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 42.7,
+        "score": 52.8,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "NPR \u2014 National"
+        ]
+      },
+      {
+        "title": "Drones sink ships near NATO countries in \u201cunacceptable\u201d attacks, EU says",
+        "link": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+        "snippet": "Two cargo ships have sunk, one ship was afire, and sailors are dead or missing.",
+        "source_domain": "arstechnica.com",
+        "outlet_name": "Ars Technica",
+        "published_utc": "2026-10-06T21:31:10+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 38.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "Ars Technica"
         ]
       },
       {
         "title": "Why Saudi Arabia\u2019s Last War in Yemen Turned Into a Quagmire",
         "link": "https://www.nytimes.com/2026/10/05/world/middleeast/saudi-arabia-war-yemen-houthis-quagmire.html",
-        "snippet": "A Saudi-led coalition has announced a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.",
+        "snippet": "A Saudi-led coalition launched a military campaign against the Iran-backed Houthi militia in the country, reviving memories of its previous effort.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-05T15:32:44+00:00",
+        "published_utc": "2026-10-06T18:23:51+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 41.2,
+        "score": 35.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "The Rise of Gig Economy Warfare",
-        "link": "https://www.nytimes.com/2026/10/05/world/gig-economy-warfare-fairford-brazil.html",
-        "snippet": "An incident at a British air base may demonstrate a new era of low-intensity conflict.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-06T05:05:21+00:00",
+        "title": "South Korea weighs cuts to military exemptions for athletes, artists following Asian Games controversy",
+        "link": "https://www.channelnewsasia.com/east-asia/south-korea-military-conscription-exemption-review-6438351",
+        "snippet": "South Korea\u2019s men\u2019s football Asiad triumph was quickly overshadowed by controversy after some players appeared to celebrate securing military service exemptions.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-10-07T04:37:17+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 39.9,
+        "score": 34.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
+        ]
+      }
+    ],
+    "Healthcare & Biotech": [
+      {
+        "title": "Former German spy chief arrested on suspicion of espionage, attempted treason",
+        "link": "https://www.foxnews.com/world/former-german-spy-chief-arrested-suspicion-espionage-attempted-treason",
+        "snippet": "August Hanning, 80, who led Germany's BND from 1998 to 2005, faces espionage and attempted treason charges tied to roughly 2,000 classified documents.",
+        "source_domain": "foxnews.com",
+        "outlet_name": "Fox News \u2014 World",
+        "published_utc": "2026-10-07T03:50:51+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 41.6,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "Fox News \u2014 World"
+        ]
+      },
+      {
+        "title": "Cheikh Hamidou Kane, Author of Seminal Anticolonial Novel, Dies at 98",
+        "link": "https://www.nytimes.com/2026/10/05/obituaries/cheikh-hamidou-dead.html",
+        "snippet": "The Senegalese writer was lauded as one of the founding fathers of African literature who subtly captured the shock of colonization from the perspective of the continent\u2019s people.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-10-06T13:55:46+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 33.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Yemeni military says it has 'secured' Red Sea waterway",
-        "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-        "snippet": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait.",
+        "title": "Opinion: Infectious disease expert: The mysterious pneumonia in Russia deserves attention, not panic",
+        "link": "https://www.statnews.com/2026/10/06/russia-plague-reports-pneuomonia-siberia-expert-calm/?utm_campaign=rss",
+        "snippet": "Chill out about reports about plague in Siberia, writes infectious disease doctor Krutika Kuppalli.",
+        "source_domain": "statnews.com",
+        "outlet_name": "STAT News",
+        "published_utc": "2026-10-06T23:41:30+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 33.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "STAT News"
+        ]
+      },
+      {
+        "title": "Ship sinks and crew missing after Black Sea drone attack",
+        "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+        "snippet": "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-06T04:29:53+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 38.6,
+        "published_utc": "2026-10-06T11:53:21+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 32.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
         ]
       }
     ],
-    "Healthcare & Biotech": [
-      {
-        "title": "Nobel Prize in Physiology or Medicine Is Awarded for Discoveries in Neuroscience",
-        "link": "https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html",
-        "snippet": "Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-10-05T21:09:36+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 45.6,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Health"
-        ]
-      },
-      {
-        "title": "Dying Patients Are Inundated by Misinformation. My Dad Was One of Them.",
-        "link": "https://www.nytimes.com/2026/10/04/magazine/alternative-cancer-clinics-treatment-father.html",
-        "snippet": "Cancer patients are being persuaded to spend tens of thousands on unproven treatments by alternative-medicine clinics.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-10-05T23:19:42+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 38.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Health"
-        ]
-      },
-      {
-        "title": "Caleb Flynn, Who Appeared on \u2018American Idol,\u2019 Gets Life Sentence for Wife\u2019s Murder",
-        "link": "https://www.nytimes.com/2026/10/05/us/caleb-flynn-murder-sentence-life.html",
-        "snippet": "Caleb Flynn maintained his innocence at his sentencing hearing in Ohio on Monday.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-06T01:16:28+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 36.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Retrenched PMETs who return on lower pay see median 25% wage cut",
-        "link": "https://www.businesstimes.com.sg/singapore/economy-policy/retrenched-pmets-who-return-lower-pay-see-median-25-wage-cut",
-        "snippet": "Those in financial services have the lowest six-month re-entry rate over the last 14 quarters",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-10-06T05:15:58+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 35.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The Business Times \u2014 Singapore"
-        ]
-      }
-    ],
     "Technology & AI": [
       {
-        "title": "A.I. Officials Stonewall on Questions About Technology\u2019s Risks",
-        "link": "https://www.nytimes.com/2026/10/05/nyregion/ai-city-council-hearing.html",
-        "snippet": "A New York City Council hearing on artificial intelligence yielded few answers or assurances about how the industry would provide safeguards against catastrophic scenarios.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-06T02:07:54+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 40.6,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Sportsman's Warehouse Promo Code: Save in October 2026",
-        "link": "https://www.wired.com/story/sportsmans-warehouse-promo-code/",
-        "snippet": "Whether you are hunting for firearms, camping supplies, or boating gear, use these Sportsman\u2019s Warehouse coupons to maximize your savings in October 2026.",
+        "title": "I Found the 20 Best Prime Day Tech and Gadget Deals (October 2026)",
+        "link": "https://www.wired.com/story/best-prime-day-tech-deals-10-06-2026/",
+        "snippet": "Never pay full price. Bag yourself some Prime Day tech deals on our favorite WIRED-tested gadgets.",
         "source_domain": "wired.com",
         "outlet_name": "Wired",
-        "published_utc": "2026-10-06T05:00:00+00:00",
+        "published_utc": "2026-10-07T00:34:56+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 39.8,
+        "score": 40.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Wired"
         ]
       },
       {
-        "title": "The case for Nvidia\u2019s stock to march even higher after clinching its first record high in months",
-        "link": "https://www.marketwatch.com/story/the-case-for-nvidias-stock-to-march-even-higher-after-clinching-its-first-record-high-in-months-2bb5a937?mod=mw_rss_topstories",
-        "snippet": "Analysts highlight the stock\u2019s cheap valuation and the chip maker\u2019s central role in the AI ecosystem.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-10-05T21:52:00+00:00",
+        "title": "113 Best Prime Day Deals We\u2019re Shopping This October (2026)",
+        "link": "https://www.wired.com/story/absolute-best-amazon-prime-day-deals-10-06-2026/",
+        "snippet": "Amazon Prime Big Deal Days are here, and we\u2019ve tracked down the best discounts on all the gear our team recommends.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-10-07T00:32:13+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 36.8,
+        "score": 39.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
+          "Wired"
         ]
       },
       {
-        "title": "Texas city demands $2M for public records on Flock usage",
-        "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-        "snippet": "Prices of public records tracking cops' use of Flock go up as backlash swells.",
-        "source_domain": "arstechnica.com",
-        "outlet_name": "Ars Technica",
-        "published_utc": "2026-10-05T20:31:12+00:00",
+        "title": "Best Prime Day Digital Wall Calendar Deals: Skylight, Everblog, Apolosign (2026)",
+        "link": "https://www.wired.com/story/prime-day-digital-wall-calendar-deals-10-06-2026/",
+        "snippet": "Digital wall calendars can organize multiple family calendars, meal plans, chores, and to-do lists, and even double as a digital photo frame. And best of all, they\u2019re on sale.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-10-06T21:30:41+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 36.3,
+        "score": 34.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Ars Technica"
+          "Wired"
+        ]
+      },
+      {
+        "title": "The Best Anti\u2013Prime Day Deals for Amazon Haters",
+        "link": "https://www.wired.com/story/anti-prime-day-deals-october-2026/",
+        "snippet": "Want to save money without supporting Amazon? This roundup is full of deals on WIRED-approved favorites.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-10-06T21:17:39+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 33.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Wired"
         ]
       }
     ],
     "Business & Finance": [
       {
-        "title": "Burst of Attacks in Gulf Heightens Fears Over Fragile Energy Trade",
-        "link": "https://www.nytimes.com/2026/10/05/business/hormuz-saudi-iran-houthis.html",
-        "snippet": "Strikes on tankers in the Strait of Hormuz and oil infrastructure in Saudi Arabia came as the region\u2019s exporters were getting more oil to the world market.",
+        "title": "Emmy Awards Move to Prime Video in Six-Year Deal With Amazon",
+        "link": "https://www.nytimes.com/2026/10/06/business/media/emmy-awards-amazon.html",
+        "snippet": "The Television Academy is moving its awards telecast to streaming, following the lead of the Oscars.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-05T23:10:32+00:00",
+        "published_utc": "2026-10-06T15:59:29+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 39.4,
+        "score": 48.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "This rare stock-market divide means an elevated chance of a big surge \u2014 or a deep plunge",
-        "link": "https://www.marketwatch.com/story/this-rare-stock-market-divide-means-an-elevated-chance-of-a-big-surge-or-a-deep-plunge-cf2cb4e5?mod=mw_rss_topstories",
-        "snippet": "There\u2019s a huge and rare divergence between the two-month returns of the Nasdaq and Dow Jones Industrial Average.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-10-05T21:12:00+00:00",
+        "title": "S&P 500 Hits Record High Amid Rising Interest Rates and Elevated Oil Prices",
+        "link": "https://www.nytimes.com/2026/10/06/business/stock-market-record.html",
+        "snippet": "The S&P 500 rose 0.6 percent on Tuesday, exceeding its previous peak set in August and taking its gain this year to more than 14 percent.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-10-06T21:12:30+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 38.6,
+        "score": 46.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Paramount Closes Merger With Warner Bros. Discovery to Form Skydance",
+        "link": "https://www.nytimes.com/2026/10/06/business/media/paramount-warner-bros-discovery-skydance.html",
+        "snippet": "After a legal battle, the two Hollywood giants have become one. But the new company is saddled with debt, and in a memo to employees, its leaders hinted at cost cuts.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-10-07T00:45:57+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 45.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "The S&P 500 is back in record territory as the \u2018Magnificent Seven\u2019 ride to the rescue",
+        "link": "https://www.marketwatch.com/story/the-s-p-500-is-back-in-record-territory-as-the-magnificent-seven-ride-to-the-rescue-e062724d?mod=mw_rss_topstories",
+        "snippet": "After trading sideways for much of the past year, the \u201cMagnificent Seven\u201d have been staging a comeback, helping to re-energize a bull market threatened by rising bond yields and stubbornly high crude-oil prices.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-10-06T21:52:00+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 38.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "MarketWatch \u2014 Top Stories"
-        ]
-      },
-      {
-        "title": "China\u2019s fuel export halt could deepen diesel squeeze, with Asia in the firing line",
-        "link": "https://www.channelnewsasia.com/east-asia/china-suspend-fuel-export-diesel-asia-impact-6435161",
-        "snippet": "China\u2019s reported suspension of fuel exports for October could tighten diesel supplies in Asia and have knock-on effects on markets further afield, analysts say.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-06T04:48:26+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 36.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Nashville Symphony Receives $10 Million Lifeline From Oracle",
-        "link": "https://www.nytimes.com/2026/10/05/arts/music/nashville-symphony-oracle-gift.html",
-        "snippet": "The symphony announced last week that it was pausing the rest of the season after disclosing financial trouble. The concerts are back on now, thanks to a tech company gift.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-05T21:01:55+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 36.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
         ]
       }
     ]
