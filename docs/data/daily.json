@@ -1,19 +1,35 @@
 {
-  "generated_at": "2026-10-10T04:54:19.363328+00:00",
+  "generated_at": "2026-10-11T04:41:12.509208+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Singapore stands ready to assist Indonesia amid worsening haze, Grace Fu in touch with counterpart",
-        "link": "https://www.straitstimes.com/singapore/singapore-stands-ready-to-assist-indonesia-amid-worsening-haze-grace-fu-in-touch-with-counterpart",
-        "snippet": "",
+        "title": "Air quality remains unhealthy across Singapore amid haze",
+        "link": "https://www.channelnewsasia.com/singapore/haze-persists-singapore-air-quality-6449771",
+        "snippet": "The 24-hour PSI is expected to be in the \"unhealthy\" to \"high unhealthy\" range on Sunday, NEA said on Saturday evening.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-10-10T23:12:00+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 38.7,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Haze in Singapore: Air quality across the island remains in unhealthy range",
+        "link": "https://www.straitstimes.com/singapore/haze-in-singapore-air-quality-across-the-island-improves-slightly-but-remains-in-unhealthy-range",
+        "snippet": "One-hour PM2.5 readings stood at 69-93, in the elevated band.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-10-10T01:43:06+00:00",
+        "published_utc": "2026-10-10T23:09:23+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 45.7,
+        "score": 37.7,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "CNA \u2014 Singapore",
@@ -21,289 +37,236 @@
         ]
       },
       {
-        "title": "Singapore \u2018stands ready\u2019 to assist Indonesia on forest fires amid haze: Grace Fu",
-        "link": "https://www.channelnewsasia.com/singapore/singapore-indonesia-haze-support-grace-fu-6447076",
-        "snippet": "\"We are concerned about the well-being of our people. We are on top of the situation,\" says Singapore's Minister for Sustainability and the Environment.",
+        "title": "Singapore to roll out haze subsidies at GP clinics, polyclinics from Oct 12",
+        "link": "https://www.channelnewsasia.com/singapore/haze-subsidy-scheme-gp-clinics-polyclinics-moh-6449066",
+        "snippet": "Eligible Singaporeans will pay no more than S$10 for treatment of haze-related conditions, said the Ministry of Health.",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-10T01:52:00+00:00",
+        "published_utc": "2026-10-11T02:01:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 43.7,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore",
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Inside Singapore\u2019s government team that kills its own products",
-        "link": "https://www.businesstimes.com.sg/singapore/inside-singapores-government-team-kills-its-own-products",
-        "snippet": "Open Government Products founder Li Hongyi explains how things get built inside a bureaucracy",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-10-10T04:52:03+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 36.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The Business Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "IMH to be expanded, redeveloped by 2040 as Singapore boosts mental health capacity",
-        "link": "https://www.channelnewsasia.com/singapore/imh-expand-redevelop-ong-ye-kung-6448376",
-        "snippet": "The Institute of Mental Health will also be redesignated as a national specialty centre and renamed the National Centre for Mental Health Singapore in 2027.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-10T04:05:25+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 35.7,
+        "score": 35.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "PCF Sparkletots to double staff development spending to $20m, ease teachers\u2019 admin workload",
+        "link": "https://www.straitstimes.com/singapore/pcf-sparkletots-to-double-staff-development-spending-to-20m-ease-teachers-admin-workload",
+        "snippet": "The investment by PCF Sparkletots Preschool will support training and development for around 8,000 educators and 500 leaders.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-10-11T04:29:06+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 35.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The Straits Times \u2014 Singapore"
         ]
       }
     ],
     "United States": [
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
-        "link": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "snippet": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+        "link": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-10T04:38:20+00:00",
+        "published_utc": "2026-10-11T01:41:29+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 55.9,
+        "score": 54.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
         ]
       },
       {
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-09T22:30:22+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 46.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "Commentator Katie Zacharia picked as new White House press secretary",
-        "link": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-        "snippet": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-09T22:41:21+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 45.4,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Katie Zacharia Picked as Trump\u2019s New White House Press Secretary",
-        "link": "https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html",
-        "snippet": "Ms. Zacharia is a conservative commentator who is also an adviser to the company that runs President Trump\u2019s social media site, Truth Social. She succeeds Karoline Leavitt.",
+        "title": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
+        "link": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
+        "snippet": "In an unannounced change, the Defense Department is now acknowledging troops who died or were wounded in support roles.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-09T21:37:17+00:00",
+        "published_utc": "2026-10-11T00:01:38+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 45.0,
-        "corroboration_count": 2,
+        "score": 44.1,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
           "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "4 Minors Found Dead in Utah Apartment That Had High Carbon Monoxide Levels",
+        "link": "https://www.nytimes.com/2026/10/10/us/utah-carbon-monoxide-deaths.html",
+        "snippet": "The minors, whose ages ranged from 5 to 16, were among five people found dead in Richmond, Utah, the police said. The cause of death was not immediately clear.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-10-11T03:06:56+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 43.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Justice Dept. Is Investigating TV Networks Over Trump Pool Coverage",
+        "link": "https://www.nytimes.com/2026/10/10/business/media/trump-justice-department-tv-networks.html",
+        "snippet": "Major TV networks were notified on Friday that the department was examining whether they violated antitrust laws when they suspended pool coverage of President Trump.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-10-11T02:40:52+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 43.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
         ]
       }
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Watch: Who is Nobel Peace Prize winner Navi Pillay?",
-        "link": "https://www.bbc.co.uk/news/videos/cq8ezdww6w0do?at_medium=RSS&at_campaign=rss",
-        "snippet": "BBC correspondent Joe Inwood explains how Pillay's childhood in South Africa led her to become a driving force in international law from Myanmar to Gaza.",
+        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+        "link": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+        "snippet": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-09T15:26:33+00:00",
+        "published_utc": "2026-10-10T22:13:08+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 42.4,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "Fox News \u2014 World"
-        ]
-      },
-      {
-        "title": "Malaysia PM Anwar\u2019s 2027 budget spreads the goodies, but will it win over voters?",
-        "link": "https://www.channelnewsasia.com/asia/malaysia-budget-2027-anwar-ibrahim-goodies-6446591",
-        "snippet": "While some experts said that Malaysian Prime Minister Anwar Ibrahim\u2019s 2027 budget preserves fiscal discipline and the country's investor appeal, others say its lack of a \u201cwow factor\u201d may limit its impact with voters.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-09T22:54:29+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 35.5,
+        "score": 39.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "CNA \u2014 Singapore"
+          "BBC \u2014 World"
         ]
       },
       {
-        "title": "High\u2011tech industries to shift labour force",
-        "link": "https://www.bangkokpost.com/business/general/3334813/hightech-industries-to-shift-labour-force",
-        "snippet": "New investments promising to create jobs may not always deliver broad employment opportunities in Thailand, warns Tanit Sorat, vice\u2011chairman of the Employers' Confederation of Thai Trade and Industry.",
+        "title": "PM warns of rain as cleanup begins",
+        "link": "https://www.bangkokpost.com/thailand/general/3335049/pm-warns-of-rain-as-cleanup-begins",
+        "snippet": "Prime Minister Anutin Charnvirakul urged authorities to accelerate post-flood recovery efforts and warned 14 southern provinces to prepare for another round of heavy rainfall.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-10-10T03:40:00+00:00",
+        "published_utc": "2026-10-10T19:13:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 34.5,
+        "score": 38.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "ICC allows seven more drug war incidents in Duterte case",
-        "link": "https://www.philstar.com/headlines/2026/10/10/2562253/icc-allows-seven-more-drug-war-incidents-duterte-case",
-        "snippet": "The International Criminal Court has allowed prosecutors to add seven killings to the crimes against humanity case against former President Rodrigo Duterte, but struck out an eighth because it fell outside the time...",
-        "source_domain": "philstar.com",
-        "outlet_name": "Philstar \u2014 Headlines",
-        "published_utc": "2026-10-10T03:39:00+00:00",
+        "title": "Firefly cancels all flights between Seletar and Subang aiports amid haze",
+        "link": "https://www.straitstimes.com/singapore/firefly-cancels-all-flights-between-seletar-and-subang-aiports-amid-haze",
+        "snippet": "Affected passengers are being reallocated to Malaysia Airlines\u2019 services instead.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-10-11T04:21:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 33.5,
+        "score": 34.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Philstar \u2014 Headlines"
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Cops transferred after venue raid",
+        "link": "https://www.bangkokpost.com/thailand/general/3335044/cops-transferred-after-venue-raid",
+        "snippet": "Five senior police at Chana Songkhram station have been transferred to inactive posts pending an investigation after a special task force raided an unlicensed entertainment venue on Khao San Road and found several...",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-10-10T19:03:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 31.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories"
         ]
       }
     ],
     "World Affairs": [
       {
-        "title": "Human Rights Lawyer Navi Pillay Is Awarded Nobel Peace Prize",
-        "link": "https://www.nytimes.com/live/2026/10/09/world/nobel-peace-prize-winner-2026",
-        "snippet": "Ms. Pillay has served as a judge in her native South Africa and on international courts investigating war crimes. She led a U.N. panel that determined that Israel had committed genocide against Palestinians in Gaza, a...",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-09T23:00:44+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 61.5,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Navi Pillay, former UN human rights chief, wins Nobel Peace Prize",
-        "link": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Pillay is recognised for her \"efforts to promote peace and international law\", the Norwegian Nobel Committee says.",
+        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+        "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+        "snippet": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-09T17:37:10+00:00",
+        "published_utc": "2026-10-10T20:51:12+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 52.3,
-        "corroboration_count": 2,
+        "score": 43.7,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Man Dies in Tiger Attack at Yorkshire Wildlife Park in England",
+        "link": "https://www.nytimes.com/2026/10/10/world/europe/tiger-attack-wildlife-park-man-dead.html",
+        "snippet": "The man came face to face with an Amur tiger inside the animal\u2019s habitat at Yorkshire Wildlife Park in England. The park was evacuated and closed to the public.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-10-10T23:02:13+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 43.6,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Navi Pillay, South African Jurist, Is Awarded the Nobel Peace Prize",
-        "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-navi-pillay.html",
-        "snippet": "The choice drew condemnation from Israel over Ms. Pillay\u2019s role leading a U.N. commission that said the country had committed genocide against Palestinians.",
+        "title": "Saudi Arabia\u2019s Riyadh Airport Attacked Again, After Days of Houthi Strikes",
+        "link": "https://www.nytimes.com/2026/10/10/world/middleeast/riyadh-airport-attack-energy-congress.html",
+        "snippet": "The strike on Saturday was the deadliest attack in a Gulf Arab country since the U.S.-Israeli war with Iran began in February, and forced the airport to temporarily suspend operations.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-09T22:24:52+00:00",
+        "published_utc": "2026-10-11T00:31:34+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 51.3,
-        "corroboration_count": 2,
+        "score": 38.3,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Navi Pillay, a South African Human Rights Lawyer, Is Awarded the Nobel Peace Prize",
-        "link": "https://www.nytimes.com/2026/10/09/world/europe/nobel-peace-prize-winner-pillay.html",
-        "snippet": "A U.N. commission led by Ms. Pillay that investigated the war in Gaza found last year that Israel had committed genocide against Palestinians.",
+        "title": "A Week Later, Russia Hasn\u2019t Said What Pathogen Killed Plague Researcher",
+        "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+        "snippet": "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-09T13:57:46+00:00",
+        "published_utc": "2026-10-10T17:09:17+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 47.8,
-        "corroboration_count": 2,
+        "score": 38.2,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
           "The New York Times \u2014 World"
         ]
       }
     ],
     "Geopolitics": [
       {
-        "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-        "link": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
-        "snippet": "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine. But how should Europe retaliate? And how hard?",
+        "title": "A Senator Facing Re-Election Settles a Bakery Bill, 6 Years Later",
+        "link": "https://www.nytimes.com/2026/10/10/us/politics/marshall-kansas-baker-bill-senate-midterms.html",
+        "snippet": "Senator Roger Marshall, a Kansas Republican in a difficult race, paid an old campaign debt for cookies, muffins and brownies after a baker\u2019s story went viral online.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-09T22:07:24+00:00",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-10-11T02:33:35+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 44.2,
+        "score": 42.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Days of Deadly Houthi Attacks Show Saudi Arabia\u2019s Vulnerabilities",
-        "link": "https://www.nytimes.com/2026/10/09/world/middleeast/yemen-houthi-attack-saudi-arabia-airport-riyadh.html",
-        "snippet": "The escalating violence has brought the conflict in Yemen to the doorstep of the Saudi capital, and the kingdom has no easy options to curtail the increasingly sophisticated and targeted strikes.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-09T15:17:55+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 43.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "link": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "snippet": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-09T18:40:10+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 37.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
+          "The New York Times \u2014 U.S."
         ]
       },
       {
@@ -312,202 +275,216 @@
         "snippet": "The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder\u2019s growing role in one of Africa\u2019s most intractable conflicts.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-09T22:55:07+00:00",
+        "published_utc": "2026-10-10T13:35:59+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 37.5,
+        "score": 40.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
+        "link": "https://www.bbc.co.uk/news/articles/c8vgx9ew571wo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Eight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-10T14:49:32+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 28.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
         ]
       }
     ],
     "Healthcare & Biotech": [
       {
-        "title": "The Global Diesel Crisis, Explained",
-        "link": "https://foreignpolicy.com/2026/10/09/diesel-crisis-oil-fuel-refineries-iran-ukraine-war/",
-        "snippet": "How did the world reach a tipping point, and who holds the leverage?",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-10-09T19:21:33+00:00",
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "snippet": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-10T17:44:26+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 43.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      },
-      {
-        "title": "Who is Navi Pillay? Nobel Peace Prize winner's UN record renews fierce antisemitism accusations",
-        "link": "https://www.foxnews.com/world/who-navi-pillay-nobel-peace-prize-winners-un-record-renews-fierce-antisemitism-accusations",
-        "snippet": "Navi Pillay's 2026 Nobel Peace Prize sparked backlash from Jewish advocacy groups and UN Watch over allegations of anti-Israel bias and antisemitism.",
-        "source_domain": "foxnews.com",
-        "outlet_name": "Fox News \u2014 World",
-        "published_utc": "2026-10-09T18:05:30+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 42.5,
+        "score": 49.4,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "BBC \u2014 World",
-          "Fox News \u2014 World"
+          "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Private Medicare Plans Are Raising Costs And Forcing Millions To Find New Insurance",
-        "link": "https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html",
-        "snippet": "As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-10-09T22:04:42+00:00",
+        "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+        "link": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "snippet": "Saudi and US officials blame the attack on Yemen's Houthis, who have not taken responsibility for the latest strike.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-11T03:57:22+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 41.2,
+        "score": 48.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 Health"
+          "BBC \u2014 World"
         ]
       },
       {
-        "title": "Cancer Vaccines Are the N.I.H.\u2019s Next \u2018Big Bet\u2019",
-        "link": "https://www.nytimes.com/2026/10/09/science/cancer-vaccines-nih-big-bet.html",
-        "snippet": "New details have emerged about an initiative that starts in December to fast-track the vaccines, similar to the successful push for the Covid-19 vaccine.",
+        "title": "Christa Pike Discharged From Hospital After Surviving Execution Attempt",
+        "link": "https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html",
+        "snippet": "Ms. Pike, 50 and convicted of the 1995 murder of a classmate, survived two doses of the drug pentobarbital late last month.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-10-09T20:26:29+00:00",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-10-10T18:51:39+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 39.5,
+        "score": 43.9,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Scheme providing subsidies for haze-related conditions to start Oct 12: Ong Ye Kung",
+        "link": "https://www.businesstimes.com.sg/singapore/scheme-providing-subsidies-haze-related-conditions-start-oct-12-ong-ye-kung",
+        "snippet": "MOH has seen an uptick in the number of people visiting hospitals\u2019 emergency departments and polyclinics for respiratory issues",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-10-11T03:04:45+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 41.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 Health"
+          "The Business Times \u2014 Singapore"
         ]
       }
     ],
     "Technology & AI": [
       {
-        "title": "Tesla\u2019s \u2018Full Self-Driving\u2019 Becomes \u2018Assisted Driving\u2019 in Europe",
-        "link": "https://www.wired.com/story/tesla-full-self-driving-becomes-assisted-driving-in-europe/",
-        "snippet": "The automaker has been criticized for misleading drivers with the feature\u2019s name. Now it\u2019s renaming it for European regulators.",
-        "source_domain": "wired.com",
-        "outlet_name": "Wired",
-        "published_utc": "2026-10-09T20:18:15+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 46.4,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "TechCrunch",
-          "Wired"
-        ]
-      },
-      {
-        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-        "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-        "snippet": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+        "title": "Microsoft\u2019s Satya Nadella says AI models need an \u2018emergency brake\u2019",
+        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+        "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it\u2019s time \u201cto step back and assess the trust architecture\u201d of AI.",
         "source_domain": "techcrunch.com",
         "outlet_name": "TechCrunch",
-        "published_utc": "2026-10-10T03:10:06+00:00",
+        "published_utc": "2026-10-10T21:47:51+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 41.3,
+        "score": 39.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "TechCrunch"
         ]
       },
       {
-        "title": "Tesla renames \u2018Full Self-Driving\u2019 to \u2018Tesla Assisted Driving\u2019 in Europe",
-        "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-        "snippet": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "snippet": "Is Apple hoping to get into the AI-generated podcast business?",
         "source_domain": "techcrunch.com",
         "outlet_name": "TechCrunch",
-        "published_utc": "2026-10-09T16:07:26+00:00",
+        "published_utc": "2026-10-10T19:50:00+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 34.7,
-        "corroboration_count": 2,
+        "score": 37.3,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "TechCrunch",
-          "Wired"
+          "TechCrunch"
         ]
       },
       {
-        "title": "Neanderthal wooden tools from Spain found preserved in stone",
-        "link": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
-        "snippet": "Dissolved rock precipitated around the tools, which then decayed.",
-        "source_domain": "arstechnica.com",
-        "outlet_name": "Ars Technica",
-        "published_utc": "2026-10-09T22:34:03+00:00",
+        "title": "What\u2019s Dragging Down A.I. Efficiency? The \u2018Verification Tax.\u2019",
+        "link": "https://www.nytimes.com/2026/10/10/business/dealbook/ai-verification-tax-rework.html",
+        "snippet": "As artificial intelligence automates office tasks, it is also creating a new type of human work.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-10-10T14:28:57+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 33.4,
+        "score": 37.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Ars Technica"
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+        "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+        "snippet": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can\u2019t get enough electricity.",
+        "source_domain": "techcrunch.com",
+        "outlet_name": "TechCrunch",
+        "published_utc": "2026-10-10T17:00:00+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 29.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "TechCrunch"
         ]
       }
     ],
     "Business & Finance": [
       {
-        "title": "China and Europe Step Back From Trade War With Limits on Chinese Car Exports",
-        "link": "https://www.nytimes.com/2026/10/09/business/china-european-union-trade.html",
-        "snippet": "The European Union said the deal could roughly halve shipments of hybrid vehicles from China in the next four years. But it also could lead to an even stronger Chinese auto industry.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-09T18:54:08+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 41.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Target Says It\u2019s Not Working With ICE Amid Uproar Over Parking Lot Use",
-        "link": "https://www.nytimes.com/2026/10/09/nyregion/target-parking-lot-ice.html",
-        "snippet": "The retailer came under attack for being a staging area for immigration officers after Thursday\u2019s shooting in New York City.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-09T19:11:28+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 39.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "\u2018I feel like a loser\u2019: My stock portfolio is swinging wildly. Should I be worried?",
-        "link": "https://www.marketwatch.com/story/i-feel-like-a-loser-my-etfs-go-up-one-day-and-crash-the-next-is-this-a-bad-sign-0c9848b2?mod=mw_rss_topstories",
-        "snippet": "\u201cI presume these are sophisticated investors taking a profit.\u201d",
+        "title": "Should I put my nest egg in a 30-year Treasury bond?",
+        "link": "https://www.marketwatch.com/story/should-i-put-my-nest-egg-in-a-30-year-treasury-bond-89db6e09?mod=mw_rss_topstories",
+        "snippet": "Risk comes in many forms, even with \u201csafe\u201d investments.",
         "source_domain": "marketwatch.com",
         "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-10-10T03:15:00+00:00",
+        "published_utc": "2026-10-10T19:44:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 35.3,
+        "score": 32.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "MarketWatch \u2014 Top Stories"
         ]
       },
       {
-        "title": "Whistle-Blower Says I.R.S. Leaked His Tax Records in Retaliation",
-        "link": "https://www.nytimes.com/2026/10/07/business/economy/whistle-blower-irs-lawsuit.html",
-        "snippet": "Brian J. Visalli, a veteran investigator of tax fraud, said in a lawsuit that the agency had sent his personal and tax information to federal prosecutors.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-09T15:04:54+00:00",
+        "title": "Worse than taking away your parents\u2019 car keys? Taking away their cell phone. How to protect your aging parents.",
+        "link": "https://www.marketwatch.com/story/worse-than-taking-away-your-parents-car-keys-taking-away-their-cellphone-how-to-protect-your-aging-parents-f01be6e6?mod=mw_rss_topstories",
+        "snippet": "Parental controls aren\u2019t just for kids anymore",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-10-10T19:44:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 34.2,
+        "score": 31.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 Business"
+          "MarketWatch \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "These decisions you make in your 20s \u2014 not your income \u2014 determine whether you\u2019ll spend decades in debt or retire comfortably",
+        "link": "https://www.marketwatch.com/story/these-decisions-you-make-in-your-20s-not-your-income-determine-whether-youll-spend-decades-in-debt-or-retire-comfortably-7bbb28f9?mod=mw_rss_topstories",
+        "snippet": "Don\u2019t just focus on stock picks when you\u2019re thinking of building retirement wealth",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-10-10T19:44:00+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 30.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "MarketWatch \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "How to downsize like a pro \u2014 and free yourself from being a \u2018prisoner of your possessions\u2019",
+        "link": "https://www.marketwatch.com/story/how-to-downsize-like-a-pro-and-free-yourself-from-being-a-prisoner-of-your-possessions-c4b5533e?mod=mw_rss_topstories",
+        "snippet": "Seven tips for painlessly moving in retirement.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-10-10T19:44:00+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 29.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "MarketWatch \u2014 Top Stories"
         ]
       }
     ]
