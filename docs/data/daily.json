@@ -1,240 +1,221 @@
 {
-  "generated_at": "2026-10-29T04:52:06.859394+00:00",
+  "generated_at": "2026-10-30T04:52:20.460230+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "About 11,000 homes planned on Maju Forest, Gillman Barracks sites with more greenery to be retained",
-        "link": "https://www.businesstimes.com.sg/property/about-11000-homes-planned-maju-forest-gillman-barracks-sites-more-greenery-be-retained",
-        "snippet": "Revised proposals will yield about 9,500 public homes and 1,500 private units, with taller blocks on the cards",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-10-28T10:30:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 39.3,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "The Business Times \u2014 Singapore",
-          "The Straits Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Exclusive-Bank of Korea board member says won moves faster than expected",
-        "link": "https://www.channelnewsasia.com/business/exclusive-bank-korea-board-member-says-won-moves-faster-expected-6502366",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-29T04:33:42+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 38.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "North Korea fires unknown projectile into East Sea: Seoul defence ministry",
-        "link": "https://www.channelnewsasia.com/east-asia/north-korea-fires-unknown-projectile-east-sea-6502256",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-10-29T04:47:10+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 36.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Haze in S\u2019pore: PM2.5 reading in the west returns to normal zone after entering elevated range",
-        "link": "https://www.straitstimes.com/singapore/haze-in-spore-pm2-5-reading-in-elevated-zone-for-1st-time-since-oct-27-at-57-in-the-west",
-        "snippet": "The one-hour PM2.5 readings for all five regions are between 24 and 47, in the normal range.",
+        "title": "New SGH emergency and national neuroscience building slashes stroke treatment times",
+        "link": "https://www.straitstimes.com/singapore/health/new-sgh-emergency-and-national-neuroscience-building-slashes-stroke-treatment-times",
+        "snippet": "New SGH and NNI building slashes stroke treatment times; workflows centred on patients.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-10-29T03:27:45+00:00",
+        "published_utc": "2026-10-30T04:30:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 35.4,
+        "score": 40.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Muhyiddin says agreement to support Anwar on key parliamentary votes unrelated to Melaka polls",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-anwar-ibrahim-muhyiddin-bersatu-6505911",
+        "snippet": "Six Bersatu lawmakers signed the agreement committing to support Prime Minister Anwar Ibrahim\u2019s unity government, where PH is the largest coalition, through to the end of the current parliamentary term.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-10-30T04:36:00+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 39.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+        "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
+        "snippet": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-29T13:25:07+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 38.6,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Injured India seamer Krishna out of ODI series in NZ",
+        "link": "https://www.channelnewsasia.com/sport/injured-india-seamer-krishna-out-odi-series-in-nz-6506001",
+        "snippet": "",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-10-30T04:44:43+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 35.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
         ]
       }
     ],
     "United States": [
       {
-        "title": "Trump Administration Moves to Close East Potomac Park to Begin Golf Project",
-        "link": "https://www.nytimes.com/2026/10/28/us/politics/deadline-golf-course-closure.html",
-        "snippet": "The government said in a court filing that it would meet the Nov. 15 deadline set by President Trump to close East Potomac Park to build a championship golf course there.",
+        "title": "2 Helicopters Collide Midair in Oregon, Killing All 3 Aboard",
+        "link": "https://www.nytimes.com/2026/10/30/us/helicopters-crash-oregon.html",
+        "snippet": "A student pilot and a flight instructor were killed, along with the person in the second helicopter, officials said. The cause has not been determined.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-29T03:57:57+00:00",
+        "published_utc": "2026-10-30T04:39:53+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 43.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "How One Country Became the Unlikely Crossroads of the Global A.I. Boom",
+        "link": "https://www.nytimes.com/2026/10/30/business/malaysia-data-center-china.html",
+        "snippet": "In Malaysia, U.S. and Chinese tech giants are pouring billions into vast data centers, straining local resources and testing the limits of Washington\u2019s restrictions on advanced chips.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-10-30T04:01:14+00:00",
         "stack": "United States",
         "stack_tag": "US",
         "score": 43.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
+          "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "In Michigan, El-Sayed Faces Heat From Former Primary Rival as Election Nears",
-        "link": "https://www.nytimes.com/2026/10/28/us/politics/stevens-el-sayed-senate-democrats-michigan.html",
-        "snippet": "Representative Haley Stevens has been less than enthusiastic about Dr. Abdul El-Sayed, injecting late intraparty tensions into a race that could decide Senate control.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-29T03:39:13+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 42.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Cabinet Officials on the Campaign Trail? Ethics Experts Say Some Are Breaking the Law.",
-        "link": "https://www.nytimes.com/2026/10/28/us/politics/trump-hatch-act.html",
-        "snippet": "As Trump officials stump for Republican candidates facing difficult races, ethics experts say they are being lax about complying with the Hatch Act, a federal anti-corruption law.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-29T04:30:48+00:00",
+        "title": "A New War on Iran Would Deal a Death Blow to U.S. Leadership in the Mideast",
+        "link": "https://foreignpolicy.com/2026/10/29/netanyahu-trump-israel-united-states-iran-war-election/",
+        "snippet": "Netanyahu and Trump appear to be planning another round.",
+        "source_domain": "foreignpolicy.com",
+        "outlet_name": "Foreign Policy",
+        "published_utc": "2026-10-29T19:04:01+00:00",
         "stack": "United States",
         "stack_tag": "US",
         "score": 41.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
+          "Foreign Policy"
         ]
       },
       {
-        "title": "CNN, MS Now and Politico Update Lawsuit Against Trump Over White House Access",
-        "link": "https://www.nytimes.com/2026/10/28/business/media/cnn-ms-now-politico-white-house-lawsuit.html",
-        "snippet": "The news outlets argued in an updated lawsuit that they should be granted access to the White House reporting pools.",
+        "title": "In Reversal, Former Primary Rival Will Campaign With El-Sayed",
+        "link": "https://www.nytimes.com/2026/10/29/us/elections/el-sayed-stevens-campaign-event.html",
+        "snippet": "Representative Haley Stevens of Michigan, who was defeated by Dr. Abdul El-Sayed in August\u2019s Democratic Senate primary, said she would appear with the candidate this weekend.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-28T20:47:13+00:00",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-10-30T01:39:48+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 40.6,
+        "score": 41.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 Business"
+          "The New York Times \u2014 U.S."
         ]
       }
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-        "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-28T10:31:22+00:00",
+        "title": "ASEAN envoy meets Myanmar minister, discusses civil war and aid access",
+        "link": "https://www.channelnewsasia.com/asia/asean-envoy-philippine-myanmar-civil-war-6505826",
+        "snippet": "Philippine Foreign Secretary Ma Teresa Lazaro met Myanmar counterpart Tin Maung Swe in the capital Naypyitaw on Thursday (Oct 29).",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-10-30T04:12:38+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 30.4,
+        "score": 38.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "CNA \u2014 Singapore"
         ]
       },
       {
-        "title": "\u2018Eat the rich\u2019: Indonesians fed up with graft, wildfires",
-        "link": "https://www.bangkokpost.com/world/3345215/eat-the-rich-indonesians-fed-up-with-graft-wildfires",
-        "snippet": "JAKARTA - Thousands of Indonesians protested in Jakarta and other cities on Wednesday against economic hardship, graft and the government\u2019s handling of devastating wildfires emitting a toxic haze that has made thousands...",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-10-28T14:30:00+00:00",
+        "title": "More drug war victims\u2019 kin want to join Duterte trial",
+        "link": "https://www.philstar.com/headlines/2026/10/30/2566663/more-drug-war-victims-kin-want-join-duterte-trial",
+        "snippet": "Almost 100 relatives of drug war victims have applied to participate in the ongoing crimes against humanity trial of former president Rodrigo Duterte before the International Criminal Court.",
+        "source_domain": "philstar.com",
+        "outlet_name": "Philstar \u2014 Headlines",
+        "published_utc": "2026-10-29T16:00:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 30.0,
+        "score": 25.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories"
+          "Philstar \u2014 Headlines"
         ]
       },
       {
-        "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
-        "link": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-28T17:34:41+00:00",
+        "title": "Bernardo: Only Ping not involved in infra kickbacks",
+        "link": "https://www.philstar.com/headlines/2026/10/30/2566659/bernardo-only-ping-not-involved-infra-kickbacks",
+        "snippet": "Former Department of Public Works and Highways undersecretary Roberto Bernardo testified yesterday that to his knowledge, only Sen. Panfilo Lacson was not involved in any kickback scheme surrounding government...",
+        "source_domain": "philstar.com",
+        "outlet_name": "Philstar \u2014 Headlines",
+        "published_utc": "2026-10-29T16:00:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 29.3,
+        "score": 22.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "Philstar \u2014 Headlines"
         ]
       },
       {
-        "title": "B5.3bn sale of Royal Orchid Sheraton approved",
-        "link": "https://www.bangkokpost.com/business/general/3345248/b53bn-sale-of-royal-orchid-sheraton-approved",
-        "snippet": "Unitholders of the Grande Royal Orchid Hospitality Real Estate Investment Trust (GROREIT) have approved the sale of the Royal Orchid Sheraton Hotel in Bangkok to a new investor for 5.3 billion baht, rejecting a lower...",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-10-28T13:36:00+00:00",
+        "title": "Leasing program to ease classroom shortage .",
+        "link": "https://www.philstar.com/headlines/2026/10/30/2566661/leasing-program-ease-classroom-shortage-",
+        "snippet": "The Department of Education is leasing available private school facilities and properties and using them to address classroom shortages.",
+        "source_domain": "philstar.com",
+        "outlet_name": "Philstar \u2014 Headlines",
+        "published_utc": "2026-10-29T16:00:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 28.6,
+        "score": 21.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories"
+          "Philstar \u2014 Headlines"
         ]
       }
     ],
     "World Affairs": [
       {
-        "title": "High-speed train crash kills at least 68 people in Spain",
-        "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+        "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
+        "snippet": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-28T21:38:54+00:00",
+        "published_utc": "2026-10-29T14:17:35+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 69.0,
-        "corroboration_count": 3,
+        "score": 54.9,
+        "corroboration_count": 2,
         "corroborating_outlets": [
           "BBC \u2014 World",
-          "Fox News \u2014 World",
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Spain Train Crash Kills at Least 68",
-        "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-train-crash-rescue-victims.html",
-        "snippet": "The accident, the second in less than a year on the same busy rail line, was one of the deadliest in the country\u2019s history.",
+        "title": "Russian Strike on Ukrainian Train Station Kills 14",
+        "link": "https://www.nytimes.com/2026/10/29/world/europe/ukraine-dnipro-train-russia.html",
+        "snippet": "A deadly strike was a grim reminder that despite a rare local cease-fire around the Russian-occupied town of Oleshky, other communities remained under fire.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-28T20:26:04+00:00",
+        "published_utc": "2026-10-29T13:45:35+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 58.5,
-        "corroboration_count": 3,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "Fox News \u2014 World",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Fl\u00e1vio Bolsonaro denies fleeing Brazil after landing in Miami",
-        "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The defeated Brazilian candidate claims to be the victim of a coup d\u2019\u00e9tat and political persecution, recycling unsubstantiated allegations of \u201celectoral fraud\u201d.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-29T01:14:01+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 54.5,
+        "score": 41.7,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "BBC \u2014 World",
@@ -242,129 +223,112 @@
         ]
       },
       {
-        "title": "What we know so far about deadly Spain train crash",
-        "link": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
-        "snippet": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+        "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+        "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-10-29T04:08:28+00:00",
+        "published_utc": "2026-10-30T03:24:12+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 47.7,
-        "corroboration_count": 2,
+        "score": 41.4,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 World"
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
+        "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-29T20:21:54+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 40.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
         ]
       }
     ],
     "Geopolitics": [
       {
-        "title": "Fl\u00e1vio Bolsonaro Becomes a Florida Man",
-        "link": "https://foreignpolicy.com/2026/10/28/flavio-bolsonaro-flees-brazil-florida-trump-presidential-election-lula/",
-        "snippet": "Just like his father, the far-right senator fled Brazil following his presidential election loss.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-10-28T21:35:31+00:00",
+        "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
+        "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
+        "snippet": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-29T20:05:57+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 32.0,
+        "score": 38.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Foreign Policy"
+          "BBC \u2014 World"
         ]
       },
       {
-        "title": "Has Russia\u2019s Influence in Africa Peaked?",
-        "link": "https://foreignpolicy.com/2026/10/28/russia-africa-summit-putin-moscow-war-backlash/",
-        "snippet": "Moscow\u2019s role across the continent has become increasingly controversial.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-10-28T19:08:55+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 29.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      },
-      {
-        "title": "For Israel\u2019s Neighbors in Middle East, the Election Offers Little Hope of a Reset",
-        "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-middle-east-relations.html",
-        "snippet": "Few countries in the Middle East expect a turning point in relations with Israel. But the outcome of the vote has implications for the regional conflict with Iran.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-28T15:35:10+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 28.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Ukrainians Have a Long-Shot Plan to Boot Russia from the U.N.",
-        "link": "https://foreignpolicy.com/2026/10/28/ukraine-russia-ussr-united-nations-history/",
-        "snippet": "An expert team argues that the Soviet succession was improperly decided.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-10-28T18:29:01+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 27.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      }
-    ],
-    "Healthcare & Biotech": [
-      {
-        "title": "Fl\u00e1vio Bolsonaro Lands in Miami After Fleeing Brazil",
-        "link": "https://www.nytimes.com/2026/10/28/world/americas/flavio-bolsonaro-us-miami-brazil-trump.html",
-        "snippet": "Mr. Bolsonaro, who lost Sunday\u2019s presidential election, fled Brazil for the United States via Argentina after the police canceled his passport in relation to an investigation.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-28T23:04:44+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 50.6,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Fire Breaks Out at South Carolina Nuclear Site",
-        "link": "https://www.nytimes.com/2026/10/28/us/nuclear-site-south-carolina-emergency.html",
-        "snippet": "The fire at the Savannah River National Laboratory prompted officials to limit air traffic in the area. One person was hospitalized with minor injuries, officials said.",
+        "title": "Moody Makes Appeal to a South Florida Audience Leery of the Left",
+        "link": "https://www.nytimes.com/2026/10/29/us/elections/ashley-moody-florida-senate-race.html",
+        "snippet": "Senator Ashley Moody, Republican of Florida, campaigned in Miami-Dade County, an area with a large Cuban population that the G.O.P. is hoping to keep red.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-10-29T02:34:17+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 41.0,
+        "published_utc": "2026-10-30T00:20:12+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 38.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Cuauht\u00e9moc C\u00e1rdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
-        "link": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
-        "snippet": "Mr. C\u00e1rdenas, the only son of a Mexican president, never won the office but became a leading figure in the country\u2019s democratic transformation.",
+        "title": "China Confirms Expulsion of 33 Officials, as Xi\u2019s Purge Deepens",
+        "link": "https://www.nytimes.com/2026/10/29/world/asia/china-communist-party-purges.html",
+        "snippet": "Xi Jinping has enforced loyalty as he prepares to claim a fourth term as leader. Among those removed was a prominent former diplomat, Liu Jianchao.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-29T04:08:43+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 39.7,
+        "published_utc": "2026-10-30T01:41:21+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 33.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+        "link": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-10-29T17:02:59+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 33.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      }
+    ],
+    "Healthcare & Biotech": [
+      {
+        "title": "These Patients Struggle With Runaway Bones. Finally There\u2019s Hope.",
+        "link": "https://www.nytimes.com/2026/10/29/science/fop-bones-drugs.html",
+        "snippet": "F.O.P., a rare genetic condition, causes uncontrolled explosions of bone. A new drug may slow or halt the process.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Health",
+        "published_utc": "2026-10-29T14:00:05+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 37.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Health"
         ]
       },
       {
@@ -373,137 +337,167 @@
         "snippet": "In a unilateral declaration by the health secretary, several injections promoted by online influencers will become widely available. The F.D.A. had advised against the move.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-10-28T17:05:05+00:00",
+        "published_utc": "2026-10-29T12:42:21+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 39.1,
+        "score": 36.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Health"
+        ]
+      },
+      {
+        "title": "Two taken to hospital after bus skids, mounts kerb in Airport Road",
+        "link": "https://www.straitstimes.com/singapore/two-taken-to-hospital-after-bus-skids-mounts-kerb-in-airport-road",
+        "snippet": "The bus driver is assisting with police investigations.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-10-30T04:45:00+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 35.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Cuauht\u00e9moc C\u00e1rdenas, Who Helped End One-Party Rule in Mexico, Dies at 92",
+        "link": "https://www.nytimes.com/2026/10/28/world/americas/cuauhtemoc-cardenas-dead.html",
+        "snippet": "Mr. C\u00e1rdenas, the only son of a Mexican president, never won the office but became a leading figure in the country\u2019s democratic transformation.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-10-29T12:44:46+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 33.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
         ]
       }
     ],
     "Technology & AI": [
       {
-        "title": "Bluesky Is Blocking Links to a Major Leak of DHS Employee Records",
-        "link": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
-        "snippet": "Bluesky tells WIRED it blocked links to a leaked archive of information on 41,000 ICE, CBP, and other DHS workers because it contains people\u2019s contact information, shared without their authorization.",
-        "source_domain": "wired.com",
-        "outlet_name": "Wired",
-        "published_utc": "2026-10-29T03:34:46+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 41.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Wired"
-        ]
-      },
-      {
-        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
-        "snippet": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago...",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-10-28T21:25:30+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 39.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "The 2,000-Nit OLED in Apple\u2019s New MacBook Is a Big Deal",
-        "link": "https://www.wired.com/story/the-2000-nit-oled-in-apples-new-macbook-pro-is-a-big-deal/",
-        "snippet": "The touchscreen in the new MacBook Pro is crazily bright with very deep blacks. Here\u2019s why it\u2019s unlike anything else you can currently buy.",
-        "source_domain": "wired.com",
-        "outlet_name": "Wired",
-        "published_utc": "2026-10-28T22:54:16+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 38.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Wired"
-        ]
-      },
-      {
-        "title": "Most Servers on the Planet Are Vulnerable to This Firmware Code-Execution Flaw",
-        "link": "https://www.wired.com/story/most-servers-on-the-planet-are-vulnerable-to-a-code-execution-flaw-in-uefi-firmware/",
-        "snippet": "The critical flaw in UEFI firmware\u2014used by most server vendors and data centers\u2014allows attackers to execute code early in the boot process.",
-        "source_domain": "wired.com",
-        "outlet_name": "Wired",
-        "published_utc": "2026-10-28T20:30:00+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 35.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Wired"
-        ]
-      }
-    ],
-    "Business & Finance": [
-      {
-        "title": "Takeaways from Warsh\u2019s news conference.",
-        "link": "https://www.nytimes.com/live/2026/10/28/business/fed-meeting-warsh-interest-rates/takeaways-from-warshs-news-conference",
-        "snippet": "",
+        "title": "Big Tech\u2019s Data Center Blitz Is Burning Through Cash and Scaring Wall St.",
+        "link": "https://www.nytimes.com/2026/10/29/technology/amazon-earnings-tech-spending.html",
+        "snippet": "Amazon on Thursday became the latest tech company to announce swelling investments in A.I. amid stumbling share prices.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-28T19:43:34+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 44.2,
+        "published_utc": "2026-10-30T01:30:27+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 38.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "The Ocean \u2018Was the Color of Chocolate.\u2019 Mexico Declares War on Seaweed.",
-        "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
-        "snippet": "To protect Mexico\u2019s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-10-28T12:08:53+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 39.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Lumentum\u2019s stock pops as investors cheer a possible sale to Marvell",
-        "link": "https://www.marketwatch.com/story/lumentums-stock-pops-as-investors-cheer-a-possible-sale-to-marvell-07c1d0e8?mod=mw_rss_topstories",
-        "snippet": "An agreement between the companies could come next week, Bloomberg reported",
+        "title": "Why Intel\u2019s stock is sinking toward its worst drop in two years",
+        "link": "https://www.marketwatch.com/story/why-intels-stock-is-sinking-toward-its-worst-drop-in-two-years-492d71a7?mod=mw_rss_topstories",
+        "snippet": "Intel\u2019s PC business is under pressure as memory-chip prices dent demand and as corporate IT teams have less budget for laptops.",
         "source_domain": "marketwatch.com",
         "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-10-29T00:20:00+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 33.1,
+        "published_utc": "2026-10-29T23:21:00+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 34.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "MarketWatch \u2014 Top Stories"
         ]
       },
       {
-        "title": "Weil Gotshal, Once a Legal Powerhouse, Plans to Dissolve",
-        "link": "https://www.nytimes.com/2026/10/28/business/weil-gotshal-law-firm.html",
-        "snippet": "The prominent law firm has been rocked by an exodus of high-profile lawyers, a failed succession plan and a scuttled deal to merge with a rival firm.",
+        "title": "You don\u2019t need to believe in a god to get a religious exemption from using AI at work",
+        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "source_domain": "techcrunch.com",
+        "outlet_name": "TechCrunch",
+        "published_utc": "2026-10-30T01:20:48+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 34.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "Reddit is moving to \u201ca logged-in-only experience,\u201d CEO says",
+        "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+        "snippet": "Reddit's search traffic \"was down meaningfully\" last quarter.",
+        "source_domain": "arstechnica.com",
+        "outlet_name": "Ars Technica",
+        "published_utc": "2026-10-29T21:47:57+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 33.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Ars Technica"
+        ]
+      }
+    ],
+    "Business & Finance": [
+      {
+        "title": "Binance Grapples With \u2018Security Incident\u2019 That May Cause $6.3 Billion in Losses",
+        "link": "https://www.nytimes.com/2026/10/29/technology/binance-grapples-with-security-incident-that-may-cause-6-3-billion-in-losses.html",
+        "snippet": "The world\u2019s largest crypto exchange suspended deposits and withdrawals after an apparent hack.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-10-29T00:53:39+00:00",
+        "published_utc": "2026-10-30T03:07:37+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 32.3,
+        "score": 41.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Polymarket Is Investigating Suspicious Bets on Israeli Election",
+        "link": "https://www.nytimes.com/2026/10/29/business/polymarket-investigates-israeli-bets.html",
+        "snippet": "The company said it was looking into hundreds of new accounts that had placed wagers in two markets related to the election on Tuesday.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-10-29T23:37:35+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 38.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "How a Self-Described \u2018Junkie\u2019 Rode Synthetic Drugs to Oblivion \u2014 and Fame",
+        "link": "https://www.nytimes.com/2026/10/29/world/europe/synthetic-opioids-estonia.html",
+        "snippet": "An Estonian addict could barely keep pace with the new drugs flooding the market. His terrifying accounts of the cruel toll they took on his body held his country in its grip.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-10-29T11:53:48+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 36.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "What gave this city its \u2018best place to retire\u2019 crown? You can actually afford to live there.",
+        "link": "https://www.marketwatch.com/story/what-gave-this-city-its-best-place-to-retire-crown-you-can-actually-afford-to-live-there-a06f8f4d?mod=mw_rss_topstories",
+        "snippet": "Low cost of living, high quality of life and favorable taxes for retirees, for the win.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-10-30T03:16:00+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 35.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "MarketWatch \u2014 Top Stories"
         ]
       }
     ]
