@@ -1,66 +1,64 @@
 {
-  "generated_at": "2026-11-07T05:07:25.394181+00:00",
+  "generated_at": "2026-11-08T05:01:16.136463+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Meghan Markle\u2019s Father Is Arrested on Child Sex Abuse Material Charges",
-        "link": "https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html",
-        "snippet": "Thomas Markle Sr., Meghan\u2019s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-06T21:59:44+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 45.0,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "Philstar \u2014 Headlines",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Meghan Markle's dad arrested in US over child sex abuse images found in PH",
-        "link": "https://www.philstar.com/headlines/2026/11/07/2568517/meghan-markles-dad-arrested-us-over-child-sex-abuse-images-found-ph",
-        "snippet": "Thomas Markle, the estranged father of Meghan Markle, was arrested in Florida on Friday over alleged possession of child sexual abuse images, some of which were reportedly found at his former home in the Philippines.",
-        "source_domain": "philstar.com",
-        "outlet_name": "Philstar \u2014 Headlines",
-        "published_utc": "2026-11-07T01:28:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 39.5,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "Philstar \u2014 Headlines",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Google executive Donald Harrison resigns from SpaceX board",
-        "link": "https://www.channelnewsasia.com/business/google-executive-donald-harrison-resigns-spacex-board-6532556",
+        "title": "New Zealand pair could miss Wales clash after injuries",
+        "link": "https://www.channelnewsasia.com/sport/new-zealand-pair-could-miss-wales-clash-after-injuries-6533916",
         "snippet": "",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-07T02:14:30+00:00",
+        "published_utc": "2026-11-08T04:46:21+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 36.8,
+        "score": 35.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
         ]
       },
       {
-        "title": "Man arrested after alleged assault in River Valley, car overturns following police chase",
-        "link": "https://www.channelnewsasia.com/singapore/police-chase-overturned-car-river-valley-assault-6532596",
-        "snippet": "The suspect's car overturned at the junction of Race Course Road and Birch Road after a collision with another vehicle.",
+        "title": "Jokic wins over Mexico City as Nuggets hold off Pacers",
+        "link": "https://www.channelnewsasia.com/sport/jokic-wins-over-mexico-city-nuggets-hold-pacers-6533721",
+        "snippet": "",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-07T03:28:00+00:00",
+        "published_utc": "2026-11-08T02:19:48+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 35.3,
+        "score": 35.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Old trades, new cafes: Can Jalan Besar keep its charm?",
+        "link": "https://www.straitstimes.com/singapore/old-trades-new-cafes-can-jalan-besar-keep-its-charm",
+        "snippet": "",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-11-08T04:00:00+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 35.6,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Magnitude 5.7 quake injures dozens in central Japan",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-magnitude-57-earthquake-injures-dozens-6533811",
+        "snippet": "",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-08T03:44:50+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 34.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
@@ -69,60 +67,60 @@
     ],
     "United States": [
       {
-        "title": "U.S. Homeless Population Had Record Drop in 2025",
-        "link": "https://www.nytimes.com/2026/11/06/us/politics/homeless-population-drop.html",
-        "snippet": "The Department of Housing and Urban Development credited President Trump, while homeless advocacy groups said that so-called Housing First policies of his predecessors played a part.",
+        "title": "Alien Throne, a Unique Rock Formation in New Mexico, Collapses Amid Heavy Rains",
+        "link": "https://www.nytimes.com/2026/11/07/us/alien-throne-king-of-wings-new-mexico.html",
+        "snippet": "The oddly shaped 15-foot-tall pillar collapsed after a torrent of rain. It was the second loss of a striking rock formation in the region in less than a month.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-07T03:09:53+00:00",
+        "published_utc": "2026-11-07T20:21:48+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 47.2,
+        "score": 45.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "2 Skydivers Die After Midair Collision in Southern California",
-        "link": "https://www.nytimes.com/2026/11/06/us/california-lake-elsinore-skydiving-deaths.html",
-        "snippet": "The skydivers\u2019 parachutes opened but became entangled after they collided, according to the company hosting the event.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-07T04:41:28+00:00",
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-07T18:14:38+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 43.8,
+        "score": 42.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Trump Asks Dana White of U.F.C. to Be His Press Secretary",
+        "link": "https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html",
+        "snippet": "On social media, the president offered the now-vacant job of White House press secretary to Dana White, the organization\u2019s C.E.O., and told him to bring along fighters as aides.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-11-08T00:20:00+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 42.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Researchers Identify Suspicious Activity on Kalshi and Polymarket Before Times/Siena Poll Release",
-        "link": "https://www.nytimes.com/2026/11/06/technology/kalshi-polymarket-nyt-siena-poll-bets.html",
-        "snippet": "A trader placed well-timed bets on Polymarket and Kalshi in two Senate races. It was unclear if the person had access to inside information or simply made good trades.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-07T02:55:47+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 43.1,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Justice Dept. Dismisses Suit Against California Over 20,000 Ballots",
-        "link": "https://www.nytimes.com/2026/11/06/us/elections/justice-dept-dismisses-california-suit.html",
-        "snippet": "The effort by the Trump administration to set aside thousands of mail-in ballots had been rejected by the Supreme Court before Election Day.",
+        "title": "Father Calls Daughter, the Co-Pilot Killed in Florida Crash, \u2018a Hero\u2019",
+        "link": "https://www.nytimes.com/2026/11/07/us/florida-jet-crash-father-pilot.html",
+        "snippet": "Allan Filgueiras said during a news conference that his daughter, Nathalia, 20, fought to the final seconds as a private jet carrying nine people crashed near Palm Beach, Fla.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-07T04:09:32+00:00",
+        "published_utc": "2026-11-07T20:12:26+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 42.6,
+        "score": 38.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
@@ -131,60 +129,60 @@
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "People\u2019s Party rift raises fears of split",
-        "link": "https://www.bangkokpost.com/thailand/politics/3350485/peoples-party-rift-raises-fears-of-split",
-        "snippet": "The People\u2019s Party (PP) has sought to downplay speculation about internal divisions after reports that firebrand MP Rukchanok Srinork rebuked Piyabutr Saengkanokkul, secretary-general of the Progressive Movement and...",
+        "title": "TCC warns on airport warehouse backlog risks",
+        "link": "https://www.bangkokpost.com/thailand/general/3350814/tcc-warns-on-airport-warehouse-backlog-risks",
+        "snippet": "The Thai Chamber of Commerce (TCC) has proposed urgent measures to clear a persistent backlog at Thai Airways' TG Cargo warehouse at Suvarnabhumi Airport, warning that disruption is spreading to outbound shipments.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-07T02:44:00+00:00",
+        "published_utc": "2026-11-07T21:42:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 35.0,
+        "score": 34.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Super El Ni\u00f1o effect could worsen PM2.5 next year",
-        "link": "https://www.bangkokpost.com/thailand/general/3350229/super-el-ni\u00f1o-effect-could-worsen-pm25-next-year",
-        "snippet": "The Ministry of Public Health has warned that the \"Super El Ni\u00f1o\" phenomenon could worsen Thailand's PM2.5 air pollution situation next year, especially in 40 high-risk provinces, including Bangkok.",
+        "title": "Three groups set to rally at Govt House",
+        "link": "https://www.bangkokpost.com/thailand/politics/3350694/three-groups-set-to-rally-at-govt-house",
+        "snippet": "Three groups are preparing to rally at Government House on Monday to press the government to cut fuel prices by 10 baht a litre, tackle drug trafficking and address local grievances.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-06T22:26:00+00:00",
+        "published_utc": "2026-11-07T22:33:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 32.2,
+        "score": 33.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Anutin orders charity checks",
-        "link": "https://www.bangkokpost.com/thailand/general/3350074/anutin-orders-charity-checks",
-        "snippet": "The government is stepping up scrutiny of foundations nationwide after allegations that donations to the Goodness Foundation were misused, with the Interior Ministry ordering closer checks, particularly on those led by...",
+        "title": "Shaking up the old flood model",
+        "link": "https://www.bangkokpost.com/thailand/general/3350954/shaking-up-the-old-flood-model",
+        "snippet": "Bangkok's severe flooding in September has renewed calls for better forecasting, economic risk assessments and long-term infrastructure planning to reduce future losses.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-06T22:09:00+00:00",
+        "published_utc": "2026-11-07T22:13:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 31.1,
+        "score": 31.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Gold rebound faces further volatility",
-        "link": "https://www.bangkokpost.com/business/general/3350330/gold-rebound-faces-further-volatility",
-        "snippet": "Investors are advised to avoid rushing into gold trading for short-term speculation as prices are expected to remain highly volatile amid further downside risks, says the Gold Traders Association (GTA).",
+        "title": "Data centre push brings promise and peril",
+        "link": "https://www.bangkokpost.com/thailand/general/3350866/data-centre-push-brings-promise-and-peril",
+        "snippet": "Thailand's push to become a regional data centre hub is attracting investment, but growing concerns over electricity demand, environmental impacts and public participation are raising questions about how the industry...",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-06T22:00:00+00:00",
+        "published_utc": "2026-11-07T22:01:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 30.0,
+        "score": 30.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
@@ -193,60 +191,60 @@
     ],
     "World Affairs": [
       {
-        "title": "12 Planes in 12 Days: Pope Begins Major Latin America Tour, Weeks After Surgery",
-        "link": "https://www.nytimes.com/2026/11/06/world/europe/pope-leo-visit-uruguay-argentina-peru.html",
-        "snippet": "Pope Leo XIV\u2019s tour of Uruguay, Argentina and Peru is his first major trip since an operation on his lung last month.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-06T19:24:09+00:00",
+        "title": "What we know so far after Krakow gun attack",
+        "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-08T01:47:41+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 42.9,
+        "score": 48.7,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+        "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+        "snippet": "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-07T16:39:31+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 41.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "\u2018My family should not have to leave\u2019: New shelter aims to help S\u2019pore men in crisis",
-        "link": "https://www.straitstimes.com/singapore/community/my-family-should-not-have-to-leave-new-shelter-aims-to-help-spore-men-in-crisis",
-        "snippet": "The shelter is not intended to excuse abusive behaviour, but to help men remove themselves from situations that may escalate.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-11-07T04:00:00+00:00",
+        "title": "For Stephen Miller, Election Defeat Is No Reason to Back Down on Immigration Crackdown",
+        "link": "https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html",
+        "snippet": "The president\u2019s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-11-07T18:29:56+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 40.5,
+        "score": 40.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The Straits Times \u2014 Singapore"
+          "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Oscar-winning Chilean filmmaker Sebastian Lelio dies at 52",
-        "link": "https://www.channelnewsasia.com/entertainment/sebastian-lelio-chilean-filmmaker-death-6532581",
-        "snippet": "He won the 2018 Academy Award for best international film for his groundbreaking drama A Fantastic Woman, about a transgender woman.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-07T03:10:46+00:00",
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "link": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-07T22:19:59+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
         "score": 40.2,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Paraguay's President Santiago Pe\u00f1a impeached and arrested",
-        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-07T03:25:00+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 39.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
@@ -255,122 +253,107 @@
     ],
     "Geopolitics": [
       {
-        "title": "John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89",
-        "link": "https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html",
-        "snippet": "The rare Democrat in a fabled family of wealthy Republicans, he served 30 years as senator and helped bring health insurance to millions of low-income children.",
+        "title": "Eisenkot, Netanyahu Rival and Opposition Leader, Tapped to Try to Form Government",
+        "link": "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
+        "snippet": "Gadi Eisenkot, a former military chief, hopes to succeed Benjamin Netanyahu as prime minister by cobbling together a coalition after an inconclusive election.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-06T14:10:45+00:00",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-07T23:03:29+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 33.8,
+        "score": 41.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
+          "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "A German Movie Previews Its Far-Right Future",
-        "link": "https://foreignpolicy.com/2026/11/06/germany-movies-prosecution-film-far-right-afd/",
-        "snippet": "The country\u2019s cinema has recently taken a very dark turn.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-11-06T20:00:36+00:00",
+        "title": "A \u2018Chaotic Race\u2019 for the World\u2019s Top Diplomat",
+        "link": "https://www.nytimes.com/2026/11/07/world/americas/un-secretary-general-pick.html",
+        "snippet": "The contest to replace Ant\u00f3nio Guterres as U.N. secretary general has been jolted by last-minute entrants and deep divisions among members of the Security Council.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-07T17:26:52+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 30.2,
+        "score": 33.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Foreign Policy"
+          "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "\u2018Call of Duty\u2019 Has a Message for Hegseth",
-        "link": "https://foreignpolicy.com/2026/11/06/call-of-duty-modern-warfare-review-video-game-us-military-hegseth/",
-        "snippet": "The video game\u2019s latest installment seems disillusioned with the kind of militarism it did so much to promote.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-11-06T19:45:52+00:00",
+        "title": "Gunman opens fire from moving car in European tourist hot spot, leaving 6 dead and at least 15 wounded",
+        "link": "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
+        "snippet": "A gunman, reportedly wearing military-style fatigues, allegedly opened fire from a moving vehicle on Krak\u00f3w, Poland's Main Square, killing five and injuring at least 15.",
+        "source_domain": "foxnews.com",
+        "outlet_name": "Fox News \u2014 World",
+        "published_utc": "2026-11-07T17:37:33+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 29.1,
+        "score": 21.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      },
-      {
-        "title": "\u2018Wild Horse Nine\u2019 Looks Away From Chile\u2019s History",
-        "link": "https://foreignpolicy.com/2026/11/06/wild-horse-nine-movie-review-chile-cia-coup-history-conspiracy-martin-mcdonagh/",
-        "snippet": "The film indulges in conspiracy rather than reckoning with the coup in front of it.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-11-06T19:15:24+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 27.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Foreign Policy"
+          "Fox News \u2014 World"
         ]
       }
     ],
     "Healthcare & Biotech": [
       {
-        "title": "As Hormone Use Increases, Some Doctors Warn Slight Cancer Risk Is Being Overlooked",
-        "link": "https://www.nytimes.com/2026/11/06/well/hormone-therapy-menopause-cancer.html",
-        "snippet": "Doctors said that women should receive treatment for menopause symptoms, but need accurate information about the drugs.",
+        "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+        "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+        "snippet": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-11-06T13:17:54+00:00",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-07T23:36:18+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 43.4,
+        "score": 39.7,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "How Cardiologists\u2019 High Hopes for Two Drugs Were Dashed",
+        "link": "https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html",
+        "snippet": "By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Health",
+        "published_utc": "2026-11-07T14:50:04+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 38.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Health"
         ]
       },
       {
-        "title": "Will New Zealand Join Voters\u2019 Global Revolt Over Soaring Costs?",
-        "link": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html",
-        "snippet": "In the lead-up to an election in which economic concerns dominate, there was no clear front-runner. Minor parties will most likely determine who governs.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-07T02:14:48+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 41.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "After Israel\u2019s Election, Who Will Get the First Chance to Form a Government?",
-        "link": "https://www.nytimes.com/2026/11/06/world/middleeast/israel-election-government-herzog.html",
-        "snippet": "President Isaac Herzog is set to task a candidate with trying to form a government, following two days of talks with party leaders and officials after an inconclusive election.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-06T22:36:16+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 41.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Former senior parliamentary secretary Lee Yiok Seng, who was behind housing efforts, dies at 87",
-        "link": "https://www.straitstimes.com/singapore/politics/former-senior-parliamentary-secretary-lee-yiok-seng-who-was-behind-housing-efforts-dies-at-87",
-        "snippet": "He was MP for Bukit Panjang from 1972 to 1991, and for Sembawang GRC from 1991 to 1996.",
+        "title": "School Spotlight: Students gain confidence and find purpose at NorthLight School",
+        "link": "https://www.straitstimes.com/singapore/parenting-education/school-spotlight-students-gain-confidence-and-find-purpose-at-northlight-school",
+        "snippet": "Stigma has eased for the school for children who cannot access mainstream secondary education.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-11-07T03:49:25+00:00",
+        "published_utc": "2026-11-08T03:45:00+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 39.5,
+        "score": 34.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "What fatherhood looks like when you are dying of cancer",
+        "link": "https://www.straitstimes.com/singapore/parenting-education/what-fatherhood-looks-like-when-you-are-dying-of-cancer",
+        "snippet": "Bryant Lin, a physician, professor and father of two boys, is living with advanced lung cancer.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-11-08T03:27:00+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 33.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Straits Times \u2014 Singapore"
@@ -379,125 +362,125 @@
     ],
     "Technology & AI": [
       {
-        "title": "AI stocks climb after trillions wiped from market values",
-        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-06T21:06:25+00:00",
+        "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
+        "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
+        "snippet": "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-07T22:05:57+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 40.7,
+        "score": 39.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Sequoia shutting down its Scouts program marks the end of an era",
-        "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-        "snippet": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-11-07T05:01:54+00:00",
+        "title": "Law Firms Have Malpractice Insurance. Should Their A.I. Agents?",
+        "link": "https://www.nytimes.com/2026/11/07/business/dealbook/crosby-ai-agent-liability-malpractice-insurance.html",
+        "snippet": "Crosby, an A.I. law firm, bought it for them. The move speaks to a nascent gap in coverage as major insurers grapple with risks related to artificial intelligence.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-07T13:00:06+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 36.0,
+        "score": 35.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+        "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+        "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
+        "source_domain": "techcrunch.com",
+        "outlet_name": "TechCrunch",
+        "published_utc": "2026-11-07T22:07:22+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 33.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "TechCrunch"
         ]
       },
       {
-        "title": "Early Black Friday Mattress Deals: Get Up to 35% Off WIRED-Tested Favorites",
-        "link": "https://www.wired.com/story/best-early-black-friday-mattress-deals-11-6-2026/",
-        "snippet": "I\u2019ve already found early deals on our favorite WIRED-tested mattresses and sleep accessories.",
+        "title": "The 10 Best Early Black Friday Headphone Deals (2026)",
+        "link": "https://www.wired.com/story/best-early-black-friday-headphone-deals-11-6-26/",
+        "snippet": "Get up to 50 percent off some of my favorite headphones and earbuds from Apple, Sony, Bose, and more.",
         "source_domain": "wired.com",
         "outlet_name": "Wired",
-        "published_utc": "2026-11-06T18:51:27+00:00",
+        "published_utc": "2026-11-07T11:45:00+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 34.7,
+        "score": 32.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Wired"
-        ]
-      },
-      {
-        "title": "Doctors pull knife from man's eye that went through his brain\u2014and he's fine now",
-        "link": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-        "snippet": "It's the exact path, not the apparent severity that matters most, doctors say.",
-        "source_domain": "arstechnica.com",
-        "outlet_name": "Ars Technica",
-        "published_utc": "2026-11-06T23:09:45+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 33.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Ars Technica"
         ]
       }
     ],
     "Business & Finance": [
       {
-        "title": "Tesla Is Ending Production of Its Cybertruck and Refocusing on the Cybercab",
-        "link": "https://www.nytimes.com/2026/11/06/business/tesla-cybertruck-production.html",
-        "snippet": "Production of the electric trucks will stop in the middle of 2027 to make room for increased production of its autonomous ride-share vehicle, Elon Musk said.",
+        "title": "A \u2018Legend of Zelda\u2019 Game Is Reborn and \u201990s Nostalgia Fans Are All In",
+        "link": "https://www.nytimes.com/2026/11/07/business/media/zelda-ocarina-of-time-remake-nintendo.html",
+        "snippet": "Nintendo\u2019s \u201cLegend of Zelda: Ocarina of Time\u201d was released in 1998. Now, its remake has some fans giddily reliving their childhoods.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-06T17:38:29+00:00",
+        "published_utc": "2026-11-07T18:52:25+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 34.2,
+        "score": 39.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "\u2018I have no financial safety net\u2019: I\u2019m 66, rely on Social Security and have just $500 in savings. What hope do I have?",
-        "link": "https://www.marketwatch.com/story/i-have-no-financial-safety-net-im-66-rely-on-social-security-and-have-500-in-savings-what-politician-speaks-for-me-be2126cb?mod=mw_rss_topstories",
-        "snippet": "\u201cSometimes I wonder whether wealthier Americans should trade places with people like me.\u201d",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-11-06T21:45:00+00:00",
+        "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-07T15:19:35+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 32.9,
+        "score": 39.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
+          "BBC \u2014 World"
         ]
       },
       {
-        "title": "Elon Musk opens the door for a big SpaceX acquisition",
-        "link": "https://www.marketwatch.com/story/elon-musk-opens-the-door-for-a-big-spacex-acquisition-4f62bcad?mod=mw_rss_topstories",
-        "snippet": "The rocket and satellite-internet company is looking to challenge telecom giants.",
-        "source_domain": "marketwatch.com",
-        "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-11-06T21:45:00+00:00",
+        "title": "'Feeling guilty': Price hikes a tough sell in Japan despite inflation",
+        "link": "https://www.channelnewsasia.com/east-asia/japan-inflation-price-hikes-uniqlo-saizeriya-6533786",
+        "snippet": "The angst faced by Uniqlo and Saizeriya when they attempted to raise prices highlights the struggle Japanese firms face as they battle rising costs in a country that has experienced decades of deflation.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-08T03:33:28+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 31.9,
+        "score": 33.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories"
+          "CNA \u2014 Singapore"
         ]
       },
       {
-        "title": "What Homeowners Should Know About Home Equity Contracts",
-        "link": "https://www.nytimes.com/2026/11/06/your-money/home-equity-investment.html",
-        "snippet": "Financial tech firms promote home equity contracts as a source of money without monthly payments. But skeptics see \u201ca loan masquerading as obligation-free cash.\u201d",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-06T14:00:06+00:00",
+        "title": "This retired professor has reinvented himself \u2014 as a Taylor Swift scholar",
+        "link": "https://www.marketwatch.com/story/this-retired-professor-has-reinvented-himself-as-a-taylor-swift-scholar-88456c8d?mod=mw_rss_topstories",
+        "snippet": "His niece convinced him to spend his retirement analyzing Taylor Swift lyrics. Now he\u2019s a successful podcaster at 72.",
+        "source_domain": "marketwatch.com",
+        "outlet_name": "MarketWatch \u2014 Top Stories",
+        "published_utc": "2026-11-07T20:48:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 29.7,
+        "score": 32.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 Business"
+          "MarketWatch \u2014 Top Stories"
         ]
       }
     ]
