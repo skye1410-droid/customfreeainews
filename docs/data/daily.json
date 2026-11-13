@@ -1,517 +1,535 @@
 {
-  "generated_at": "2026-11-12T06:16:50.164808+00:00",
+  "generated_at": "2026-11-13T05:38:29.070732+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Travellers can now use DBS PayLah! at over 100 million merchants across China",
-        "link": "https://www.channelnewsasia.com/singapore/dbs-paylah-china-100-million-merchants-payment-6545051",
-        "snippet": "Users can pay by scanning a merchant's QR code or presenting their own for merchants to scan, without additional transaction fees.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-12T05:48:18+00:00",
+        "title": "Some Singapore government systems affected by Microsoft outage; no impact on Singpass: GovTech",
+        "link": "https://www.businesstimes.com.sg/singapore/some-singapore-government-systems-affected-microsoft-outage-no-impact-singpass-govtech",
+        "snippet": "Microsoft is reviewing traffic flows and affected infrastructure to identify opportunities to optimise routing",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-11-13T04:40:33+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 47.8,
-        "corroboration_count": 2,
+        "score": 63.6,
+        "corroboration_count": 3,
         "corroborating_outlets": [
           "CNA \u2014 Singapore",
+          "The Business Times \u2014 Singapore",
           "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "Building collapse in Brooklyn kills at least two, injures more than 10",
-        "link": "https://www.channelnewsasia.com/world/new-york-brooklyn-building-collapse-several-injured-6544236",
-        "snippet": "The four-unit apartment building dating from 1930 collapsed and tumbled into the adjoining construction site where excavation work was underway, said the city's fire department chief.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-12T03:49:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 45.0,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "PUB trials remote-controlled pump vehicle, road sensors to tackle flooding",
-        "link": "https://www.channelnewsasia.com/singapore/pump-vehicle-road-sensors-pub-trials-6544941",
-        "snippet": "The pump vehicle can be remotely manoeuvred into flooded areas, navigating uneven terrain and staircases.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-12T06:00:27+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 35.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "PUB trials rover to pump out floodwater in inaccessible spaces ahead of year-end rainy season",
-        "link": "https://www.straitstimes.com/singapore/environment/pub-trials-rover-to-pump-out-floodwater-in-inaccessible-spaces-ahead-of-year-end-rainy-season",
-        "snippet": "The new remote-controlled pump vehicle is slightly larger than a motorcycle.",
+        "title": "Some S\u2019pore govt systems affected by Microsoft outage; no impact on Singpass: GovTech",
+        "link": "https://www.straitstimes.com/singapore/some-spore-govt-systems-affected-by-microsoft-outage-no-impact-on-singpass-govtech",
+        "snippet": "Singpass is not affected, and emergency services remain fully operational, a GovTech spokesperson said.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-11-12T06:00:00+00:00",
+        "published_utc": "2026-11-13T04:28:50+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 35.9,
-        "corroboration_count": 1,
+        "score": 62.5,
+        "corroboration_count": 3,
         "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The Business Times \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Some Singapore government systems affected by Microsoft outage: GovTech",
+        "link": "https://www.channelnewsasia.com/singapore/microsoft-outage-govtech-6548566",
+        "snippet": "Emergency services remain fully operational, said the agency.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-13T04:27:00+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 53.5,
+        "corroboration_count": 3,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "The Business Times \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Man handed 41 charges in relation to Nvidia chips case in Singapore",
+        "link": "https://www.businesstimes.com.sg/singapore/man-handed-41-charges-relation-nvidia-chips-case-singapore",
+        "snippet": "Four other individuals have also been charged with offences in relation to the case",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-11-13T03:21:08+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 48.0,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "The Business Times \u2014 Singapore",
           "The Straits Times \u2014 Singapore"
         ]
       }
     ],
     "United States": [
       {
-        "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-        "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-        "snippet": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+        "title": "Jensen Huang has resigned, what's next for Nvidia?",
+        "link": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-12T04:00:30+00:00",
+        "published_utc": "2026-11-12T19:33:37+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 76.1,
-        "corroboration_count": 3,
+        "score": 71.8,
+        "corroboration_count": 4,
         "corroborating_outlets": [
+          "Ars Technica",
           "BBC \u2014 World",
-          "NPR \u2014 National",
-          "The New York Times \u2014 U.S."
+          "The New York Times \u2014 Business",
+          "Wired"
         ]
       },
       {
-        "title": "Scott Colom, a Democrat, Wins Mississippi Senate Election",
-        "link": "https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html",
-        "snippet": "Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.",
+        "title": "Huang and Lutnick Summoned to Testify Before Congress",
+        "link": "https://www.nytimes.com/2026/11/12/business/jensen-huang-howard-lutnick-testify-capitol-hill.html",
+        "snippet": "Senator Tim Scott said he had requested that the Nvidia co-founder and the commerce secretary appear before the Senate Banking Committee.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-12T05:24:25+00:00",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-13T01:10:19+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 67.6,
-        "corroboration_count": 3,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "NPR \u2014 National",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Democrat Scott Colom wins Mississippi Senate race",
-        "link": "https://www.npr.org/2026/11/11/g-s1-151688/mississippi-senate-race-scott-colom",
-        "snippet": "Democrat Scott Colom has won election to the U.S. Senate in Mississippi, according to a race call by the Associated Press, defeating Republican Sen. Cindy Hyde-Smith.",
-        "source_domain": "npr.org",
-        "outlet_name": "NPR \u2014 National",
-        "published_utc": "2026-11-11T23:04:51+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 66.0,
-        "corroboration_count": 3,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "NPR \u2014 National",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Alexander Darchiev, Russia\u2019s Ambassador to the U.S., Dies at 66",
-        "link": "https://www.nytimes.com/2026/11/11/world/europe/russian-ambassador-darchiev-dead.html",
-        "snippet": "The death of Alexander Darchiev was announced by Russia\u2019s foreign ministry. He was appointed to his post in Washington in 2025, as relations between the Kremlin and the White House warmed.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-11T21:14:46+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 57.2,
+        "score": 56.1,
         "corroboration_count": 2,
         "corroborating_outlets": [
-          "Fox News \u2014 World",
-          "The New York Times \u2014 World"
+          "TechCrunch",
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Global outage hits Microsoft Outlook",
+        "link": "https://www.bangkokpost.com/world/3353954/global-outage-hits-microsoft-outlook",
+        "snippet": "WASHINGTON \u2014 Microsoft Outlook suffered a major outage across the world Thursday, with tens of thousands of users struggling to access their email as the company said it was working \"aggressively\" to reduce the impact.",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-13T02:45:00+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 48.8,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories",
+          "TechCrunch"
+        ]
+      },
+      {
+        "title": "After Influence Peddling Claims, White House Restricts Lobbyist Meetings",
+        "link": "https://www.nytimes.com/2026/11/13/us/politics/stephen-miller-memo-wiles.html",
+        "snippet": "The office of Stephen Miller, President Trump\u2019s new chief of staff, outlined a new policy that seeks to show independence from special interests.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-11-13T05:24:14+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 43.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
         ]
       }
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Indonesia VP Gibran formally submits resignation amid controversy over educational qualifications",
-        "link": "https://www.channelnewsasia.com/asia/indonesia-gibran-parliament-resignation-credentials-6544726",
-        "snippet": "The Upper House will now have three days to officially approve his resignation and another 60 days to select a replacement.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-12T05:20:15+00:00",
+        "title": "Indonesia\u2019s Vice President, Gibran, Resigns",
+        "link": "https://www.nytimes.com/2026/11/12/world/asia/indonesia-gibran-vice-president-resign.html",
+        "snippet": "Gibran Rakabuming Raka, who is stepping down amid a scandal over his academic credentials, was a symbol of the partnership that elevated President Prabowo Subianto into office.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-12T23:40:14+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 36.6,
+        "score": 40.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Malaysia PM Anwar yet to accept Loke\u2019s resignation as transport minister",
+        "link": "https://www.channelnewsasia.com/asia/malaysia-pm-anwar-yet-accept-lokes-resignation-transport-minister-6548306",
+        "snippet": "Anwar praised the DAP chief's performance in Cabinet, singling him out as hardworking and trustworthy. However, opposition leader Hamzah Zainudin, dismissed the developments as political theatrics.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-13T04:39:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 38.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
         ]
       },
       {
-        "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-        "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-        "snippet": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-11T16:38:07+00:00",
+        "title": "'Collective Housing' a boon for 500k in Asia",
+        "link": "https://www.bangkokpost.com/thailand/general/3353624/collective-housing-a-boon-for-500k-in-asia",
+        "snippet": "More than 500,000 disadvantaged and low-income people across Asia have gained access to homes and communities they helped design and build, demonstrating how community-led housing can offer a more sustainable approach...",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-12T23:13:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 36.3,
+        "score": 31.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
+        "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+        "snippet": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-12T08:46:57+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 31.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "Attacks in three provinces spur border policy review",
-        "link": "https://www.bangkokpost.com/thailand/general/3353104/attacks-in-three-provinces-spur-border-policy-review",
-        "snippet": "The government is concerned about a wave of attacks in Yala, Songkhla and Satun, prompting heightened security measures and a review of its southern border policies, according to the Foreign Affairs Ministry.",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-11T21:12:00+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 31.2,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories"
-        ]
-      },
-      {
-        "title": "Government pledges to speed up investment",
-        "link": "https://www.bangkokpost.com/business/investment/3353094/government-pledges-to-speed-up-investment",
-        "snippet": "The government has vowed to accelerate investment, aiming to increase public investment by a further 1\u20132 percentage points while promoting private investment to grow by an additional 5\u20136 percentage points over the next...",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-11T23:01:00+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 31.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories"
         ]
       }
     ],
     "World Affairs": [
       {
-        "title": "New York building collapse kills at least two, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-        "snippet": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-12T05:12:56+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 60.6,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-        "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-11T13:24:29+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 47.0,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "Fox News \u2014 World"
-        ]
-      },
-      {
-        "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-        "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-        "snippet": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-12T05:59:18+00:00",
+        "title": "In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks",
+        "link": "https://www.nytimes.com/2026/11/12/world/europe/russia-ukraine-witkoff-kushner.html",
+        "snippet": "In Dublin, President Volodymyr Zelensky of Ukraine said Europeans would join the next round of talks. Russia has not confirmed that.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-13T05:28:22+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
         "score": 43.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+        "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-12T20:09:16+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 43.0,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
           "BBC \u2014 World"
         ]
       },
       {
-        "title": "DNA links 4 grizzly bears to deadly attack on mother and daughter in Canada, officials say",
-        "link": "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say",
-        "snippet": "DNA evidence linked four grizzly bears to the deaths of Jennifer Balcarras and Selah Reed near Bella Coola, British Columbia, officials said.",
-        "source_domain": "foxnews.com",
-        "outlet_name": "Fox News \u2014 World",
-        "published_utc": "2026-11-11T20:59:30+00:00",
+        "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+        "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
+        "snippet": "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral. Machetes proved handy.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-13T02:08:44+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 41.1,
-        "corroboration_count": 2,
+        "score": 42.5,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
-          "Fox News \u2014 World"
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "link": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-13T02:01:35+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 41.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
         ]
       }
     ],
     "Geopolitics": [
       {
-        "title": "Mississippi Democrats built a coalition to elect a Black senator for the first time since Reconstruction.",
-        "link": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction",
-        "snippet": "",
+        "title": "Holscher Wins Kansas Governor Race, Retaining Seat for Democrats",
+        "link": "https://www.nytimes.com/2026/11/12/us/kansas-governor-democrat-holscher-wins.html",
+        "snippet": "State Senator Cindy Holscher won the race. Though Kansas is reliably Republican in presidential elections, its voters often break for Democrats in midterms.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-12T01:30:04+00:00",
+        "published_utc": "2026-11-12T23:16:10+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 41.0,
+        "score": 41.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "India Ups Its Ukraine War Diplomacy",
-        "link": "https://foreignpolicy.com/2026/11/11/india-ukraine-war-russia-mediation-black-sea/",
-        "snippet": "New Delhi is a logical mediator, given its relations with both Moscow and Kyiv.",
+        "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+        "link": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+        "snippet": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-13T00:20:24+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 37.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran",
+        "link": "https://www.nytimes.com/2026/11/12/world/europe/army-britain-arrest-spy-russia.html",
+        "snippet": "The officer, who served at a NATO base in Britain, is expected to be charged in the coming days, two officials said.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-12T22:16:40+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 36.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Russia\u2019s Cheapest Weapon in Its Hybrid War Is Fear",
+        "link": "https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/",
+        "snippet": "As Moscow escalates, Europeans must learn to deter attacks that they cannot always attribute.",
         "source_domain": "foreignpolicy.com",
         "outlet_name": "Foreign Policy",
-        "published_utc": "2026-11-11T22:19:17+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 36.7,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Foreign Policy"
-        ]
-      },
-      {
-        "title": "The legacy of the 1991 Gulf War and the Americans who carried out the mission",
-        "link": "https://www.npr.org/2026/11/11/nx-s1-6036717/the-legacy-of-the-1991-gulf-war-and-the-americans-who-carried-out-the-mission",
-        "snippet": "35 years since the Gulf War ended, veterans reflect on the conflict and its ongoing impact.",
-        "source_domain": "npr.org",
-        "outlet_name": "NPR \u2014 National",
-        "published_utc": "2026-11-11T21:24:04+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 36.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "NPR \u2014 National"
-        ]
-      },
-      {
-        "title": "For Families of Those Who Died in the Iran War, a Veterans Day of Profound Loss",
-        "link": "https://www.nytimes.com/2026/11/11/us/iran-war-deaths-survivors-veterans-day.html",
-        "snippet": "Military families are navigating feelings of grief, pride and anger, as well as seeking answers about the deaths of their loved ones.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-11T19:35:11+00:00",
+        "published_utc": "2026-11-12T18:51:15+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
         "score": 35.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
+          "Foreign Policy"
         ]
       }
     ],
     "Healthcare & Biotech": [
       {
-        "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
-        "link": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-11T18:10:57+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 43.0,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-12T06:12:05+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 42.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "Hospitals Brace for Medicaid Work Rules and Deep Funding Cuts",
-        "link": "https://www.nytimes.com/2026/11/11/business/hospitals-medicaid-cuts.html",
-        "snippet": "Health systems are racing to guide millions of patients through new eligibility hoops, slated to go into effect Jan. 1.",
+        "title": "Who Is Colette Kress, the Interim Nvidia CEO Replacing Jensen Huang?",
+        "link": "https://www.nytimes.com/2026/11/12/business/nvidia-colette-kress-jensen-huang.html",
+        "snippet": "Ms. Kress, the company\u2019s chief financial officer, joined Nvidia in 2013.",
         "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-11-11T16:23:31+00:00",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-12T18:54:12+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 38.2,
-        "corroboration_count": 1,
+        "score": 71.5,
+        "corroboration_count": 4,
         "corroborating_outlets": [
-          "The New York Times \u2014 Health"
+          "CNA \u2014 Singapore",
+          "TechCrunch",
+          "The New York Times \u2014 Business",
+          "Wired"
         ]
       },
       {
-        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-        "snippet": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+        "title": "Who is Colette Kress, the interim CEO replacing Jensen Huang at Nvidia",
+        "link": "https://www.channelnewsasia.com/world/colette-kress-nvidia-interim-ceo-replacing-jensen-huang-6548251",
+        "snippet": "Colette Kress often pushed back against Jensen Huang\u2019s riskier AI bets. Now Nvidia\u2019s longtime CFO is running the company while it searches for a new CEO.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-13T02:56:00+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 66.9,
+        "corroboration_count": 4,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "TechCrunch",
+          "The New York Times \u2014 Business",
+          "Wired"
+        ]
+      },
+      {
+        "title": "Jensen Huang is out at Nvidia \u2014 who is Colette Kress, his interim replacement?",
+        "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+        "snippet": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
         "source_domain": "techcrunch.com",
         "outlet_name": "TechCrunch",
-        "published_utc": "2026-11-12T03:13:10+00:00",
+        "published_utc": "2026-11-12T15:37:29+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 34.7,
-        "corroboration_count": 1,
+        "score": 62.2,
+        "corroboration_count": 4,
         "corroborating_outlets": [
-          "TechCrunch"
+          "CNA \u2014 Singapore",
+          "TechCrunch",
+          "The New York Times \u2014 Business",
+          "Wired"
         ]
-      }
-    ],
-    "Technology & AI": [
+      },
       {
-        "title": "DBS PayLah! users can now pay with app at more than 100 million merchants across China",
-        "link": "https://www.straitstimes.com/singapore/dbs-paylah-users-can-now-pay-at-more-than-100-million-merchants-across-china",
-        "snippet": "DBS is the first local bank to support QR payments across China's three major QR payment systems.",
+        "title": "Megan Khung case: Woman who filmed 4-year-old\u2019s abuse, helped dispose of body gets 13 years\u2019 jail",
+        "link": "https://www.straitstimes.com/singapore/courts-crime/megan-khung-case-woman-who-filmed-4-year-olds-abuse-helped-dispose-of-body-gets-13-years-jail",
+        "snippet": "Nouvelle Chua knew Megan was being abused and recorded videos of some of the incidents.",
         "source_domain": "straitstimes.com",
         "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-11-12T03:50:00+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 46.0,
+        "published_utc": "2026-11-13T04:28:16+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 47.5,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "CNA \u2014 Singapore",
           "The Straits Times \u2014 Singapore"
         ]
-      },
+      }
+    ],
+    "Technology & AI": [
       {
-        "title": "Tech Giants Invest in German Robotics Start-Up at $8.5 Billion Valuation",
-        "link": "https://www.nytimes.com/2026/11/12/business/softbank-nvidia-agile-robots.html",
-        "snippet": "Agile Robots plans to expand in the United States and increase production in Europe after raising funds in a round led by SoftBank.",
+        "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO",
+        "link": "https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html",
+        "snippet": "News that the chipmaker\u2019s chief executive, Jensen Huang, resigned drove Nvidia\u2019s stock down, though the broader market rose slightly.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-12T05:45:05+00:00",
+        "published_utc": "2026-11-12T21:15:17+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 43.8,
-        "corroboration_count": 1,
+        "score": 78.5,
+        "corroboration_count": 4,
         "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "TurboTax Full Service Coupons This November 2026",
-        "link": "https://www.wired.com/story/turbotax-coupon/",
-        "snippet": "Tax season doesn\u2019t have to be stressful. Score 10% off full service expert on federal tax filings and more exclusive TurboTax discount codes on WIRED.",
-        "source_domain": "wired.com",
-        "outlet_name": "Wired",
-        "published_utc": "2026-11-12T06:00:00+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 35.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
+          "Ars Technica",
+          "BBC \u2014 World",
+          "The New York Times \u2014 Business",
           "Wired"
         ]
       },
       {
-        "title": "African writing award probe finds 'no evidence' winning story was AI generated",
-        "link": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
-        "snippet": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-11T20:00:54+00:00",
+        "title": "Jensen Huang Is Out. Will Nvidia\u2019s Rivals Cash In?",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/",
+        "snippet": "In a special episode of \u201cUncanny Valley,\u201d we break down Jensen Huang\u2019s resignation from Nvidia, what comes next for the company, and where the AI industry goes from here.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-11-12T22:14:41+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.7,
-        "corroboration_count": 1,
+        "score": 69.9,
+        "corroboration_count": 4,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "Ars Technica",
+          "BBC \u2014 World",
+          "The New York Times \u2014 Business",
+          "Wired"
+        ]
+      },
+      {
+        "title": "Jensen Huang Resigns as Nvidia CEO",
+        "link": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/",
+        "snippet": "Nvidia\u2019s cofounder and chief executive resigned on Thursday after the company opened an investigation into his affair with an alleged Chinese intelligence asset.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-11-12T13:58:06+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 67.5,
+        "corroboration_count": 4,
+        "corroborating_outlets": [
+          "Ars Technica",
+          "BBC \u2014 World",
+          "The New York Times \u2014 Business",
+          "Wired"
+        ]
+      },
+      {
+        "title": "Meet Colette Kress, Nvidia\u2019s New Interim CEO",
+        "link": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+        "snippet": "Nvidia\u2019s longtime chief financial officer helped transform the company into an AI powerhouse. Now she\u2019s taking the reins following Jensen Huang\u2019s resignation on Thursday.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-11-12T14:14:33+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 61.6,
+        "corroboration_count": 4,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore",
+          "TechCrunch",
+          "The New York Times \u2014 Business",
+          "Wired"
         ]
       }
     ],
     "Business & Finance": [
       {
-        "title": "Nvidia\u2019s stock drops as the board reportedly prepares to remove CEO Jensen Huang",
-        "link": "https://www.marketwatch.com/story/nvidias-stock-drops-as-the-board-reportedly-prepares-to-remove-ceo-jensen-huang-9edee58d?mod=mw_rss_topstories",
-        "snippet": "Nvidia\u2019s board of directors reportedly met late Wednesday to determine the CEO\u2019s fate.",
+        "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+        "link": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+        "snippet": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-13T02:48:29+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 40.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Outlook, Teams and More Microsoft Programs Disrupted by Outage",
+        "link": "https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html",
+        "snippet": "The outage began early Thursday afternoon, causing problems for offices, agencies and individuals around the globe.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-13T04:28:16+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 40.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Jensen Huang\u2019s Resignation From Nvidia Could Complicate Billions in Philanthropic Giving",
+        "link": "https://www.nytimes.com/2026/11/12/technology/jensen-huang-philanthropy-nvidia.html",
+        "snippet": "Mr. Huang, the company\u2019s co-founder, and his wife oversee a charitable foundation with about $9 billion in assets.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-12T17:26:06+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 36.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+        "link": "https://www.marketwatch.com/story/bond-yields-just-saw-their-biggest-surge-since-2022-as-expectations-grow-for-more-fed-rate-hikes-d0a4f195?mod=mw_rss_topstories",
+        "snippet": "Fed Chair Warsh\u2019s quiet style of communicating interest-rate policy has led to more volatile markets.",
         "source_domain": "marketwatch.com",
         "outlet_name": "MarketWatch \u2014 Top Stories",
-        "published_utc": "2026-11-12T02:52:00+00:00",
+        "published_utc": "2026-11-12T22:16:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 45.6,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Nvidia\u2019s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-        "snippet": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-11-11T23:28:45+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 45.2,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "MarketWatch \u2014 Top Stories",
-          "TechCrunch"
-        ]
-      },
-      {
-        "title": "Nvidia\u2019s Stock Price Plummets as Board Is Said to Consider Jensen Huang, CEO\u2019s, Future",
-        "link": "https://www.nytimes.com/2026/11/11/business/nvidia-stock-jensen-huang-ceo.html",
-        "snippet": "News of the board\u2019s deliberations about Jensen Huang\u2019s job drove Nvidia\u2019s stock down more than 8 percent in after-hours trading.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-12T02:40:15+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 41.5,
+        "score": 35.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "United Airlines Blocks A.I. Agents From Booking Flights",
-        "link": "https://www.nytimes.com/2026/11/11/business/united-airlines-ai-agents-booking-flights.html",
-        "snippet": "The carrier said that to protect customers\u2019 information and comply with regulations, it was barring the digital assistants from logging into accounts and managing reservations.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-11T23:15:31+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 39.1,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
+          "MarketWatch \u2014 Top Stories"
         ]
       }
     ]
