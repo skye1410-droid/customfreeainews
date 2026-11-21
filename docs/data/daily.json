@@ -1,78 +1,78 @@
 {
-  "generated_at": "2026-11-20T06:14:37.527186+00:00",
+  "generated_at": "2026-11-21T06:05:16.609648+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Singapore\u2019s new maritime master plan to focus on capacity, technology, upskilling; work on Tuas Port Phase 2 begins",
-        "link": "https://www.businesstimes.com.sg/singapore/singapores-new-maritime-master-plan-focus-capacity-technology-upskilling-work-tuas-port-phase-2",
-        "snippet": "Singapore to be the port of choice for shipping, says Transport Minister Jeffrey Siow",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-11-20T04:30:00+00:00",
+        "title": "Devilish or Delightful? Krampus Is Banned From a Christmas Parade.",
+        "link": "https://www.nytimes.com/2026/11/20/world/canada/krampus-christmas-parade-ban-ontario.html",
+        "snippet": "After an appearance last year, a float depicting Krampus, St. Nicholas\u2019s evil accomplice, will not be allowed in an Ontario town\u2019s Santa Claus parade on Saturday.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-20T23:29:24+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 37.3,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Gambling authority aware of Singapore influencers promoting Oripas site linked to Pokemon cards",
+        "link": "https://www.straitstimes.com/singapore/courts-crime/gambling-authority-aware-of-spore-influencers-promoting-oripas-site-linked-to-pokemon-cards",
+        "snippet": "The influencers include a former talent from local platform SGAG and an actress on Crimewatch.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-11-21T02:00:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
         "score": 35.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The Business Times \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Couple from Mediacorp dating show Wingman have split up but she still wears his promise ring",
-        "link": "https://www.channelnewsasia.com/entertainment/wingman-couple-ul-lorenzo-6568066",
-        "snippet": "The pair haven't seen each other since filming for Mediacorp dating show Wingman wrapped in March, but UL tells 8days.sg that she and Lorenzo remain close and she hopes they might rekindle their romance someday.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-20T05:51:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 34.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Work begins on largest extension of Tuas Port, with capacity set to grow further over next decade",
-        "link": "https://www.straitstimes.com/singapore/transport/work-begins-on-largest-extension-of-tuas-port-with-capacity-set-to-grow-further-over-next-decade",
-        "snippet": "The extension will start operations in 2028.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-11-20T04:30:00+00:00",
-        "stack": "Singapore",
-        "stack_tag": "SG",
-        "score": 34.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "Singapore takes \u2018prosper thy neighbour\u2019 approach to Asean energy trade: Tan See Leng",
-        "link": "https://www.businesstimes.com.sg/international/asean/singapore-takes-prosper-thy-neighbour-approach-asean-energy-trade-tan-see-leng",
-        "snippet": "Regional electricity trade and fuel stockpiles are key areas for future development, says minister",
+        "title": "PM Wong, Li Qiang call for stronger Singapore-China ties amid global uncertainty",
+        "link": "https://www.businesstimes.com.sg/singapore/pm-wong-li-qiang-call-stronger-singapore-china-ties-amid-global-uncertainty",
+        "snippet": "The leaders met ahead of a bilateral council expected to unveil more than 20 initiatives across trade, finance, research and innovation",
         "source_domain": "businesstimes.com.sg",
         "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-11-20T04:00:00+00:00",
+        "published_utc": "2026-11-21T03:30:51+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 34.1,
+        "score": 34.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The Business Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Antonelli fastest but Verstappen on pole in Las Vegas",
+        "link": "https://www.channelnewsasia.com/sport/antonelli-fastest-verstappen-pole-in-las-vegas-6571276",
+        "snippet": "",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-21T05:20:29+00:00",
+        "stack": "Singapore",
+        "stack_tag": "SG",
+        "score": 34.7,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
         ]
       }
     ],
     "United States": [
       {
-        "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-        "link": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-        "snippet": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+        "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+        "link": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-19T17:38:22+00:00",
+        "published_utc": "2026-11-21T05:15:41+00:00",
         "stack": "United States",
         "stack_tag": "US",
         "score": 53.7,
@@ -83,221 +83,311 @@
         ]
       },
       {
-        "title": "Trump, Xi, Putin Hold Historic Trilateral Talks",
-        "link": "https://foreignpolicy.com/2026/11/19/trump-xi-putin-trilateral-talks-nuclear-disarmament-un-icc-oil/",
-        "snippet": "Initially framed as a peacemaking opportunity, the summit resulted in few tangible wins.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-11-19T21:28:32+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 51.3,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "Foreign Policy"
-        ]
-      },
-      {
-        "title": "BBC correspondents discuss what Trump, Xi and Putin got out of historic talks",
-        "link": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo?at_medium=RSS&at_campaign=rss",
-        "snippet": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "snippet": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-19T17:23:29+00:00",
+        "published_utc": "2026-11-20T20:54:12+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 48.6,
+        "score": 45.2,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "BBC \u2014 World",
-          "Foreign Policy"
+          "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Trump, Xi and Putin release 'peace declaration' from unprecedented summit",
-        "link": "https://www.channelnewsasia.com/world/china-russia-us-peace-declaration-nuclear-trilateral-talks-6565716",
-        "snippet": "The leaders \"reaffirmed that a nuclear war cannot be won and must never be fought\" and pledged to advance United Nations reforms, increase supplies of fuel products for all countries, and uphold the immunity enjoyed by...",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-20T03:16:00+00:00",
+        "title": "Federal Court Halts Pregnant Workers\u2019 Protection Law",
+        "link": "https://www.nytimes.com/2026/11/21/us/politics/federal-court-halts-pregnant-workers-protection-law.html",
+        "snippet": "The Fifth Circuit Court of Appeals said the law was unconstitutional because it was passed with proxy voting during the Covid pandemic. It is expected to be appealed to the Supreme Court.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-11-21T05:53:08+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 44.8,
+        "score": 43.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Trump Threatens to Bar U.S. Tech Firms From Building Data Centers Abroad",
+        "link": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html",
+        "snippet": "The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-11-20T18:51:22+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 43.3,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "BBC \u2014 World",
-          "CNA \u2014 Singapore"
+          "The New York Times \u2014 U.S."
         ]
       }
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
-        "link": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
-        "snippet": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-20T01:37:20+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 56.1,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-        "link": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-19T20:07:02+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 50.8,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "BBC \u2014 World",
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "The Rohingya Crisis Over the Years",
-        "link": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
-        "snippet": "After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-19T16:27:27+00:00",
+        "title": "Farm groups wary of US ethanol imports",
+        "link": "https://www.bangkokpost.com/business/general/3358609/farm-groups-wary-of-us-ethanol-imports",
+        "snippet": "Thai sugar cane and cassava growers have called on the government to maintain non-tariff barriers on US ethanol imports and provide greater clarity on commitments under the proposed Agreement on Reciprocal Trade (ART)...",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-20T23:30:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
         "score": 38.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
+          "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "Myanmar Genocide Ruling Sets Up Court Fight Over Israel and Gaza",
-        "link": "https://www.nytimes.com/2026/11/19/world/asia/icj-myanmar-gaza.html",
-        "snippet": "The ruling by the International Court of Justice deals with issues relevant to the case brought against Israel alleging genocide in Gaza. Israel has rejected the charge.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-19T21:17:13+00:00",
+        "title": "PM to chair urgent meeting on toxic northern rivers",
+        "link": "https://www.bangkokpost.com/thailand/general/3358439/pm-to-chair-urgent-meeting-on-toxic-northern-rivers",
+        "snippet": "Prime Minister Anutin Charnvirakul will chair an urgent meeting at Government House on Saturday on toxic contamination in northern rivers, as the government prepares to make the issue a national priority.",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-20T21:46:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 36.3,
+        "score": 34.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
+          "Bangkok Post \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "Yaowarat gold shops crowded as prices plunge",
+        "link": "https://www.bangkokpost.com/business/general/3358356/yaowarat-gold-shops-crowded-as-prices-plunge",
+        "snippet": "Gold shops in Bangkok\u2019s Yaowarat area were bustling with customers on Friday after prices opened sharply lower than the day before, with buyers and sellers closely monitoring frequent price movements throughout the day",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-20T11:20:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 33.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "All 146 Air Niugini plane passengers, crew safe after an emergency landing in Philippines",
+        "link": "https://www.channelnewsasia.com/asia/air-niugini-boeing-emergency-landing-philippines-6571121",
+        "snippet": "Pilots reported that they detected, through an indicator, possible sparks or fire in the right engine of the Boeing 767-383ER.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-21T03:10:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 32.8,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
         ]
       }
     ],
     "World Affairs": [
       {
-        "title": "After Bridge Attack, Putin Says He Will \u2018Not Be Negotiating\u2019 Ukraine Cease-Fire",
-        "link": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
-        "snippet": "The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations. It was unclear how serious the offer was.",
+        "title": "The War Is Ravaging Ukraine\u2019s Wildlife, Too",
+        "link": "https://www.nytimes.com/2026/11/20/world/europe/ukraine-wildlife-war.html",
+        "snippet": "The war in Ukraine has had untold consequences for dolphins, moose, storks and a huge range of other wildlife whose habitats are now rife with anti-drone netting, minefields or in the direct line of fire.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-19T16:51:57+00:00",
+        "published_utc": "2026-11-20T23:05:46+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 41.4,
+        "score": 46.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "China issues Mount Fuji warning as family of missing climber offers reward",
-        "link": "https://www.bbc.co.uk/news/articles/c61wr088jnzzo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The $75,000 reward offered by Chen Jie's family has sparked fears of more reckless climbing attempts.",
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "snippet": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-20T04:13:22+00:00",
+        "published_utc": "2026-11-20T22:37:09+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 41.2,
+        "score": 44.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
         ]
       },
       {
-        "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
-        "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-        "snippet": "The bridge - a symbol of Russia's occupation of the Crimean Peninsula - suffered major damaged following a combined attack by Ukraine earlier this week.",
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "snippet": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-19T13:07:35+00:00",
+        "published_utc": "2026-11-20T17:49:48+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 40.9,
-        "corroboration_count": 2,
+        "score": 43.9,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World",
-          "Fox News \u2014 World"
+          "BBC \u2014 World"
         ]
       },
       {
-        "title": "Technology Promised Ease. Outages Are Making Many Americans Uneasy.",
-        "link": "https://www.nytimes.com/2026/11/19/us/tech-outages-computer-networks.html",
-        "snippet": "The recent spate of tech disruptions has forced Americans to reckon with how dependent they have become on worldwide computer networks.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-20T01:52:38+00:00",
+        "title": "Man convicted of starting Palisades fire in Los Angeles",
+        "link": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
+        "snippet": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-21T04:34:00+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 40.2,
+        "score": 40.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
+          "BBC \u2014 World"
         ]
       }
     ],
     "Geopolitics": [
       {
-        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-        "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-        "snippet": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-20T00:50:24+00:00",
+        "title": "Britain Announces Brexit Reset Deal at E.U. Summit: What to Know",
+        "link": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html",
+        "snippet": "Prime Minister Andy Burnham and European leaders said they had agreed to remove some of the barriers created when Britain left the European Union.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-20T16:50:16+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 43.7,
+        "score": 37.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "UK and EU to agree youth mobility scheme, BBC understands",
-        "link": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-        "snippet": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-20T04:35:51+00:00",
+        "title": "\u2018Russian Objects\u2019 Crashed in Poland, Officials Say. Here\u2019s What We Can See.",
+        "link": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html",
+        "snippet": "There were no injuries or damage from three incidents that the Polish authorities called a likely \u201cprovocation\u201d from Russia during military exercises by Ukraine\u2019s allies.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-20T20:30:59+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 43.3,
+        "score": 37.0,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "The New York Times \u2014 World"
         ]
       },
       {
-        "title": "Nvidia Asked to Sell Chips to Companies Tied to Chinese Military and Megaspeed",
-        "link": "https://www.nytimes.com/2026/11/19/business/economy/nvidia-chips-commerce-china-huang.html",
-        "snippet": "Lawmakers released confidential information showing the Commerce Department had approved sales of more than 800,000 A.I. chips to Chinese companies, some with military ties.",
+        "title": "Bob Woodward Is Scared as Hell",
+        "link": "https://foreignpolicy.com/2026/11/20/bob-woodward-memoir-secrets-review/",
+        "snippet": "In his new memoir, the legendary reporter asks why presidents keep starting dumb wars\u2014and worries about the future.",
+        "source_domain": "foreignpolicy.com",
+        "outlet_name": "Foreign Policy",
+        "published_utc": "2026-11-20T19:40:17+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 35.7,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Foreign Policy"
+        ]
+      },
+      {
+        "title": "Pop Culture Still Can\u2019t Figure Out Drone Warfare",
+        "link": "https://foreignpolicy.com/2026/11/20/drone-warfare-movies-tv-culture-video-games-ukraine-war/",
+        "snippet": "Hollywood seems oblivious to the radically new nature of war. Why, exactly?",
+        "source_domain": "foreignpolicy.com",
+        "outlet_name": "Foreign Policy",
+        "published_utc": "2026-11-20T19:20:52+00:00",
+        "stack": "Geopolitics",
+        "stack_tag": "GEOPOLITICS",
+        "score": 34.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Foreign Policy"
+        ]
+      }
+    ],
+    "Healthcare & Biotech": [
+      {
+        "title": "Bobby Ray Inman, Intelligence Official Under Carter and Reagan, Dies at 95",
+        "link": "https://www.nytimes.com/2026/11/20/us/bobby-ray-inman-dead.html",
+        "snippet": "An admiral who was a well-regarded director of the National Security Agency and deputy director of central intelligence, he turned down a nomination from President Bill Clinton to be secretary of defense.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-11-21T02:40:42+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 41.6,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Marsha Linehan Has Died. She Transformed Treatment for Personality Disorder.",
+        "link": "https://www.nytimes.com/2026/11/19/well/mind/marsha-linehan-dead.html",
+        "snippet": "After her methods proved effective, she revealed that she had battled her own borderline personality disorder as a child.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Health",
+        "published_utc": "2026-11-21T01:28:23+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 40.1,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Health"
+        ]
+      },
+      {
+        "title": "Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer",
+        "link": "https://www.nytimes.com/2026/11/20/business/judge-approves-7-billion-settlement-over-claims-that-roundup-caused-cancer.html",
+        "snippet": "The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Health",
+        "published_utc": "2026-11-21T03:23:04+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 33.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Health"
+        ]
+      },
+      {
+        "title": "STAT+: FDA rejects Capricor Therapeutics\u2019 Duchenne therapy, a decision that was a long time coming",
+        "link": "https://www.statnews.com/2026/11/20/fda-rejects-capricor-duchenne-therapy/?utm_campaign=rss",
+        "snippet": "The FDA said it had rejected a cell therapy intended for patients with Duchenne muscular dystrophy developed by Capricor Therapeutics.",
+        "source_domain": "statnews.com",
+        "outlet_name": "STAT News",
+        "published_utc": "2026-11-20T23:43:53+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 33.4,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "STAT News"
+        ]
+      }
+    ],
+    "Technology & AI": [
+      {
+        "title": "Nvidia Said to Face S.E.C. Probe Into Its Accounting Practices",
+        "link": "https://www.nytimes.com/2026/11/20/business/nvidia-sec-accounting.html",
+        "snippet": "Questions around the company\u2019s accounting had surfaced amid revelations about its questionable chip sales in Asia.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-20T01:13:38+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
+        "published_utc": "2026-11-21T01:06:52+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
         "score": 40.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
@@ -305,139 +395,45 @@
         ]
       },
       {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "link": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-        "snippet": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-20T05:03:43+00:00",
-        "stack": "Geopolitics",
-        "stack_tag": "GEOPOLITICS",
-        "score": 33.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      }
-    ],
-    "Healthcare & Biotech": [
-      {
-        "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
-        "link": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
-        "snippet": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn\u2019t anymore\", the zoo says.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-19T23:40:29+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 40.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "4 British Men Convicted of Sexually Assaulting Joanne Young",
-        "link": "https://www.nytimes.com/2026/11/19/world/europe/uk-joanne-young-abuse-conviction.html",
-        "snippet": "A jury rejected the men\u2019s defense that they had been relying on assurances from Joanne Young\u2019s husband \u2014 who himself has pleaded guilty to rape \u2014 that she had consented.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-20T02:02:53+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 40.3,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
-        "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-        "snippet": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-20T00:13:21+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 39.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "Anthropic\u2019s I.P.O. Turns Tech Researchers Into Overnight Millionaires",
-        "link": "https://www.nytimes.com/2026/11/19/technology/anthropic-ipo-employees-payout.html",
-        "snippet": "Many people who joined the A.I. company a few years ago might have had little reason to think how big Anthropic would become. They are now worth tens of millions of dollars, if not more.",
+        "title": "Many Etsy Sellers Close Up Shop Over Site\u2019s New A.I. Policy",
+        "link": "https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html",
+        "snippet": "Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-20T00:25:47+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 38.6,
+        "published_utc": "2026-11-20T21:50:44+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 37.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
-      }
-    ],
-    "Technology & AI": [
+      },
       {
-        "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-        "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-        "snippet": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-19T23:33:51+00:00",
+        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+        "snippet": "Techies are building technology that can advance all aspects of the world \u2014 but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+        "source_domain": "techcrunch.com",
+        "outlet_name": "TechCrunch",
+        "published_utc": "2026-11-20T20:58:29+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 40.2,
+        "score": 37.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "TechCrunch"
         ]
       },
       {
-        "title": "Vimeo Promo Codes: 40% Off This November 2026",
-        "link": "https://www.wired.com/story/vimeo-promo-code/",
-        "snippet": "Enjoy 25% off a membership, 40% off, plus an additional 10% off annual plans, and more deals to save at Vimeo.",
+        "title": "Jensen Huang\u2019s \u2018Lying\u2019 Alarmed Nvidia Board Ahead of His Resignation",
+        "link": "https://www.wired.com/story/jensen-huangs-lying-alarmed-nvidia-board-ahead-of-his-resignation/",
+        "snippet": "Amid allegations of multiple affairs, including with a direct report and an alleged Chinese intelligence asset, sources tell WIRED the Nvidia board\u2019s main issue was the former CEO\u2019s \u201clack of candor.\u201d",
         "source_domain": "wired.com",
         "outlet_name": "Wired",
-        "published_utc": "2026-11-20T06:00:00+00:00",
+        "published_utc": "2026-11-20T19:52:21+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.9,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "Wired"
-        ]
-      },
-      {
-        "title": "California targets Nvidia in China AI chip probe",
-        "link": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
-        "snippet": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-19T23:04:30+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 35.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "Expedia Coupons: 50% Off",
-        "link": "https://www.wired.com/story/expedia-coupon/",
-        "snippet": "Book your next getaway with Expedia and get up to 75% off your stay, with or without a promo code.",
-        "source_domain": "wired.com",
-        "outlet_name": "Wired",
-        "published_utc": "2026-11-20T06:00:00+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 34.9,
+        "score": 36.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Wired"
@@ -446,60 +442,60 @@
     ],
     "Business & Finance": [
       {
-        "title": "Delaware Regulator Says It Was \u2018Misled\u2019 About Mark Walter\u2019s Insurance Assets",
-        "link": "https://www.nytimes.com/2026/11/19/business/delaware-regulator-mark-walters-insurance.html",
-        "snippet": "The state\u2019s insurance agency rejected criticism of its oversight of Mr. Walter\u2019s insurance firms that has been raised by some industry analysts.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-20T02:13:05+00:00",
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-20T22:42:47+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 48.3,
+        "score": 40.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
+        ]
+      },
+      {
+        "title": "Grand Theft Auto VI Made $3.79 Billion in a Single Day",
+        "link": "https://www.nytimes.com/2026/11/20/arts/grand-theft-auto-vi-sales-revenue.html",
+        "snippet": "Anticipation was high after a 13-year gap in the game franchise. No movie has ever made more than $3 billion at the box office.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-20T21:21:40+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 38.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "Anthropic\u2019s 7 founders cashed out nearly $2B in record-breaking IPO",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
-        "snippet": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
-        "source_domain": "techcrunch.com",
-        "outlet_name": "TechCrunch",
-        "published_utc": "2026-11-20T00:43:50+00:00",
+        "title": "Sadia Supermarket instructed to stop selling Red Bull drinks without return label: NEA",
+        "link": "https://www.straitstimes.com/singapore/sadia-supermarket-instructed-to-stop-selling-red-bull-drinks-without-return-label-nea",
+        "snippet": "Sadia Supermarket has removed all affected beverages from their store in Tuas South Recreation Centre.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-11-21T05:50:00+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 44.7,
+        "score": 35.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "TechCrunch"
+          "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "This Billionaire Just Made a Bundle Off A.I. But It Could Have Been More.",
-        "link": "https://www.nytimes.com/2026/11/19/business/anthropic-openai-gregory-jensen.html",
-        "snippet": "Gregory Jensen, a hedge-fund billionaire, invested early in Anthropic and OpenAI. But to fund a succession plan at his firm, he told colleagues that he sold his OpenAI stake.",
+        "title": "Nissan Shuts Down System Used for Repairs After Hack Attempt",
+        "link": "https://www.nytimes.com/2026/11/20/business/nissan-reapirs-hack-technology.html",
+        "snippet": "The outage, which began a week ago, could delay repairs involving vehicle electronics and key fobs.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-20T02:44:43+00:00",
+        "published_utc": "2026-11-20T19:39:27+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 38.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "What You Should Know About Downdetector Before the Next Big Tech Outage",
-        "link": "https://www.nytimes.com/2026/11/19/technology/downdetector-tech-outages-microsoft-chase-apple.html",
-        "snippet": "The website has been checked and cited often during an unusually busy week of technology problems, though its operators acknowledge its limitations.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-19T21:39:12+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 35.4,
+        "score": 35.7,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
