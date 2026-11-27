@@ -1,82 +1,81 @@
 {
-  "generated_at": "2026-11-26T07:21:58.134376+00:00",
+  "generated_at": "2026-11-27T07:18:41.275600+00:00",
   "mode": "daily",
   "window_hours": 24,
   "stacks": {
     "Singapore": [
       {
-        "title": "Nvidia halts server shipments to Southeast Asia",
-        "link": "https://www.bangkokpost.com/business/general/3361629/nvidia-halts-server-shipments-to-southeast-asia",
-        "snippet": "Nvidia has told \u200bits manufacturing partners \u200cto stop shipping servers containing its chips to Thailand, Malaysia, Singapore and Indonesia, the Financial Times reported \u200bon Thursday.",
-        "source_domain": "bangkokpost.com",
-        "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-26T05:54:00+00:00",
+        "title": "Cremation, burial to cost more from 2027, ash-scattering will be cheaper",
+        "link": "https://www.straitstimes.com/singapore/community/cremation-burial-to-cost-more-from-2027-ash-scattering-will-be-cheaper",
+        "snippet": "Lower-income households on ComCare or ComLink+ will be eligible for free essential after-death services.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-11-27T07:00:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 49.4,
-        "corroboration_count": 2,
+        "score": 35.9,
+        "corroboration_count": 1,
         "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories",
-          "CNA \u2014 Singapore"
+          "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "Singapore's The Violinist eligible for consideration for Oscars 2027, shortlisted for Critics Choice Award",
-        "link": "https://www.channelnewsasia.com/entertainment/violinist-singapore-animated-film-oscars-2027-critics-choice-6584326",
-        "snippet": "The Singapore-led animated film is among a record 38 titles eligible for Best Animated Feature at the 99th Academy Awards. Its score, composed by Ricky Ho and Isabel Latorre, has also been shortlisted for a Critics...",
+        "title": "Cremation, burial and niche fees to increase from Jan 1, 2027; first hike in over 25 years",
+        "link": "https://www.channelnewsasia.com/singapore/cremation-burial-niche-fees-increase-death-ash-scattering-6584701",
+        "snippet": "The fee increases have been driven by higher costs amid growing demand for after-death services.",
         "source_domain": "channelnewsasia.com",
         "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-26T07:12:00+00:00",
+        "published_utc": "2026-11-27T07:00:00+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 40.9,
+        "score": 34.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "CNA \u2014 Singapore"
         ]
       },
       {
-        "title": "Has global jihadism failed, or is it simply changing shape?",
-        "link": "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro?at_medium=RSS&at_campaign=rss",
-        "snippet": "Jihadist groups appear to be focusing on local issues rather than global terror. Does it signify a real change?",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-26T00:22:18+00:00",
+        "title": "Hyundai recalls EV model in Singapore due to faulty braking issue",
+        "link": "https://www.straitstimes.com/singapore/transport/hyundai-recalls-ev-model-in-singapore-due-to-faulty-braking-issue",
+        "snippet": "Spare part needed for fix is available from February 2027.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-11-27T06:08:22+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 38.1,
+        "score": 34.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "BBC \u2014 World"
+          "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "Sinner to miss Australian Open after undergoing surgery on knee injury",
-        "link": "https://www.channelnewsasia.com/sport/sinner-miss-australian-open-after-undergoing-surgery-knee-injury-6584331",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-26T05:39:24+00:00",
+        "title": "JPMorgan, BlackRock, Endowus put in bid to manage slice of Singapore\u2019s CPF savings",
+        "link": "https://www.businesstimes.com.sg/companies-markets/banking-finance/jpmorgan-blackrock-endowus-put-bid-manage-slice-singapores-cpf-savings",
+        "snippet": "Just S$22 billion \u2013 or 3% \u2013 of net assets currently invested in optional investment plan",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-11-27T03:31:26+00:00",
         "stack": "Singapore",
         "stack_tag": "SG",
-        "score": 34.3,
+        "score": 33.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "CNA \u2014 Singapore"
+          "The Business Times \u2014 Singapore"
         ]
       }
     ],
     "United States": [
       {
-        "title": "Flights at Miami Airport Are Disrupted After FedEx Jet Overshoots Runway",
-        "link": "https://www.nytimes.com/2026/11/26/us/fedex-plane-miami-airport.html",
-        "snippet": "The plane overran a runway after landing at Miami International Airport on Wednesday, and stopped near a fence. FedEx said there were no injuries.",
+        "title": "Pregnant Inmate Escapes in New Mexico Prison Transport Vehicle",
+        "link": "https://www.nytimes.com/2026/11/26/us/pregnant-inmate-escapes-new-mexico.html",
+        "snippet": "The inmate, Rebecca Taylor, 26, took control of the S.U.V. in a Whataburger parking lot as she was being returned to prison from a prenatal appointment, the authorities said.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-26T05:14:22+00:00",
+        "published_utc": "2026-11-27T00:23:58+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 56.1,
+        "score": 52.1,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "BBC \u2014 World",
@@ -84,107 +83,107 @@
         ]
       },
       {
-        "title": "Trump Rejoiced in the Market\u2019s Nvidia Surge. It Didn\u2019t Last Long.",
-        "link": "https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html",
-        "snippet": "The retreat of the stock market in recent days shows how President Trump\u2019s push to reinstall the company\u2019s chief executive has collided with the realities of his other policies.",
+        "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+        "link": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+        "snippet": "The famed pier in Pacifica, Calif., had long been crumbling. This week, a portion of it succumbed to fierce waves and toppled into the sea.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-26T01:53:20+00:00",
+        "published_utc": "2026-11-27T00:46:52+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 45.7,
+        "score": 45.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize",
-        "link": "https://www.nytimes.com/2026/11/25/us/ice-arrest-boston-lottery-winner.html",
-        "snippet": "Ariel Velasquez-Morales, a native of El Salvador, smiled in a picture with a giant check. The image led immigration agents to him, and he is set for deportation.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-25T21:22:54+00:00",
-        "stack": "United States",
-        "stack_tag": "US",
-        "score": 41.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 U.S."
-        ]
-      },
-      {
-        "title": "South African President Wins Reprieve From \u2018Farmgate\u2019 Impeachment Investigation",
-        "link": "https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html",
-        "snippet": "A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.",
+        "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+        "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html",
+        "snippet": "The deaths follow a series of strikes on Gulf Arab states that host U.S. military facilities in recent weeks as talks to end the war continue to stall.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-25T16:22:17+00:00",
+        "published_utc": "2026-11-26T19:33:06+00:00",
         "stack": "United States",
         "stack_tag": "US",
-        "score": 40.8,
+        "score": 41.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+        "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-26T22:49:27+00:00",
+        "stack": "United States",
+        "stack_tag": "US",
+        "score": 40.5,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "BBC \u2014 World"
         ]
       }
     ],
     "Southeast Asia (SEA)": [
       {
-        "title": "Thai Princess Sirivannavari\u2019s fashion label designs uniforms for The Langham Bangkok",
-        "link": "https://www.channelnewsasia.com/obsessions/langham-bangkok-thai-princess-uniforms-6584321",
-        "snippet": "Founded by Princess Sirivannavari Nariratana Rajakanya, the Thai fashion label makes its debut in hospitality uniform design with a collection inspired by traditional Thai dress and Bangkok\u2019s historic Custom House.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-26T07:17:44+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 36.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain",
-        "link": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html",
-        "snippet": "Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shaft flooded.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-26T06:30:00+00:00",
-        "stack": "Southeast Asia (SEA)",
-        "stack_tag": "SEA",
-        "score": 35.6,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "Why a gin and tonic beats the collection basket",
-        "link": "https://www.bangkokpost.com/business/general/3361619/why-a-gin-and-tonic-beats-the-collection-basket",
-        "snippet": "When I lived in a small village in Spain many years ago, my young son asked me a question one Sunday as we walked out of Mass. \u201cDad, why does everyone put only a few coins in the basket?\u201d",
+        "title": "Hong Kong couple arrested for allegedly tampering with passport",
+        "link": "https://www.bangkokpost.com/world/3362215/hong-kong-couple-arrested-for-allegedly-tampering-with-passport",
+        "snippet": "Hong Kong's Immigration Department has arrested a woman and her boyfriend for allegedly altering a travel document unlawfully after she took to social media to complain about a \"manufacturing defect\" in her passport...",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-26T04:22:00+00:00",
+        "published_utc": "2026-11-27T06:50:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 33.8,
+        "score": 35.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
         ]
       },
       {
-        "title": "New US tariffs worry Thai exporters",
-        "link": "https://www.bangkokpost.com/business/general/3361264/new-us-tariffs-worry-thai-exporters",
-        "snippet": "Business executives and analysts have voiced concerns over a fresh round of US tariffs targeting excess factory capacity and industrial subsidies across 16 major trading partners including Thailand, saying the move...",
+        "title": "650,000 flood-hit households still await relief funds",
+        "link": "https://www.bangkokpost.com/thailand/general/3362201/650000-floodhit-households-still-await-relief-funds",
+        "snippet": "Two months after the floods, 25% relief applications are still waiting on compensation.",
         "source_domain": "bangkokpost.com",
         "outlet_name": "Bangkok Post \u2014 Top Stories",
-        "published_utc": "2026-11-26T02:45:00+00:00",
+        "published_utc": "2026-11-27T06:14:00+00:00",
         "stack": "Southeast Asia (SEA)",
         "stack_tag": "SEA",
-        "score": 32.1,
+        "score": 34.6,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "Executives wary of tariff effect on exports",
+        "link": "https://www.bangkokpost.com/business/general/3362039/executives-wary-of-tariff-effect-on-exports",
+        "snippet": "The US's proposed 18% tariff on Thai exports, although broadly in line with rates imposed on other competing Asian economies and less than Vietnam's 20% rate, could weigh on Thailand's export performance in 2027, with...",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-26T22:35:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 34.4,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "Bangkok Post \u2014 Top Stories"
+        ]
+      },
+      {
+        "title": "Conciliators to visit Thai-Cambodian disputed sea border for first time",
+        "link": "https://www.bangkokpost.com/thailand/general/3362186/conciliators-to-visit-thaicambodian-disputed-sea-border-for-first-time",
+        "snippet": "Talks aimed at resolving the unsettled maritime boundary between Thailand and Cambodia are moving from the negotiating table to the sea by a site visit of the panel tasked to find a solution to the long-standing issue.",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-27T05:08:00+00:00",
+        "stack": "Southeast Asia (SEA)",
+        "stack_tag": "SEA",
+        "score": 33.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Bangkok Post \u2014 Top Stories"
@@ -193,15 +192,46 @@
     ],
     "World Affairs": [
       {
-        "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
-        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-        "snippet": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+        "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+        "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+        "snippet": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-26T03:27:33+00:00",
+        "published_utc": "2026-11-27T03:28:15+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 48.4,
+        "score": 53.4,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "BBC \u2014 World",
+          "CNA \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream",
+        "link": "https://www.nytimes.com/2026/11/26/world/europe/europe-preppers-survivalists-cyberattacks-threats.html",
+        "snippet": "More governments in Europe are telling citizens to prepare for emergencies. After unexpected disruptions, many are listening.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-26T18:23:08+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 43.6,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
+        ]
+      },
+      {
+        "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+        "link": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-26T14:35:22+00:00",
+        "stack": "World Affairs",
+        "stack_tag": "WORLD",
+        "score": 43.0,
         "corroboration_count": 2,
         "corroborating_outlets": [
           "BBC \u2014 World",
@@ -209,233 +239,203 @@
         ]
       },
       {
-        "title": "US announces new tariffs on host of countries including China",
-        "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-        "snippet": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+        "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "snippet": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
         "source_domain": "bbc.co.uk",
         "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-26T04:10:58+00:00",
+        "published_utc": "2026-11-27T05:15:26+00:00",
         "stack": "World Affairs",
         "stack_tag": "WORLD",
-        "score": 42.7,
+        "score": 42.1,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "California warns of flooding as King Tides peak over Thanksgiving",
-        "link": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-        "snippet": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
-        "source_domain": "bbc.co.uk",
-        "outlet_name": "BBC \u2014 World",
-        "published_utc": "2026-11-26T01:22:55+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 40.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "BBC \u2014 World"
-        ]
-      },
-      {
-        "title": "Island Paradise of Mauritius Has Sun, Beaches and Too Many Dogs",
-        "link": "https://www.nytimes.com/2026/11/25/world/africa/maritius-stray-dogs.html",
-        "snippet": "Mauritius, a popular tourist destination off southern Africa, has become overrun with strays. With more and more residents chased and attacked, many are fed up.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-25T20:40:27+00:00",
-        "stack": "World Affairs",
-        "stack_tag": "WORLD",
-        "score": 39.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
         ]
       }
     ],
     "Geopolitics": [
       {
-        "title": "Ukraine\u2019s Shadow War in Africa",
-        "link": "https://foreignpolicy.com/2026/11/25/ukraine-russia-proxy-war-africa-libya-ship-attack/",
-        "snippet": "The continent is increasingly becoming a proxy theater in the Russia-Ukraine conflict.",
-        "source_domain": "foreignpolicy.com",
-        "outlet_name": "Foreign Policy",
-        "published_utc": "2026-11-26T00:00:59+00:00",
+        "title": "Iran warns on Gulf military presence as South Korea readies expanded naval role",
+        "link": "https://www.channelnewsasia.com/world/iran-warns-gulf-military-presence-south-korea-6586851",
+        "snippet": "Iran warned South Korea that an expanded foreign military presence in the Gulf could heighten tensions and widen the conflict.",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-27T06:22:00+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 37.9,
+        "score": 40.6,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "Foreign Policy"
+          "CNA \u2014 Singapore"
         ]
       },
       {
-        "title": "North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War",
-        "link": "https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html",
-        "snippet": "The move followed Switzerland\u2019s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-25T17:00:25+00:00",
+        "title": "Whoop Promo Codes: 20% Off This November 2026",
+        "link": "https://www.wired.com/story/whoop-promo-code/",
+        "snippet": "Whether you're looking for a Whoop free trial, student discount, or military savings, our guide to Whoop promo codes will help you maximize your membership benefits. Stay on top of your fitness goals for less.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-11-27T06:00:00+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 35.0,
+        "score": 28.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
+          "Wired"
         ]
       },
       {
-        "title": "Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says",
-        "link": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html",
-        "snippet": "Gadi Eisenkot, a former military chief, has set Dec. 6 as the deadline to form a new Israeli government. His ally, Avigdor Liberman, said Mr. Eisenkot was on track.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-25T18:12:36+00:00",
+        "title": "New UK-EU treaty has 10-year termination clause",
+        "link": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+        "snippet": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+        "source_domain": "bbc.co.uk",
+        "outlet_name": "BBC \u2014 World",
+        "published_utc": "2026-11-26T15:23:17+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 34.5,
+        "score": 27.4,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
+          "BBC \u2014 World"
         ]
       },
       {
-        "title": "Was Japan Prime Minister Takaichi Snubbed at China\u2019s Big Summit?",
-        "link": "https://www.nytimes.com/2026/11/26/world/asia/japan-china-takaichi-snubbed.html",
-        "snippet": "Images show the differences between the welcomes afforded to Sanae Takaichi and other world leaders in Shenzhen, as some officials in Japan cry foul.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-26T07:14:18+00:00",
+        "title": "PM vows to keep armed forces ready",
+        "link": "https://www.bangkokpost.com/thailand/general/3361889/pm-vows-to-keep-armed-forces-ready",
+        "snippet": "Prime Minister Anutin Charnvirakul has pledged to fund national defence and military preparedness to ensure the armed forces are ready to protect the country's sovereignty.",
+        "source_domain": "bangkokpost.com",
+        "outlet_name": "Bangkok Post \u2014 Top Stories",
+        "published_utc": "2026-11-26T22:11:00+00:00",
         "stack": "Geopolitics",
         "stack_tag": "GEOPOLITICS",
-        "score": 33.9,
+        "score": 26.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The New York Times \u2014 World"
+          "Bangkok Post \u2014 Top Stories"
         ]
       }
     ],
     "Healthcare & Biotech": [
       {
-        "title": "Medicare Hospice Caps Leave Patients Without Care",
-        "link": "https://www.nytimes.com/2026/11/24/business/medicare-hospice-caps-patients-lose-care.html",
-        "snippet": "Critics say the payment limits to companies penalize patients who are not dying on the government\u2019s timetable.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Health",
-        "published_utc": "2026-11-25T19:35:44+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 39.1,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Health"
-        ]
-      },
-      {
-        "title": "Africa C.D.C. Chief Faces Turmoil Over Management Amid Ebola Crisis",
-        "link": "https://www.nytimes.com/2026/11/25/world/africa/acdc-kaseya-staff-ebola.html",
-        "snippet": "Scrutiny has fallen on Dr. Jean Kaseya, the director general of the Africa Centers for Disease Control and Prevention, after reports of staff intimidation and mismanagement of funds.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 World",
-        "published_utc": "2026-11-26T00:11:25+00:00",
-        "stack": "Healthcare & Biotech",
-        "stack_tag": "HEALTH",
-        "score": 37.0,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 World"
-        ]
-      },
-      {
-        "title": "A Man in Denver Has Been Throwing Eggs at Waymo Vehicles",
-        "link": "https://www.nytimes.com/2026/11/25/us/waymo-denver-egg-throwing.html",
-        "snippet": "The man, who drove a Toyota Corolla from a fleet leased to Lyft drivers, used orange cones to trap the self-driving vehicles before pelting them with eggs, the police said. No charges have been filed.",
+        "title": "Thanksgiving Is Back on the Menu for Francesca Hong, the Failed Wisconsin Governor Candidate",
+        "link": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html",
+        "snippet": "Francesca Hong, who took heat over a social media post condemning the holiday during her run for the Democratic nomination, now has regrets \u2014 and is laughing it all off.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 U.S.",
-        "published_utc": "2026-11-25T21:36:34+00:00",
+        "published_utc": "2026-11-26T21:15:36+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 36.9,
+        "score": 35.8,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 U.S."
         ]
       },
       {
-        "title": "Edric Pan to be managing partner of Dentons Rodyk & Davidson",
-        "link": "https://www.businesstimes.com.sg/singapore/economy-policy/edric-pan-be-managing-partner-dentons-rodyk-davidson",
-        "snippet": "He will replace Gerald Singham who has served as managing partner since 2020",
-        "source_domain": "businesstimes.com.sg",
-        "outlet_name": "The Business Times \u2014 Singapore",
-        "published_utc": "2026-11-26T05:39:12+00:00",
+        "title": "Who Picked This Gift? My A.I. Holiday Shopper.",
+        "link": "https://www.nytimes.com/2026/11/26/business/holiday-shopping-ai-agents.html",
+        "snippet": "From virtual agents on A.I. platforms to store helpers like Walmart\u2019s Sparky, consumers are using the technology to save money and time.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-26T15:13:32+00:00",
         "stack": "Healthcare & Biotech",
         "stack_tag": "HEALTH",
-        "score": 35.3,
+        "score": 34.3,
         "corroboration_count": 1,
         "corroborating_outlets": [
-          "The Business Times \u2014 Singapore"
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Strobe Talbott, Journalist Who Joined Clinton\u2019s State Department, Has Died",
+        "link": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html",
+        "snippet": "He was a reporter and foreign affairs columnist at Time and then served as deputy secretary of state and president of the Brookings Institution. He was 80.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 U.S.",
+        "published_utc": "2026-11-26T19:53:46+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 34.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 U.S."
+        ]
+      },
+      {
+        "title": "Attack Blamed on ISIS Kills 2 Syrian Security Force Members",
+        "link": "https://www.nytimes.com/2026/11/26/world/middleeast/isis-attack-syria.html",
+        "snippet": "The assault on a security headquarters in the northeastern city of Hasakah was carried out by four militants who local officials linked to the Islamic State.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 World",
+        "published_utc": "2026-11-26T11:08:41+00:00",
+        "stack": "Healthcare & Biotech",
+        "stack_tag": "HEALTH",
+        "score": 31.6,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 World"
         ]
       }
     ],
     "Technology & AI": [
       {
-        "title": "Nvidia halts chip shipments to Southeast Asia: Report",
-        "link": "https://www.channelnewsasia.com/asia/nvidia-halts-chip-shipments-southeast-asia-6584351",
-        "snippet": "Move comes as US steps up export controls to prevent Chinese access to AI computing power.",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-26T06:11:00+00:00",
+        "title": "AI here to stay despite tech bifurcation: OCBC chief Tan Teck Long",
+        "link": "https://www.businesstimes.com.sg/singapore/ai-here-stay-despite-tech-bifurcation-ocbc-chief-tan-teck-long",
+        "snippet": "Asia has a role to play in shaping how artificial intelligence is used, he says",
+        "source_domain": "businesstimes.com.sg",
+        "outlet_name": "The Business Times \u2014 Singapore",
+        "published_utc": "2026-11-27T02:17:35+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 46.5,
+        "score": 44.9,
         "corroboration_count": 2,
         "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories",
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Nvidia halts chip shipments to Southeast Asia, FT reports",
-        "link": "https://www.channelnewsasia.com/business/nvidia-halts-chip-shipments-southeast-asia-ft-reports-6584251",
-        "snippet": "",
-        "source_domain": "channelnewsasia.com",
-        "outlet_name": "CNA \u2014 Singapore",
-        "published_utc": "2026-11-26T05:09:44+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 40.1,
-        "corroboration_count": 2,
-        "corroborating_outlets": [
-          "Bangkok Post \u2014 Top Stories",
-          "CNA \u2014 Singapore"
-        ]
-      },
-      {
-        "title": "Are we facing a \u2018new normal\u2019 with data breaches, AI hacking and mass outages?",
-        "link": "https://www.straitstimes.com/singapore/are-we-facing-a-new-normal-with-data-breaches-ai-hacking-and-mass-outages",
-        "snippet": "It's the start of what\u2019s going to be a very rough 12 to 18 months for cyber safety, said one expert.",
-        "source_domain": "straitstimes.com",
-        "outlet_name": "The Straits Times \u2014 Singapore",
-        "published_utc": "2026-11-26T06:05:00+00:00",
-        "stack": "Technology & AI",
-        "stack_tag": "TECH",
-        "score": 35.5,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
+          "The Business Times \u2014 Singapore",
           "The Straits Times \u2014 Singapore"
         ]
       },
       {
-        "title": "Lenovo Coupon Codes: 15% Off in November 2026",
-        "link": "https://www.wired.com/story/lenovo-coupon-code/",
-        "snippet": "Whether you\u2019re shopping for a ThinkPad, Yoga laptop, or Legion gaming PC, these Lenovo discount codes and promotions can help you save big on your next tech upgrade.",
-        "source_domain": "wired.com",
-        "outlet_name": "Wired",
-        "published_utc": "2026-11-26T06:00:00+00:00",
+        "title": "AI here to stay despite tech bifurcation: OCBC chief",
+        "link": "https://www.straitstimes.com/singapore/ai-here-to-stay-despite-tech-bifurcation-ocbc-chief",
+        "snippet": "Tan Teck Long said Asia has a role to play in shaping how artificial intelligence is used.",
+        "source_domain": "straitstimes.com",
+        "outlet_name": "The Straits Times \u2014 Singapore",
+        "published_utc": "2026-11-27T04:15:00+00:00",
         "stack": "Technology & AI",
         "stack_tag": "TECH",
-        "score": 35.4,
+        "score": 43.7,
+        "corroboration_count": 2,
+        "corroborating_outlets": [
+          "The Business Times \u2014 Singapore",
+          "The Straits Times \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "Russian AI model fills void in unfinished Gogol novel. Not everyone is happy",
+        "link": "https://www.channelnewsasia.com/business/russian-ai-model-fills-void-in-unfinished-gogol-novel-not-everyone-happy-6587046",
+        "snippet": "",
+        "source_domain": "channelnewsasia.com",
+        "outlet_name": "CNA \u2014 Singapore",
+        "published_utc": "2026-11-27T07:03:24+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 35.9,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "CNA \u2014 Singapore"
+        ]
+      },
+      {
+        "title": "A New Breed of Chip Runs AI Models Using Waves of Light",
+        "link": "https://www.wired.com/story/a-new-breed-of-chip-runs-ai-models-using-waves-of-light/",
+        "snippet": "German company Q.ANT is trying to cut the amount of energy required to run AI models by using light to perform the toughest calculations.",
+        "source_domain": "wired.com",
+        "outlet_name": "Wired",
+        "published_utc": "2026-11-27T07:00:00+00:00",
+        "stack": "Technology & AI",
+        "stack_tag": "TECH",
+        "score": 35.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "Wired"
@@ -444,30 +444,45 @@
     ],
     "Business & Finance": [
       {
-        "title": "A Rumored $300 Million Score on Nvidia\u2019s Stock Surge Isn\u2019t Backed by Trading Records",
-        "link": "https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html",
-        "snippet": "Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.",
+        "title": "Jensen Huang Is Back, and So Is His Plaque at Denny\u2019s",
+        "link": "https://www.nytimes.com/2026/11/26/business/dennys-jensen-huang-nvidia-plaque.html",
+        "snippet": "The chain said it had restored a plaque honoring Mr. Huang above a booth in San Jose, Calif., after he was reinstated at Nvidia, the company he is said to have co-founded while eating there.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-25T21:36:24+00:00",
+        "published_utc": "2026-11-26T21:25:16+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 46.9,
+        "score": 38.9,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
         ]
       },
       {
-        "title": "In China, the \u2018Female Gaze\u2019 Is Driving a New Entertainment Boom",
-        "link": "https://www.nytimes.com/2026/11/26/business/china-women-spending-entertainment.html",
-        "snippet": "From male dancers to handsome hiking companions, a thriving entertainment industry is catering to female fantasies and testing the limits of Beijing\u2019s tolerance.",
+        "title": "European Central Bank Chooses Pablo Hern\u00e1ndez de Cos as Next President",
+        "link": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html",
+        "snippet": "The early exit of Christine Lagarde as president of the European Central Bank, and two looming vacancies on the board, will make way for new leadership at the institution.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-26T05:00:17+00:00",
+        "published_utc": "2026-11-26T19:41:35+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 42.0,
+        "score": 37.2,
+        "corroboration_count": 1,
+        "corroborating_outlets": [
+          "The New York Times \u2014 Business"
+        ]
+      },
+      {
+        "title": "Photos: Macy\u2019s Thanksgiving Day Parade History and Wacky Moments",
+        "link": "https://www.nytimes.com/2026/11/26/nyregion/macys-thanksgiving-parade-history-timeline.html",
+        "snippet": "It isn\u2019t always easy to keep New York City\u2019s Thanksgiving parade on track. Here\u2019s a look back at notable moments and mishaps.",
+        "source_domain": "nytimes.com",
+        "outlet_name": "The New York Times \u2014 Business",
+        "published_utc": "2026-11-27T03:39:46+00:00",
+        "stack": "Business & Finance",
+        "stack_tag": "FINANCE",
+        "score": 34.5,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
@@ -479,25 +494,10 @@
         "snippet": "A preliminary injunction halted an early regulatory review of the network\u2019s operations in eight cities, including New York, Los Angeles and Chicago.",
         "source_domain": "nytimes.com",
         "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-26T02:01:20+00:00",
+        "published_utc": "2026-11-27T05:19:06+00:00",
         "stack": "Business & Finance",
         "stack_tag": "FINANCE",
-        "score": 39.8,
-        "corroboration_count": 1,
-        "corroborating_outlets": [
-          "The New York Times \u2014 Business"
-        ]
-      },
-      {
-        "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-        "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html",
-        "snippet": "Nvidia and other tech companies fell as investors weighed developments in global trade and the path of interest rates.",
-        "source_domain": "nytimes.com",
-        "outlet_name": "The New York Times \u2014 Business",
-        "published_utc": "2026-11-25T21:32:42+00:00",
-        "stack": "Business & Finance",
-        "stack_tag": "FINANCE",
-        "score": 29.9,
+        "score": 33.2,
         "corroboration_count": 1,
         "corroborating_outlets": [
           "The New York Times \u2014 Business"
